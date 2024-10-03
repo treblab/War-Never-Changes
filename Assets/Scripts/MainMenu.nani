@@ -1,0 +1,4 @@
+@back MainMenuTitle time:0
+@spawn Rain wait:false
+@bgm MainMenu loop:true
+@stop
