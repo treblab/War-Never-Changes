@@ -168,12 +168,12 @@ MonoBehaviour:
       guid: dd85ce99288c2f8488447fa511b1c0d6
   - Id: Scripts
     Resources:
-    - name: Hello World
-      pathPrefix: Scripts
-      guid: 7d85e699a12df4b4cad5f13aa433a5c6
     - name: MainMenu
       pathPrefix: Scripts
       guid: ac624eda6c5ba684f9c12baa7238c04b
+    - name: IntroScene
+      pathPrefix: Scripts
+      guid: eb72014b4b8a5984f95a4cc261ced035
     - name: PharmacyScene
       pathPrefix: Scripts
       guid: dc345101da16a7049bc76eaa96aec9c7
@@ -202,6 +202,18 @@ MonoBehaviour:
     - name: MainMenuTitle
       pathPrefix: Backgrounds/MainBackground
       guid: 06417d2b05c750e4c96855e436d3d3ac
+    - name: FarWarCityShot
+      pathPrefix: Backgrounds/MainBackground
+      guid: b96baecf1a530c04786a77ba6157bdc9
+    - name: TankBlockade
+      pathPrefix: Backgrounds/MainBackground
+      guid: 555902e12369d5b4cbbd3834cab4f77b
+    - name: CloserWarCityShot
+      pathPrefix: Backgrounds/MainBackground
+      guid: 40777930b4e6c354398ad1b79f7706cb
     - name: Pharmacy
       pathPrefix: Backgrounds/MainBackground
-      guid: 42ef97e727af5d24cacf6b88c7ccc3ff
+      guid: e0b93c5a2b889dd429e65b8e9dab3965
+    - name: Apartment
+      pathPrefix: Backgrounds/MainBackground
+      guid: 97bf54da2f16cf7468ec0b4161d707f7

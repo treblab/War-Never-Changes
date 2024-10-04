@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: ScriptGraphState
   m_EditorClassIdentifier: 
   NodesState:
-  - scriptName: Hello World
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 111
-      height: 77
   - scriptName: MainMenu
     position:
       serializedVersion: 2
       x: 0
-      y: 77
+      y: 0
       width: 105
       height: 77
+  - scriptName: IntroScene
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 77
+      width: 162
+      height: 125
   - scriptName: PharmacyScene
     position:
       serializedVersion: 2
-      x: -3
-      y: 159
+      x: 282
+      y: 155
       width: 138
-      height: 77
+      height: 125
