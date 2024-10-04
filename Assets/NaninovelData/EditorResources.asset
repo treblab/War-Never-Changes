@@ -177,6 +177,9 @@ MonoBehaviour:
     - name: PharmacyScene
       pathPrefix: Scripts
       guid: dc345101da16a7049bc76eaa96aec9c7
+    - name: PharmacyConfrontation
+      pathPrefix: Scripts
+      guid: 9d3d197bf3d7f1f4f8f577e477e98eea
   - Id: Audio
     Resources:
     - name: MainMenu
@@ -204,16 +207,25 @@ MonoBehaviour:
       guid: 06417d2b05c750e4c96855e436d3d3ac
     - name: FarWarCityShot
       pathPrefix: Backgrounds/MainBackground
-      guid: b96baecf1a530c04786a77ba6157bdc9
+      guid: 8cffc1e9fedc4374f9e210ef54365e40
     - name: TankBlockade
       pathPrefix: Backgrounds/MainBackground
-      guid: 555902e12369d5b4cbbd3834cab4f77b
+      guid: 2625693e51e98d3438e8ca1e32a321e6
+    - name: CitizensInWarCity
+      pathPrefix: Backgrounds/MainBackground
+      guid: 5c57f79e418fe0242b82a6d21595fc52
     - name: CloserWarCityShot
       pathPrefix: Backgrounds/MainBackground
-      guid: 40777930b4e6c354398ad1b79f7706cb
+      guid: 230db4a7c7eee44498c3cf5468444d27
+    - name: Apartment
+      pathPrefix: Backgrounds/MainBackground
+      guid: 3ef83e394e045b149b67537958318b16
+    - name: RouteToPharmacy
+      pathPrefix: Backgrounds/MainBackground
+      guid: bdc51fca75240e94ead777bf17a0dbfb
     - name: Pharmacy
       pathPrefix: Backgrounds/MainBackground
       guid: e0b93c5a2b889dd429e65b8e9dab3965
-    - name: Apartment
+    - name: PharmacyBackRoom
       pathPrefix: Backgrounds/MainBackground
-      guid: 97bf54da2f16cf7468ec0b4161d707f7
+      guid: c3921d1db27cbaf46b1cc0337a59927c

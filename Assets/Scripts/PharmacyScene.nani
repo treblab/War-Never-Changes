@@ -86,7 +86,7 @@ Ardan shakes his head.
 
 Ardan: "Not even scraps. What now?"
 
-; SCAVENGING OPPORTUNITIES - PLAYER CHOICE HERE
+; ----------- SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
 
 You have three options to choose from. Select wisely, as your choice will determine the family's next steps.
 
@@ -153,6 +153,17 @@ Dorin nods, weighing the possibility. It’s not much, but in a world this broke
 Dorin: "Yeah. It could be our bargaining chip."
 
 With the medkit in hand, they press on, their search taking on a new urgency. The faint hope of finding something worthwhile pushes them deeper into the pharmacy, but the weight of desperation hangs over every step.
+
+; ----------- END SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
+
+; ----------- SCAVENGING RESULTS - PLAYER CHOICES FOR CONFRONTATION HERE -----------
+
+# Confrontation
+Suddenly, a loud crash echoes through the pharmacy, shattering the silence. Dorin and Ardan freeze, their eyes meeting in shared alarm.
+Dorin and Ardan move cautiously toward the noise they just heard.
+
+@back PharmacyBackRoom 
+@goto PharmacyConfrontation
 
 *Test*
 @stop

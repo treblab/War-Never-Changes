@@ -23,14 +23,21 @@ MonoBehaviour:
   - scriptName: IntroScene
     position:
       serializedVersion: 2
-      x: 0
-      y: 77
+      x: -3
+      y: 100
       width: 162
-      height: 125
+      height: 149
   - scriptName: PharmacyScene
     position:
       serializedVersion: 2
-      x: 282
-      y: 155
-      width: 138
-      height: 125
+      x: 249
+      y: 68
+      width: 201
+      height: 245
+  - scriptName: PharmacyConfrontation
+    position:
+      serializedVersion: 2
+      x: 503
+      y: 233
+      width: 181
+      height: 77
