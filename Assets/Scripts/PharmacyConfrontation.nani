@@ -20,9 +20,211 @@ Dorin clenches his jaw, feeling the weight of the decision pressing down on him.
 He glances at Ardan, whose face is a mix of hope and fear. 
 But if they take it, if they use force, this other family... they might not survive either.
 
-The silence stretches, the tension palpable. Dorin has a choice to make.
+The silence stretches, the tension palpable.
+
+Dorin speaks in a low, steady, but conflicted voice.
+Dorin: We’re not here to fight. But we need that medicine... without it, my wife won’t make it through the night.
+
+The other father narrows his eyes, his grip tightening on the bag.
+
+The other father bitterly responds.
+
+Other Father: And what do you think happens to us if we give it to you? My son’s all I’ve got left. You think I’ll just hand it over and watch him die?
+
+The man takes a step forward, his posture defensive, but his voice falters, revealing the fear underneath.
+
+Other Father: I won’t let you take it. We need this just as bad as you do.
+
+Your choices here will determine the outcome of the confrontation. Choose wisely. Choices could have long-lasting consequences.
+
+; ----------- CHOICE SECTION -----------
+; Chance % choices to be implemented here.
+; Additionally, try to make the other elements of the scene dynamic based on the choice made.
+
+
+
 
 ; ----------- CHOICE 1 - FIGHT, TAKE BY FORCE -----------
 
+Dorin clenches his fists, his resolve hardening. He decides to take the medicine by force, no matter the cost. He can’t let Mira die. He can’t let his family fall apart. He steps forward, his voice firm.
+
+; ----------- SUCCESS -----------
+# Success:
+The Father and Son stand over the fallen family. The scuffle is over. The room is silent except for the sound of strained breathing. Dorin holds the antibiotics in his trembling hand, his chest heaving from the effort. 
+Across the floor, the other father is slumped, clutching his side, his son kneeling beside him, eyes wide with fear and disbelief. The boy’s quiet sobs fill the air as he tries to help his injured father.
+
+Ardan: His voice is shaky, filled with disbelief.
+Ardan: Dad... what did we just do?
+
+Dorin looks down at the antibiotics, his victory bitter in his mouth. He forces himself to meet Ardan’s eyes but finds no solace there—only a broken reflection of the man he’s become.
+
+Dorin: Grim, hollow.
+Dorin: We did what we had to... for your mother. It was the only way.
+
+Ardan stares at the broken family on the floor, the blood staining the other father’s shirt, the boy’s tear-streaked face. His expression shifts, a quiet horror creeping into his features.
+
+Ardan: His voice barely a whisper.
+Ardan: Was it?
+
+Dorin turns to leave, but the weight of the moment clings to him. As they walk away with the stolen supplies, the sound of the boy’s crying haunts them both.
+
+; ----------- FAILURE -----------
+# Failure:
+The fight spirals out of control. Dorin struggles to hold his ground, but the other father is stronger, more desperate than he anticipated. A punch lands squarely in his ribs, sending him stumbling back. Ardan tries to intervene, but the other boy, despite his age, lunges forward to protect his father. The room is chaos—blows exchanged, pain and panic fueling the violence.
+
+Dorin is breathless, gasping.
+Dorin: Ardan! Get back! We need to go!
+
+Ardan stumbles, blood dripping from a cut on his forehead. The other father stands tall, wounded but defiant, glaring at them with a ferocity Dorin can’t match in this moment.
+
+The other man snarls, out of breath.
+Other Father: Get out! Before I kill you both!
+
+Dorin grabs Ardan’s arm, pulling him toward the exit. They flee the pharmacy, limping and bruised, the antibiotics left behind. Outside, Dorin slumps against a wall, clutching his ribs in pain.
+
+Ardan's voice is broken, filled with shame.
+Ardan: We failed, Dad... We failed.
+
+Dorin closes his eyes, the weight of his failure pressing down on him like a crushing wave.
+
+Dorin replies hoarsely, defeated.
+Dorin: I know... I know.
+
+
+
+
+; ----------- CHOICE 2 - ATTEMPT NEGOTIATION -----------
+
+; ----------- VARIATION 1 - IF PLAYERS HAVE NO MEDKIT -----------
+Dorin steps forward cautiously, hands raised, trying to show he means no harm. The tension in the room is high, both families staring at one another, desperate and worn. Dorin takes a breath, his voice calm but edged with urgency.
+
+Dorin begins to speak slowly, trying to keep his voice steady.
+
+Dorin: Look, we’re all in the same place. We don’t want to fight you. My wife... she’s dying. Without those antibiotics, she won’t make it through the night.
+
+Other Father: And what if I give this to you? What happens to us? You think I can just hand over what little we have left and walk out of here with nothing?
+
+Dorin’s voice is soft, pleading.
+Dorin: I don’t have much... but I swear, if I find more supplies, I’ll come back. I’ll help you. This doesn’t have to end with us tearing each other apart.
+
+; ----------- NO MEDKIT - SUCCESS -----------
+The other father’s son tugs on his arm, looking up at him with wide, pleading eyes. The other father sighs heavily, the fight slowly draining from him. He knows what’s at stake, but the sight of his son weakens his resolve.
+
+Other Father: Take it. If we keep fighting each other, none of us will make it.
+
+He hands the antibiotics over, his hand shaking slightly. Dorin takes them, his heart pounding with relief, though guilt lingers in his chest.
+
+Dorin looks at him with sincerity, and gives him a nod.
+
+Dorin: Thank you... I won’t forget this.
+
+The two fathers exchange a weary glance, one filled with the mutual understanding of survivors on the brink. As Dorin and Ardan leave, the weight of the decision stays with them, but for now, they’ve secured what they came for without bloodshed.
+
+; ----------- NO MEDKIT - FAILURE -----------
+
+The other father’s eyes harden, his grip on the bag tightening. He shakes his head, his voice firm.
+
+Tall and imposing despite his injuries, he shifts his stance, protective of his son and the precious supplies they’ve managed to scavenge. His face is hardened by days of suffering, and his eyes narrow at Dorin’s words.
+
+Other Father: You think I can give you this and still walk out of here alive? My boy’s all I’ve got left. I can’t risk it. Not for you. Not for anyone.
+
+Dorin glances at Ardan, who’s standing tense and silent behind him, then tries again, voice edged with pleading.
+
+Dorin: More urgently, his voice breaking slightly.
+Dorin: I’m not asking for much. Just enough to get her through. We’re all struggling here. I’m just trying to save my family.
+
+The other father shakes his head slowly, his face unreadable, but the tension in his posture tells Dorin he won’t budge.
+
+Other Father: I have a family too. And if I give you this, it could be the end for us. I can’t do that.
+
+Dorin feels his heart sink, the cold realization settling in. He’s not going to get the medicine. Not without taking it by force. He takes a step back, fists clenched at his sides, his mind racing. Ardan shifts uncomfortably beside him, his voice barely above a whisper.
+
+; ----------- NO MEDKIT - FAILURE - CHOICE - WALK AWAY AND DON'T FIGHT -----------
+His voice is thin, resigned.
+Dorin: I understand... we won’t take it from you.
+
+He turns, shoulders heavy, the sting of failure biting deep. As they leave, Dorin can feel Ardan’s silent disappointment beside him. He knows that tonight, they’ll go home empty-handed—and possibly face a greater loss.
+
+; ---------------------- NO MEDKIT - FAILURE - FIGHT -----------
+; Route this to the fighting choice above somehow.
+
+
+
+
+; ----------- VARIATION 2 - IF PLAYERS DO HAVE A MEDKIT -----------
+
+; ----------- IF MEDKIT - SUCCESS -----------
+
+Dorin: We’ll make a trade. It’s the only way this ends without blood. I’ve got a medkit. Bandages, gauze—something you can use for those wounds.
+
+The other father’s eyes flicker with hesitation as he considers the offer. The silence feels suffocating as he looks down at his son, whose terrified eyes are pleading with him. He knows they need the antibiotics, but he also knows they need to stay alive long enough to use them.
+
+He hesitates, voice cracking slightly.
+
+Other Father: A medkit? That’s not gonna heal this... but it’s better than nothing.
+
+Dorin holds out the medkit, his eyes locked on the other father. The silence is tense, both sides unwilling to break, but there’s something in the other man’s face — a flicker of understanding. 
+Slowly, the man reaches out, taking the medkit from Dorin’s hands.
+
+The other father replies in a gruff, tired tone.
+Other Father: This... this might help us. War’s already taken enough from us. No need to take more.
+
+He rummages through the bag, inspecting the supplies. After a long pause, he pulls out the antibiotics, handing them over. His eyes are hard, but there’s no malice in them, only exhaustion.
+
+He sighs.
+Other Father: Take it. We’ll survive without this... somehow.
+
+Dorin takes the antibiotics, feeling an odd sense of relief wash over him. It wasn’t violence this time — it was humanity.
+
+Dorin: Softly, sincerely.
+Dorin: Thank you... I won’t forget this.
+
+The two fathers exchange a glance, one that speaks of shared suffering. Dorin and Ardan leave, the medicine in hand, knowing that for once, something good came from this broken world.
+
+; ----------- IF MEDKIT - FAILURE -----------
+Dorin pleads, holding out the medkit, but the other father isn’t moved. His face hardens, the lines of suffering etched deeply into his skin. He shakes his head slowly, backing away, keeping a protective arm around his son.
+
+Other Father: No deal. We need it more than you do. I’m sorry, but my boy comes first.
+
+Dorin’s heart sinks. He lowers the medkit, glancing at Ardan, whose face is pale with tension. They can see there’s no room for negotiation here.
+
+; ----------- IF MEDKIT - FAILURE - CHOICE - WALK AWAY AND DON'T FIGHT -----------
+His voice is thin, resigned.
+Dorin: I understand... we won’t take it from you.
+
+He turns, shoulders heavy, the sting of failure biting deep. As they leave, Dorin can feel Ardan’s silent disappointment beside him. He knows that tonight, they’ll go home empty-handed—and possibly face a greater loss.
+
+; ---------------------- IF MEDKIT - FAILURE - FIGHT -----------
+; Route this to the fighting choice above somehow.
+
+
+
+
+
+
+; ----------- CHOICE 3 - WALK AWAY -----------
+Dorin stares at the antibiotics in the other father’s hands, feeling the gnawing ache of desperation tearing at him. The thought of going back to Mira without the medicine... it feels like giving up. But he can’t bring himself to take from these people. 
+He knows what it’s like to be on the edge of survival, and he won’t cross that line. Not yet.
+
+Ardan's voice is strained, unsure.
+Ardan: Dad... we’re just going to walk away?
+
+Dorin turns to his son, his voice quiet but firm.
+
+Dorin: Yes. We’re leaving.
+
+Ardan’s expression shifts, confusion mixing with frustration.
+
+Ardan: But Mom needs this! We can’t just leave without it!
+
+Dorin feels the guilt claw at his chest, but he shakes his head. His voice trembles slightly as he speaks.
+
+Dorin: I won’t do it, Ardan. I won’t steal from them. Not like this. We still have to live with ourselves after all this is over.
+
+They walk away, empty-handed, the weight of their choice pressing heavily on their shoulders. As they leave the pharmacy behind, Dorin glances at his son, knowing the consequences of this moment will haunt them both. But at least, for now, their humanity remains intact—though it might cost them everything.
+
+
+
+@goto PharmacyEnd
 
 @stop
