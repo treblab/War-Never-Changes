@@ -185,11 +185,6 @@ MonoBehaviour:
     - name: PharmacyBGM
       pathPrefix: Audio
       guid: b28aff783a5f9244cb708c37ac0ffdb2
-  - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
-    Resources:
-    - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab
-      pathPrefix: Characters
-      guid: 
   - Id: Unlockables
     Resources: []
   - Id: Backgrounds/faa69402-028f-4008-a299-dda0b6cdcc57
@@ -204,4 +199,4 @@ MonoBehaviour:
       guid: 06417d2b05c750e4c96855e436d3d3ac
     - name: Pharmacy
       pathPrefix: Backgrounds/MainBackground
-      guid: 42ef97e727af5d24cacf6b88c7ccc3ff
+      guid: bbaae9764e758be479f2f5bc6059274b

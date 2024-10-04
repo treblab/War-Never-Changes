@@ -21,5 +21,9 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   OverrideObjectsLayer: 1
   ObjectsLayer: 5
-  FontOptions: []
+  FontOptions:
+  - FontName: American Font
+    Font: {fileID: 12800000, guid: 1cd2f234e0ab18b4dafeaaa916595125, type: 3}
+    TMPFont: {fileID: 11400000, guid: 4d35f7df859ceda4cb269d3803a2a260, type: 2}
+    ApplyOnLocale: 
   DefaultFont: 
