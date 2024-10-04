@@ -1,0 +1,14 @@
+
+The following scene is you the Father (Dorin) and your Son (Ardan) who is out attempting to scavenge for supplies mainly for antibiotics
+A week has passed after the war has started in your quiet city, people have begun leaving, some stayed in their homes and wait for the government to respond
+You are out here with one goal, find supplies and get antibiotics for your sick wife, your dear Mira, nothing but your wits you set forth to find anything to keep surviving this hell
+@back Pharmacy
+@bgm PharmacyBGM loop:true
+The pharmacy is eerily silent as they step inside, the faint light from the moon casting long shadows over the empty shelves and broken glass.
+Rows of empty pill bottles and discarded packaging litter the floor, telling the story of a place that was ransacked in the early days of the conflict. 
+Despite the overwhelming sense of despair, you both push on, knowing this is their last hope to find anything for your wife.
+
+We both begin to search through the aisles, pushing aside debris and rummaging through what little remains.
+The air is thick with dust, and the stench of decay fills the space. The few medical supplies they find are either spoiled or useless —— a stark reminder of how far the city has fallen.
+I checked the labels on every bottle they find, but non are antibiotics. The situation grows more desperate by the minute. 
+@stop
