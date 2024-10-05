@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 66cdced088f34be2bb8518f5e61f6417, type: 3}
-  m_Name: Dorin
+  m_Name: OtherFather
   m_EditorClassIdentifier: 
   metadata:
     Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
@@ -22,10 +22,10 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: 8cf1a65c-8acd-4b41-b7ed-8d866e36a6c9
+    guid: d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
     customData:
       rid: -2
-    Pivot: {x: 0.5, y: -0.599}
+    Pivot: {x: 0.5, y: -0.6}
     PixelsPerUnit: 100
     EnableDepthPass: 1
     DepthAlphaCutoff: 0.5
@@ -41,7 +41,7 @@ MonoBehaviour:
     BakedLookDirection: 1
     DisplayName: 
     UseCharacterColor: 1
-    NameColor: {r: 0.2655009, g: 0.9811321, b: 0.1804913, a: 1}
+    NameColor: {r: 1, g: 0.18396229, b: 0.18396229, a: 1}
     MessageColor: {r: 1, g: 1, b: 1, a: 1}
     HighlightWhenSpeaking: 1
     HighlightCharacterCount: 0

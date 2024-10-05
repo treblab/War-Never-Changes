@@ -94,6 +94,9 @@ With the medkit in hand, they press on, their search taking on a new urgency. Th
 Suddenly, a loud crash echoes through the pharmacy, shattering the silence. Dorin and Ardan freeze, their eyes meeting in shared alarm.
 Dorin and Ardan move cautiously toward the noise they just heard.
 
+@hide Dorin
+@hide Ardan
+
 @goto PharmacyPtThree
 
 @stop

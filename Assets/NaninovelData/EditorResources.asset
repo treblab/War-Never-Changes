@@ -259,3 +259,13 @@ MonoBehaviour:
     - name: Dorin-removedBG
       pathPrefix: Characters/Dorin
       guid: 5c6577c63f7da704dbe22adac3b7fe58
+  - Id: Characters/d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
+    Resources:
+    - name: OtherFather
+      pathPrefix: Characters/OtherFather
+      guid: cf1eec2fc7eec8d4398c7a3c04254b58
+  - Id: Characters/82d8a8b8-5e09-41b4-8615-45440a5811d2
+    Resources:
+    - name: Boy-placeholder
+      pathPrefix: Characters/Boy
+      guid: ef544f1a276a265418a573f24cf25a70

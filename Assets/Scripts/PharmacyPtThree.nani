@@ -1,5 +1,11 @@
 @back PharmacyBackRoom
 
+@char Ardan pos:10
+@char Dorin pos:30
+
+@char Boy pos:90
+@char OtherFather pos:70
+
 They round the corner, only to find themselves face-to-face with another father and son. The two groups freeze, the air thick with tension. 
 Both families look gaunt, desperate, the hollow eyes of hunger and fear staring back at each other. The other father clutches a small bag, the outline of medicine bottles visible.
 It seems they had gotten here first, luckier or more desperate than Dorin and Ardan. 
@@ -31,11 +37,11 @@ The other father narrows his eyes, his grip tightening on the bag.
 
 The other father bitterly responds.
 
-Other Father: And what do you think happens to us if we give it to you? My son’s all I’ve got left. You think I’ll just hand it over and watch him die?
+Man: And what do you think happens to us if we give it to you? My son’s all I’ve got left. You think I’ll just hand it over and watch him die?
 
 The man takes a step forward, his posture defensive, but his voice falters, revealing the fear underneath.
 
-Other Father: I won’t let you take it. We need this just as bad as you do.
+Man: I won’t let you take it. We need this just as bad as you do.
 
 Your choices here will determine the outcome of the confrontation. Choose wisely. Choices could have long-lasting consequences.
 
@@ -80,7 +86,7 @@ Dorin: Ardan! Get back! We need to go!
 Ardan stumbles, blood dripping from a cut on his forehead. The other father stands tall, wounded but defiant, glaring at them with a ferocity Dorin can’t match in this moment.
 
 The other man snarls, out of breath.
-Other Father: Get out! Before I kill you both!
+Man: Get out! Before I kill you both!
 
 Dorin grabs Ardan’s arm, pulling him toward the exit. They flee the pharmacy, limping and bruised, the antibiotics left behind. Outside, Dorin slumps against a wall, clutching his ribs in pain.
 
@@ -112,7 +118,7 @@ Dorin: I don’t have much... but I swear, if I find more supplies, I’ll come 
 ; ----------- NO MEDKIT - SUCCESS -----------
 The other father’s son tugs on his arm, looking up at him with wide, pleading eyes. The other father sighs heavily, the fight slowly draining from him. He knows what’s at stake, but the sight of his son weakens his resolve.
 
-Other Father: Take it. If we keep fighting each other, none of us will make it.
+Man: Take it. If we keep fighting each other, none of us will make it.
 
 He hands the antibiotics over, his hand shaking slightly. Dorin takes them, his heart pounding with relief, though guilt lingers in his chest.
 
@@ -128,7 +134,7 @@ The other father’s eyes harden, his grip on the bag tightening. He shakes his 
 
 Tall and imposing despite his injuries, he shifts his stance, protective of his son and the precious supplies they’ve managed to scavenge. His face is hardened by days of suffering, and his eyes narrow at Dorin’s words.
 
-Other Father: You think I can give you this and still walk out of here alive? My boy’s all I’ve got left. I can’t risk it. Not for you. Not for anyone.
+Man: You think I can give you this and still walk out of here alive? My boy’s all I’ve got left. I can’t risk it. Not for you. Not for anyone.
 
 Dorin glances at Ardan, who’s standing tense and silent behind him, then tries again, voice edged with pleading.
 
@@ -137,7 +143,7 @@ Dorin: I’m not asking for much. Just enough to get her through. We’re all st
 
 The other father shakes his head slowly, his face unreadable, but the tension in his posture tells Dorin he won’t budge.
 
-Other Father: I have a family too. And if I give you this, it could be the end for us. I can’t do that.
+Man: I have a family too. And if I give you this, it could be the end for us. I can’t do that.
 
 Dorin feels his heart sink, the cold realization settling in. He’s not going to get the medicine. Not without taking it by force. He takes a step back, fists clenched at his sides, his mind racing. Ardan shifts uncomfortably beside him, his voice barely above a whisper.
 
@@ -163,7 +169,7 @@ The other father’s eyes flicker with hesitation as he considers the offer. The
 
 He hesitates, voice cracking slightly.
 
-Other Father: A medkit? That’s not gonna heal this... but it’s better than nothing.
+Man: A medkit? That’s not gonna heal this... but it’s better than nothing.
 
 Dorin holds out the medkit, his eyes locked on the other father. The silence is tense, both sides unwilling to break, but there’s something in the other man’s face — a flicker of understanding. 
 Slowly, the man reaches out, taking the medkit from Dorin’s hands.
