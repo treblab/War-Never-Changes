@@ -13,38 +13,24 @@ MonoBehaviour:
   m_Name: ScriptGraphState
   m_EditorClassIdentifier: 
   NodesState:
-  - scriptName: MainMenu
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 105
-      height: 77
   - scriptName: IntroScene
     position:
       serializedVersion: 2
-      x: 0
+      x: 361
       y: 0
-      width: 147
+      width: 162
       height: 149
-  - scriptName: PharmacyPt1
+  - scriptName: PharmacyPtOne
     position:
       serializedVersion: 2
-      x: 471
+      x: 179
       y: 0
-      width: 147
+      width: 162
       height: 125
-  - scriptName: PharmacyPt3
+  - scriptName: PharmacyPtThree
     position:
       serializedVersion: 2
-      x: 135
+      x: 0
       y: 0
       width: 149
       height: 149
-  - scriptName: PharmacyPt2
-    position:
-      serializedVersion: 2
-      x: 304
-      y: 0
-      width: 147
-      height: 221
