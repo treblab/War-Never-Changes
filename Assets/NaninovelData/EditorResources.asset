@@ -236,3 +236,18 @@ MonoBehaviour:
     - name: Dorin-Placeholder
       pathPrefix: Characters/Dorin
       guid: 99ae0d7757f5f6a458f1afc981e39270
+  - Id: Characters/a482b0ac-4b34-45ca-8301-509f3308bc95
+    Resources:
+    - name: Son-removedBG
+      pathPrefix: Characters/Ardan
+      guid: 526ed079e64160f4aab14ae007f31472
+  - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
+    Resources:
+    - name: Mira-placeholder
+      pathPrefix: Characters/Mira
+      guid: c6358d9ed2e252d40927a309bf20cf4c
+  - Id: Characters/d40c5786-ea12-4247-964b-bd75de0c9c0b
+    Resources:
+    - name: Naya-placeholder
+      pathPrefix: Characters/Naya
+      guid: c38e816b257ae0f4aa33df34a34158a4
