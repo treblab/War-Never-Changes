@@ -12,7 +12,7 @@ As the humanitarian crisis worsens, desperation grows, and the psychological tol
 # Introduction to Characters
 ; Maybe change these to interactable UI elements for more engagement?
 
-@char Dorin
+@char Dorin pos:33
 Dorin: As the head of the family, Dorin carries the weight of responsibility on his shoulders. A reliable and determined father, he’ll stop at nothing to protect his loved ones, even in the face of overwhelming odds. 
 Dorin: In a world where survival is uncertain, Dorin’s resourcefulness and unwavering resolve make him the backbone of his family’s fight to endure.
 @hide Dorin
@@ -20,7 +20,7 @@ Dorin: In a world where survival is uncertain, Dorin’s resourcefulness and unw
 Mira: Is the heart of the family, a nurturing mother whose strength and compassion shine through even in the darkest moments. Her unwavering empathy keeps her family’s spirits alive amidst the horrors of war. 
 Mira: Despite her own suffering, Mira’s focus remains on her children, striving to provide them with hope in a world where hope seems lost.
 
-@char Ardan
+@char Ardan pos:50
 Ardan: At 20, Ardan is thrust into the role of protector and provider. No longer the carefree young adult he once was, he now faces the daunting responsibility of keeping his family alive. 
 Ardan: His courage and quick thinking in the face of danger make him a pivotal figure in their survival, though the weight of this burden often threatens to break him.
 @hide Ardan
