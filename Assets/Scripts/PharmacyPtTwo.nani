@@ -1,6 +1,9 @@
 # Pharmacy
 @back Pharmacy
 The pharmacy is deathly quiet, with only the sound of broken glass crunching underfoot. Long shadows stretch across the room from the pale moonlight streaming in through a broken window. Dorin and Ardan move cautiously, their footsteps deliberate as they scan the rows of empty shelves.
+
+@char Dorin pos:33
+@char Ardan pos:66
 Dorin picks up an empty pill bottle and turns it over in his hands, the weight of desperation sinking deeper into his chest. Ardan pushes aside discarded packaging and debris as they search for any remaining medical supplies.
 
 Ardan: *He is frustrated, kicking a box aside.*
