@@ -174,12 +174,15 @@ MonoBehaviour:
     - name: IntroScene
       pathPrefix: Scripts
       guid: eb72014b4b8a5984f95a4cc261ced035
-    - name: PharmacyScene
+    - name: PharmacyPtOne
       pathPrefix: Scripts
-      guid: dc345101da16a7049bc76eaa96aec9c7
-    - name: PharmacyConfrontation
+      guid: 398d445ec2efa024c950d8d59c6c885c
+    - name: PharmacyPtTwo
       pathPrefix: Scripts
-      guid: 9d3d197bf3d7f1f4f8f577e477e98eea
+      guid: ba06ceaa30f6a6e4b8051a897dc29dac
+    - name: PharmacyPtThree
+      pathPrefix: Scripts
+      guid: 6e6f72f9d59fbf94d9a710a59c4e1794
   - Id: Audio
     Resources:
     - name: MainMenu

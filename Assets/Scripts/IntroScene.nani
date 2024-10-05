@@ -32,5 +32,6 @@ Naya: Is the youngest member of the family, a 12-year-old whose innocence contra
 Naya: Sheltered by her family’s love, she requires constant protection, but her resilience and hope remind them all of the importance of holding on to humanity in the midst of chaos.
 @hide Naya
 
-@goto PharmacyScene
+@goto PharmacyPtOne
+
 @stop
