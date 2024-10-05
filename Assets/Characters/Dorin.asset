@@ -40,10 +40,10 @@ MonoBehaviour:
       height: 1
     BakedLookDirection: 1
     DisplayName: 
-    UseCharacterColor: 0
-    NameColor: {r: 1, g: 1, b: 1, a: 1}
+    UseCharacterColor: 1
+    NameColor: {r: 0.2655009, g: 0.9811321, b: 0.1804913, a: 1}
     MessageColor: {r: 1, g: 1, b: 1, a: 1}
-    HighlightWhenSpeaking: 0
+    HighlightWhenSpeaking: 1
     HighlightCharacterCount: 0
     SpeakingPose: 
     NotSpeakingPose: 
