@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Far War City Shot_0: 265793830086377746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

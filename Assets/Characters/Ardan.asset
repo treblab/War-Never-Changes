@@ -9,18 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3be34281d83bad429e22787cd3c8069, type: 3}
-  m_Name: CharactersConfiguration
+  m_Script: {fileID: 11500000, guid: 66cdced088f34be2bb8518f5e61f6417, type: 3}
+  m_Name: Ardan
   m_EditorClassIdentifier: 
-  DefaultDuration: 0.35
-  DefaultEasing: 1
-  AutoShowOnModify: 1
-  SceneOrigin: {x: 0, y: 0}
-  ZOffset: 50
-  ZStep: 0.1
-  AutoArrangeOnAdd: 1
-  ArrangeRange: {x: 0, y: 1}
-  DefaultMetadata:
+  metadata:
     Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
     Loader:
@@ -30,7 +22,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: c3ca05f4-4fed-4339-93c7-59848ef19b4a
+    guid: a482b0ac-4b34-45ca-8301-509f3308bc95
     customData:
       rid: -2
     Pivot: {x: 0.5, y: 0}
@@ -63,17 +55,6 @@ MonoBehaviour:
     VoiceSource: {fileID: 0}
     LinkedPrinter: 
     Poses: []
-  Metadata:
-    ids: []
-    metas: []
-  AvatarLoader:
-    PathPrefix: CharacterAvatars
-    ProviderTypes:
-    - Naninovel.AddressableResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  SharedPoses: []
   references:
     version: 2
     RefIds:

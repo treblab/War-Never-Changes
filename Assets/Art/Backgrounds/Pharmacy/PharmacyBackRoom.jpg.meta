@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PharmacyBackRoom_0: 4411170446850968273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

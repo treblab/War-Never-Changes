@@ -229,3 +229,10 @@ MonoBehaviour:
     - name: PharmacyBackRoom
       pathPrefix: Backgrounds/MainBackground
       guid: c3921d1db27cbaf46b1cc0337a59927c
+  - Id: CharacterAvatars
+    Resources: []
+  - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24
+    Resources:
+    - name: Dorin-Placeholder
+      pathPrefix: Characters/Dorin
+      guid: 99ae0d7757f5f6a458f1afc981e39270

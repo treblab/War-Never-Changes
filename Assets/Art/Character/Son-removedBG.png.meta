@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e0b93c5a2b889dd429e65b8e9dab3965
+guid: 526ed079e64160f4aab14ae007f31472
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3062966720418253548
-    second: Pharmacy2_0
+      213: -1450679483934365352
+    second: Son-removedBG_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pharmacy2_0
+      name: Son-removedBG_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 25
         y: 0
-        width: 5096
-        height: 2856
+        width: 456
+        height: 500
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cea8f510108d18a20800000000000000
-      internalID: 3062966720418253548
+      spriteID: 859252502b62edbe0800000000000000
+      internalID: -1450679483934365352
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Pharmacy2_0: 3062966720418253548
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
