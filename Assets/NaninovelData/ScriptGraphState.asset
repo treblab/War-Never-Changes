@@ -27,10 +27,3 @@ MonoBehaviour:
       y: 0
       width: 162
       height: 125
-  - scriptName: PharmacyPtThree
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 149
-      height: 149

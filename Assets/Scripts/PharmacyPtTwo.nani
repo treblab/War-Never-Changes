@@ -24,11 +24,12 @@ Ardan: "Not even scraps. What now?"
 
 You have three options to choose from. Select wisely, as your choice will determine the family's next steps.
 
-@choice "Search the Front Aisle" goto:.FrontAisle
-@choice "Search the Storage Room" goto:.StorageRoom
-@choice "Search the Back Aisle" goto:.BackAisle
+@choice "Search the Front Aisle" if:!choice1 set:choice1=true goto:.FrontAisle
+@choice "Search the Storage Room" if:!choice2 set:choice2=true goto:.StorageRoom
+@choice "Search the Back Aisle" if:!choice3 set:choice3=true goto:.BackAisle
 
 @stop
+
 ; ---Option 1: Search Front Aisle ---
 # FrontAisle
 
