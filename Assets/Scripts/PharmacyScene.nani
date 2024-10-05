@@ -4,8 +4,11 @@
 The room is dim, lit only by the faint glow of a cracked window. Mira lies on a makeshift bed, her skin pale and covered in a sheen of sweat. Naya, sitting quietly by her mother’s side, holds her hand, worry etched across her young face. 
 Ardan paces near the doorway, glancing between his mother and father. Dorin stands still, his fists clenched, watching Mira's labored breathing. The silence is thick, broken only by the distant sounds of war outside.
 
+@char Naya pos:33
 Naya: *She's whispering, stroking Mira's hand.*
 Naya: Is Mama going to be okay, Dad?
+
+@char Dorin
 
 Dorin: *Dorin’s face tightens, and he looks at his daughter, forcing himself to meet her gaze.*
 Dorin: *He crouches beside Naya, brushing her hair behind her ear gently.*
@@ -13,14 +16,21 @@ Dorin: We're going to do everything we can, Naya. We just need to find some anti
 
 *Naya’s eyes are wide, searching for reassurance, but Dorin quickly stands before his resolve falters. He nods at Ardan, and the two step away from Mira’s bedside to speak in hushed tones.*
 
+@hide Naya
+
+@char Ardan
+
 Ardan: *His voice is tense, strained.* 
 Ardan: She's getting worse, Dad. We need to find those antibiotics fast. Ardan meets his father’s gaze, anger flaring for a moment before he nods. He exhales slowly, trying to calm himself.
 
 Ardan: *He is calmer, but resolute.*
 Ardan: Yeah. I’m ready.
 
-*Dorin walks back to Mira, kneeling beside her. Her eyes flutter open, hazy with fever. She struggles to focus on his face*.
+@hide Ardan
 
+@char Mira
+
+*Dorin walks back to Mira, kneeling beside her. Her eyes flutter open, hazy with fever. She struggles to focus on his face*.
 Mira: *Her voice is weak, and she barely manages a whisper.*
 Mira: Dorin... Ardan... don’t... don’t go...
 
@@ -39,10 +49,17 @@ Dorin: You won’t lose us. I’ll bring back what you need. I swear.
 
 Mira closes her eyes, too weak to argue anymore. Dorin stands, turning to Ardan.
 
+@hide Mira
+
+@char Ardan
+
 Dorin: Get your things. We leave in five minutes.
 
 As Ardan heads to gather supplies, Naya steps forward, her voice trembling.
 
+@hide Ardan
+
+@char Naya
 Naya: *Her voice trembling.*
 Naya: Dad, I want to come with you. Please... I can help.
 
@@ -58,6 +75,10 @@ Naya: Come back... Please come back.
 Dorin: *His voice barely holds together.*
 Dorin: I will.
 
+@hide Naya
+
+@char Ardan
+
 He pulls away and glances one last time at Mira. He exchanges a look with Ardan as they both grab their bags. The apartment feels colder as they step toward the door.
 
 Ardan: *He quietly whispers to his father as they leave.*
@@ -66,6 +87,8 @@ Ardan: We’ll find it, Dad. We have to.
 Dorin: *He grimly nods.*
 Dorin: We will.
 
+@hide Dorin
+@hide Ardan
 @back RouteToPharmacy
 The door creaks as it shuts behind them, leaving behind the family, the uncertainty, and the suffocating weight of what they’re fighting to hold onto. They step out into the night, the city’s shadows swallowing them whole.
 
