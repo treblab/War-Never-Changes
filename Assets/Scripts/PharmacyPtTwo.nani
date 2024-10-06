@@ -20,20 +20,37 @@ Ardan: "Not even scraps. What now?"
 
 ; ----------- SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
 
+# ScavengeChoices
+
 You have three options to choose from. Select wisely, as your choice will determine the family's next steps.
 
-# Option 1: Search Front Aisles
+@choice "Search the Front Aisle" if:!choice1 set:choice1=true goto:.FrontAisle
+@choice "Search the Storage Room" if:!choice2 set:choice2=true goto:.StorageRoom
+@choice "Search the Back Aisle" if:!choice3 set:choice3=true goto:.BackAisle
+
+@stop
+
+; ---Option 1: Search Front Aisle ---
+# FrontAisle
 
 The two decide to check the Front Aisles.
 
 Dorin: We'll check the front aisles some more. Maybe there's something we missed.
 
-They move through the front aisles, the shelves barren except for broken packaging and the remnants of what once filled the store. 
+They move through the front aisles, the shelves barren except for broken packaging and the remnants of what once filled the store.
 Ardan kneels to sift through a pile of debris, picking up an empty box of antiseptic wipes.
 
 Ardan: *He sighs, frustration evident in his voice.*
 
-# Option 2: Check Back Storage Room
+@set ScavangeChance++
+
+@if "ScavangeChance = 2"
+@goto .Confrontation
+@else
+@goto .ScavengeChoices
+
+; -- Option 2: Check Back Storage Room --
+# StorageRoom
 
 The two decide to check Back Storage Room.
 
@@ -58,8 +75,13 @@ Ardan: "Do you think we’ll need to use it?"
 Dorin meets his son’s gaze, his expression hardening as he considers the question.
 
 Dorin: If we have to. Let’s hope it doesn’t come to that.
-
-# Option 3: Check Back Aisles
+@set ScavangeChance++
+@if "ScavangeChance = 2"
+@goto .Confrontation if:"ScavangeChance = 2"
+@else
+@goto .ScavengeChoices
+; --Option 3: Check Back Aisles ---
+# BackAisle
 
 The two decide to check Back Aisles of the Pharmacy.
 
@@ -85,7 +107,11 @@ Dorin nods, weighing the possibility. It’s not much, but in a world this broke
 Dorin: "Yeah. It could be our bargaining chip."
 
 With the medkit in hand, they press on, their search taking on a new urgency. The faint hope of finding something worthwhile pushes them deeper into the pharmacy, but the weight of desperation hangs over every step.
+@set ScavangeChance++
+@goto .Confrontation if:"ScavangeChance = 2"
 
+@else
+@goto .ScavengeChoices
 ; ----------- END SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
 
 ; ----------- SCAVENGING RESULTS - PLAYER CHOICES FOR CONFRONTATION HERE -----------
