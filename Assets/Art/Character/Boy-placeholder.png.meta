@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boy-placeholder_0: -6988921886931980752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
