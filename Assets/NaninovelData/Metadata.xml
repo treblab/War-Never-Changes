@@ -395,8 +395,8 @@
       &lt;string&gt;choice1&lt;/string&gt;
       &lt;string&gt;choice2&lt;/string&gt;
       &lt;string&gt;choice3&lt;/string&gt;
-      &lt;string&gt;g_HasCutters&lt;/string&gt;
-      &lt;string&gt;g_HasMedkit&lt;/string&gt;
+      &lt;string&gt;G_HasCutters&lt;/string&gt;
+      &lt;string&gt;G_HasMedkit&lt;/string&gt;
     &lt;/Variables&gt;
     &lt;Functions /&gt;
   &lt;/Metadata&gt;

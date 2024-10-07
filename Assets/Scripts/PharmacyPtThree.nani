@@ -60,7 +60,9 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 
 ; ----------- CHECK CONDITIONS FOR FIGHT -----------
 # FightCheck
+@set randomChance=Random(0,1)
 @if G_HasCutters
+@set randomChance=0.5
 @goto .FightSuccess
 @else
     Dorin considers fighting, but without a weapon like the Cutters, the risk is too high. He feels the uncertainty of his decision weigh on him.
