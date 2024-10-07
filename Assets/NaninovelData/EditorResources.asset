@@ -194,6 +194,12 @@ MonoBehaviour:
     - name: PharmacyBGM
       pathPrefix: Audio
       guid: b28aff783a5f9244cb708c37ac0ffdb2
+    - name: ConfrontationBGM
+      pathPrefix: Audio
+      guid: b0ff7bd98f20f034ebed224612fc82dc
+    - name: Fight!
+      pathPrefix: Audio
+      guid: f680de131827b144489ca9188f2570fd
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab

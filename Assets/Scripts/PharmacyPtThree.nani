@@ -1,5 +1,6 @@
 @back PharmacyBackRoom
 
+@bgm ConfrontationBGM loop:True
 @char Ardan pos:10
 @char Dorin pos:30
 
@@ -107,6 +108,8 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 
 ; ----------- FIGHT SUCCESS -----------
 # FightSuccess
+@stopBgm ConfrontationBGM fade:3
+@bgm Fight! loop:True
 Dorin clenches his fists, his resolve hardening. He decides to take the medicine by force, no matter the cost. He can’t let Mira die. He can’t let his family fall apart. He steps forward, his voice firm.
 
 @if G_HasCutters
@@ -140,6 +143,7 @@ Dorin: We did what we had to... for your mother. It was the only way.
 Ardan stares at the broken family on the floor, the blood staining the other father’s shirt, the boy’s tear-streaked face. His expression shifts, a quiet horror creeping into his features.
 Ardan replies, his voice barely a whisper.
 
+Ardan speaks barely a whisper.
 Ardan: Was it?
 
 Dorin turns to leave, but the weight of the moment clings to him. As they walk away with the stolen supplies, the sound of the boy’s crying haunts them both.
@@ -160,6 +164,9 @@ The fight spirals out of control. Dorin struggles to hold his ground, but the ot
     Ardan’s box cutter slashes at the other father, but the man’s reflexes are quick. He dodges the blade, his own fists landing heavy blows on Ardan’s face. 
     The room is a blur of motion, the sounds of struggle and pain echoing off the walls.
 @endif
+@stopBgm ConfrontationBGM fade:3
+@bgm Fight! loop:True
+The fight spirals out of control. Dorin struggles to hold his ground, but the other father is stronger, more desperate than he anticipated. A punch lands squarely in his ribs, sending him stumbling back. Ardan tries to intervene, but the other boy, despite his age, lunges forward to protect his father. The room is chaos—blows exchanged, pain and panic fueling the violence.
 
 Dorin is breathless, gasping.
 Dorin: Ardan! Get back! We need to go!
