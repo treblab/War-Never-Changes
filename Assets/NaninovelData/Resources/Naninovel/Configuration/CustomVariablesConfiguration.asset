@@ -21,3 +21,7 @@ MonoBehaviour:
     value: false
   - name: choice3
     value: false
+  - name: G_HasCutters
+    value: false
+  - name: G_HasMedkit
+    value: false
