@@ -1,0 +1,92 @@
+@back RouteToPharmacy
+
+Dorin and Ardan journey back to the apartment.
+
+@if G_HasAntibiotics
+    Dorin and Ardan push open the door to their small, dimly lit home. 
+
+    @back Apartment
+
+    The weight of the stolen antibiotics hangs heavy between them, but they’ve made it back. 
+    
+    Mira lies on a makeshift bed, her breathing shallow, her skin pale. Naya sits beside her, her eyes red-rimmed with worry.
+
+    @char Naya
+
+    Naya: "Dad... Ardan... you’re back. Did you... did you find it?"
+    
+    Dorin grimly nods.
+
+    He rushes to Mira's side, holding up the vial of medicine, his hands trembling.
+
+    Ardan: "Dad... will this be enough?"
+
+    Dorin’s voice is rough with exhaustion, but there’s a spark of hope. 
+    
+    Dorin: "It has to be. Get me the syringe."
+
+    Ardan quickly fetches it, and together they administer the antibiotics, their hearts pounding with anticipation and fear. Mira stirs slightly, her eyes fluttering open for the first time in hours.
+
+    @char Mira
+
+    Mira: Weakly. "Dorin...? Ardan...? You’re back..."
+
+    Dorin squeezes her hand gently, his voice breaking with relief. Dorin: "We’re here, Mira. We got what you needed. You’re going to be okay."
+
+    Tears well up in Ardan’s eyes as he watches his mother’s breathing steady. The fear that had gripped them so tightly for days begins to loosen. 
+    
+    As the night passes, the color slowly returns to Mira’s cheeks, and though she’s still weak, it’s clear she’s going to survive.
+
+    @if G_HasCutters
+        The box cutter sits on the table, a silent reminder of the lengths they’d gone to for her survival. Dorin watches it for a moment, his thoughts heavy with the weight of their choices.
+
+        Dorin: "We did what we had to do, Ardan. We saved your mother. That’s what matters."
+
+        Ardan nods, but the guilt of the day is catching up with him.
+
+        Ardan: "We saved her, but... was it the right way?"
+
+        Dorin doesn’t respond immediately, his eyes fixed on his wife’s face. The price of survival had been steep, but in that moment, as Mira’s breathing grows stronger, he tells himself it was worth it. It had to be.
+
+        Dorin: "You did what you had to do, Ardan. We both did. We saved your mother. That’s what matters."
+    @endif
+
+; -- Else, no antibiotics
+@else
+
+    Their faces are hollow with failure. The moment they step inside, the weight of the empty-handed return presses down on them. 
+    
+    @back Apartment
+
+    Mira lies still on the bed, her breaths shallow and labored, each one a painful reminder of their inability to save her. 
+    
+    Her skin is pale, almost gray, and the light in her eyes has dimmed. Naya sits beside her, her eyes red-rimmed with worry.
+
+    @char Naya
+
+    Naya: "Dad... Ardan... did you... did you find it?"
+
+    Dorin can’t meet her gaze, his mind heavy with defeat.
+
+    Ardan hurries to her side, his hands shaking as he touches her arm. 
+    
+    Ardan: "Mom... we tried. We... we couldn’t get it."
+
+    @char Mira
+
+    Mira stirs faintly at his voice, but her response is little more than a strained breath. She’s too weak to speak, her eyes barely opening. 
+    
+    Dorin kneels beside her, gripping her hand, but it’s cold and limp in his grasp. He forces words from his throat, though they feel empty. 
+
+    Naya: Voice small, barely audible. "Is Mom going to die?"
+    
+    Dorin: "Mira...Naya... we’ll try again. I... I’ll find something tomorrow."
+
+    But even as he says it, the words feel hollow. He knows there may be no tomorrow for her. Her body is failing, the signs all too clear. 
+    
+    They have nothing left to give her — no medicine, no comfort. Only the crushing reality that time is running out.
+
+    Night falls, and with it, the last flickers of hope. Dorin and Ardan sit in silence, knowing they can do nothing but wait. The world outside feels distant, irrelevant. Inside, they are alone with the grim reality of what they might lose.
+@endIf
+
+@stop

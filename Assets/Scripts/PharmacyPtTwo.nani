@@ -61,7 +61,7 @@ They push further into the pharmacy, stepping over more shattered glass and brok
 Ardan: *Calling out, his voice low but urgent.*
 Ardan: Dad, over here.
 
-Dorin crouches beside his son, helping to brush away fragments of glass and debris. Among the mess, a small object gleams faintly in the moonlight—a box cutter, its blade dull but intact. Dorin picks it up and inspects it, testing the retractable blade.
+Dorin crouches beside his son, helping to brush away fragments of glass and debris. Among the mess, a small object gleams faintly in the moonlight — a box cutter, its blade dull but intact. Dorin picks it up and inspects it, testing the retractable blade.
 
 Dorin: *His voice is quiet & grim.*
 Dorin: It’s not much, but it’ll do.
@@ -73,6 +73,8 @@ Ardan wearily looks to his father, his voice low.
 Ardan: "Do you think we’ll need to use it?"
 
 Dorin meets his son’s gaze, his expression hardening as he considers the question.
+
+@set G_HasCutters=true
 
 Dorin: If we have to. Let’s hope it doesn’t come to that.
 @set ScavangeChance++
@@ -107,6 +109,9 @@ Dorin nods, weighing the possibility. It’s not much, but in a world this broke
 Dorin: "Yeah. It could be our bargaining chip."
 
 With the medkit in hand, they press on, their search taking on a new urgency. The faint hope of finding something worthwhile pushes them deeper into the pharmacy, but the weight of desperation hangs over every step.
+
+@set G_HasMedkit=true
+
 @set ScavangeChance++
 @goto .Confrontation if:"ScavangeChance = 2"
 
