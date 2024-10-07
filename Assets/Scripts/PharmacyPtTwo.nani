@@ -22,7 +22,7 @@ Ardan: "Not even scraps. What now?"
 
 # ScavengeChoices
 
-You have three options to choose from. Select wisely, as your choice will determine the family's next steps.
+You'll only have time to search two rooms. Select wisely, as your choice will determine the family's next steps.
 
 @choice "Search the Front Aisle" if:!choice1 set:choice1=true goto:.FrontAisle
 @choice "Search the Storage Room" if:!choice2 set:choice2=true goto:.StorageRoom
