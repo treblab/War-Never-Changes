@@ -1,5 +1,5 @@
 @back PharmacyBackRoom
-
+@stopBgm PharmacyBGM fade:3
 @bgm ConfrontationBGM loop:True
 @char Ardan pos:10
 @char Dorin pos:30

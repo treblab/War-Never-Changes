@@ -129,6 +129,8 @@ Dorin and Ardan move cautiously toward the noise they just heard.
 @hide Dorin
 @hide Ardan
 
+@stopBgm PharmacyBGM fade:3
+
 @goto PharmacyPtThree
 
 @stop

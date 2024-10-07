@@ -1,3 +1,5 @@
+@stopBgm fade:5
+@bgm PharmacyBGM loop:true
 @back RouteToPharmacy
 
 Dorin and Ardan journey back to the apartment.
