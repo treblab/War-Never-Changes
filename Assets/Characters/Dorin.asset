@@ -22,10 +22,10 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: 8cf1a65c-8acd-4b41-b7ed-8d866e36a6c9
+    guid: 54305222-c84f-46e0-8350-02e6a77df0df
     customData:
       rid: -2
-    Pivot: {x: 0.5, y: -0.599}
+    Pivot: {x: 0.5, y: 0}
     PixelsPerUnit: 100
     EnableDepthPass: 1
     DepthAlphaCutoff: 0.5
@@ -40,10 +40,10 @@ MonoBehaviour:
       height: 1
     BakedLookDirection: 1
     DisplayName: 
-    UseCharacterColor: 1
-    NameColor: {r: 0.2655009, g: 0.9811321, b: 0.1804913, a: 1}
+    UseCharacterColor: 0
+    NameColor: {r: 1, g: 1, b: 1, a: 1}
     MessageColor: {r: 1, g: 1, b: 1, a: 1}
-    HighlightWhenSpeaking: 1
+    HighlightWhenSpeaking: 0
     HighlightCharacterCount: 0
     SpeakingPose: 
     NotSpeakingPose: 
