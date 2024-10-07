@@ -264,3 +264,8 @@ MonoBehaviour:
     - name: Boy-placeholder
       pathPrefix: Characters/Boy
       guid: ef544f1a276a265418a573f24cf25a70
+  - Id: Characters/60b599bb-a78c-4444-81ab-a47158e7e301
+    Resources:
+    - name: Dorin-removedBG
+      pathPrefix: Characters/Dorin
+      guid: 5c6577c63f7da704dbe22adac3b7fe58
