@@ -144,6 +144,11 @@ Ardan: Was it?
 
 Dorin turns to leave, but the weight of the moment clings to him. As they walk away with the stolen supplies, the sound of the boy’s crying haunts them both.
 
+@hide Dorin
+@hide Ardan
+@hide OtherFather
+@hide Boy
+
 @set G_HasAntibiotics=true
 @goto PharmacyEnd
 
@@ -174,7 +179,12 @@ Dorin closes his eyes, the weight of his failure pressing down on him like a cru
 Dorin replies hoarsely, defeated.
 Dorin: I know... I know.
 
-@goto .endScene
+@hide Dorin
+@hide Ardan
+@hide OtherFather
+@hide Boy
+
+@goto PharmacyEnd
 
 ; ----------- CHOICE 2 - ATTEMPT NEGOTIATION -----------
 
@@ -209,6 +219,11 @@ Dorin looks at him with sincerity, and gives him a nod.
 Dorin: Thank you... I won’t forget this.
 
 The two fathers exchange a weary glance, one filled with the mutual understanding of survivors on the brink. As Dorin and Ardan leave, the weight of the decision stays with them, but for now, they’ve secured what they came for without bloodshed.
+
+@hide Dorin
+@hide Ardan
+@hide OtherFather
+@hide Boy
 
 @set G_HasAntibiotics=true
 @goto PharmacyEnd
@@ -248,7 +263,7 @@ Dorin feels his heart sink, the cold realization settling in. He’s not going t
 His voice is thin, resigned.
 Dorin: I understand... we won’t take it from you.
 He turns, shoulders heavy, the sting of failure biting deep. As they leave, Dorin can feel Ardan’s silent disappointment beside him. He knows that tonight, they’ll go home empty-handed—and possibly face a greater loss.
-@goto .WalkAwayEnd
+@goto PharmacyEnd
 
 ; ----------- VARIATION 2 - IF PLAYERS DO HAVE A MEDKIT -----------
 
@@ -282,6 +297,11 @@ Dorin: Thank you... I won’t forget this.
 
 The two fathers exchange a glance, one that speaks of shared suffering. Dorin and Ardan leave, the medicine in hand, knowing that for once, something good came from this broken world.
 
+@hide Dorin
+@hide Ardan
+@hide OtherFather
+@hide Boy
+
 @set G_HasAntibiotics=true
 @goto PharmacyEnd
 
@@ -301,6 +321,7 @@ Dorin stares at the antibiotics in the other father’s hands, feeling the gnawi
 He knows what it’s like to be on the edge of survival, and he won’t cross that line. Not yet.
 
 Ardan's voice is strained, unsure.
+
 Ardan: Dad... we’re just going to walk away?
 
 Dorin turns to his son, his voice quiet but firm.
@@ -315,7 +336,14 @@ Dorin feels the guilt claw at his chest, but he shakes his head. His voice tremb
 
 Dorin: I won’t do it, Ardan. I won’t steal from them. Not like this. We still have to live with ourselves after all this is over.
 
+@hide Dorin
+@hide Ardan
+@hide OtherFather
+@hide Boy
+
 They walk away, empty-handed, the weight of their choice pressing heavily on their shoulders. As they leave the pharmacy behind, Dorin glances at his son, knowing the consequences of this moment will haunt them both. But at least, for now, their humanity remains intact—though it might cost them everything.
+
+@set G_HasAntibiotics=false
 
 # endScene
 @goto PharmacyEnd

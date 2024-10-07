@@ -2,6 +2,9 @@
 
 Dorin and Ardan journey back to the apartment.
 
+@char Ardan
+@char Dorin
+
 @if G_HasAntibiotics
     Dorin and Ardan push open the door to their small, dimly lit home. 
 
@@ -51,6 +54,8 @@ Dorin and Ardan journey back to the apartment.
         Dorin: "You did what you had to do, Ardan. We both did. We saved your mother. That’s what matters."
     @endif
 
+    END OF PROTOTYPE. Thanks for playing!
+
 ; -- Else, no antibiotics
 @else
 
@@ -87,6 +92,15 @@ Dorin and Ardan journey back to the apartment.
     They have nothing left to give her — no medicine, no comfort. Only the crushing reality that time is running out.
 
     Night falls, and with it, the last flickers of hope. Dorin and Ardan sit in silence, knowing they can do nothing but wait. The world outside feels distant, irrelevant. Inside, they are alone with the grim reality of what they might lose.
+
+    END OF PROTOTYPE. Thanks for playing!
 @endIf
+
+;--- Hard code reset of flags -- remove later
+@set G_HasAntibiotics=false
+@set G_HasCutters=false
+@set G_HasMedkit=falses
+
+END OF PROTOTYPE. Thanks for playing!
 
 @stop

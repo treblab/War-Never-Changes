@@ -117,6 +117,7 @@ With the medkit in hand, they press on, their search taking on a new urgency. Th
 
 @else
 @goto .ScavengeChoices
+@endIf
 ; ----------- END SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
 
 ; ----------- SCAVENGING RESULTS - PLAYER CHOICES FOR CONFRONTATION HERE -----------
