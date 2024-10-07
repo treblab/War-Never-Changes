@@ -54,18 +54,37 @@ Man: I won’t let you take it. We need this just as bad as you do.
 Your choices here will determine the outcome of the confrontation. Choose wisely. Choices could have long-lasting consequences.
 
 ; ----------- CHOICE SECTION -----------
-@choice "Fight (90% with Cutters)" goto:.FightCheck
-@choice "Negotiate (100% if you have MEDKIT)" goto:.NegotiateCheck
-@stop
 
-; ----------- CHECK CONDITIONS FOR FIGHT -----------
-# FightCheck
-@set randomChance=Random(0,1)
+
+@choice "Fight (Base chance: 50%)" goto:.FightCheck
+
 @if G_HasCutters
-@set randomChance=0.5
+@choice "Fight (Use box cutter + 20% to base chance)" goto:.FightCheck
+@endif
+
+@choice "Negotiate (30%)" goto:.NegotiateCheck
+
+@if G_HasMedkit
+@choice "Negotiate (Use medkit - 90%)" goto:.NegotiateCheck
+@endif
+
+@choice "Walk Away (100%)" goto:.WalkAwayEnd
+
+
+@stop
+; ----------- CHECK CONDITIONS FOR FIGHT -----------
+
+# FightCheck
+@set playerRoll=Random(0,10)
+@set fightCheck=5
+
+@if G_HasCutters
+@set playerRoll+=0.20
+@endif
+
+@if playerRoll>=fightCheck
 @goto .FightSuccess
 @else
-    Dorin considers fighting, but without a weapon like the Cutters, the risk is too high. He feels the uncertainty of his decision weigh on him.
 @goto .FightFailure
 @endif
 
