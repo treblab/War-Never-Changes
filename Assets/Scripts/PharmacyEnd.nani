@@ -99,7 +99,7 @@ Dorin and Ardan journey back to the apartment.
 ;--- Hard code reset of flags -- remove later
 @set G_HasAntibiotics=false
 @set G_HasCutters=false
-@set G_HasMedkit=falses
+@set G_HasMedkit=false
 
 END OF PROTOTYPE. Thanks for playing!
 
