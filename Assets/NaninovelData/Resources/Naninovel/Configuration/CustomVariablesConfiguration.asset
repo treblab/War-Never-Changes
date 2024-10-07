@@ -25,3 +25,5 @@ MonoBehaviour:
     value: false
   - name: G_HasMedkit
     value: false
+  - name: G_HasAntibiotics
+    value: false
