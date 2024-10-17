@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 5c6577c63f7da704dbe22adac3b7fe58
+guid: 457bf6e1cf6591d42a81b0aaa11d541b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7949953615372361614
-    second: Dorin-removedBG_0
+      213: 8196662660955311576
+    second: Dorin_0
+  - first:
+      213: -3508459202451445171
+    second: Dorin_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +112,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dorin-removedBG_0
+      name: Dorin_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 1
-        width: 488
-        height: 498
+        x: 0
+        y: 14
+        width: 1183
+        height: 1260
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +130,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 270e5e6be471ca190800000000000000
-      internalID: -7949953615372361614
+      spriteID: 8dd03f9234560c170800000000000000
+      internalID: 8196662660955311576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dorin_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6ee8a1f27f4fc0800000000000000
+      internalID: -3508459202451445171
       vertices: []
       indices: 
       edges: []
@@ -156,8 +167,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Dorin-removedBG_0: -7949953615372361614
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
