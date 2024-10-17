@@ -10,6 +10,7 @@
         &lt;Type&gt;Characters&lt;/Type&gt;
         &lt;Appearances&gt;
           &lt;string&gt;Dorin-Placeholder&lt;/string&gt;
+          &lt;string&gt;Dorin&lt;/string&gt;
           &lt;string&gt;Dorin-removedBG&lt;/string&gt;
         &lt;/Appearances&gt;
         &lt;Description /&gt;
@@ -18,7 +19,7 @@
         &lt;Id&gt;Ardan&lt;/Id&gt;
         &lt;Type&gt;Characters&lt;/Type&gt;
         &lt;Appearances&gt;
-          &lt;string&gt;Son-removedBG&lt;/string&gt;
+          &lt;string&gt;Ardan&lt;/string&gt;
         &lt;/Appearances&gt;
         &lt;Description /&gt;
       &lt;/Actor&gt;
@@ -49,9 +50,7 @@
       &lt;Actor&gt;
         &lt;Id&gt;OtherFather&lt;/Id&gt;
         &lt;Type&gt;Characters&lt;/Type&gt;
-        &lt;Appearances&gt;
-          &lt;string&gt;OtherFather&lt;/string&gt;
-        &lt;/Appearances&gt;
+        &lt;Appearances /&gt;
         &lt;Description /&gt;
       &lt;/Actor&gt;
       &lt;Actor&gt;
@@ -386,7 +385,7 @@
         &lt;Type&gt;Characters/Dorin&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
-        &lt;Path&gt;Son-removedBG&lt;/Path&gt;
+        &lt;Path&gt;Ardan&lt;/Path&gt;
         &lt;Type&gt;Characters/Ardan&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
@@ -398,8 +397,8 @@
         &lt;Type&gt;Characters/Naya&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
-        &lt;Path&gt;OtherFather&lt;/Path&gt;
-        &lt;Type&gt;Characters/OtherFather&lt;/Type&gt;
+        &lt;Path&gt;Dorin&lt;/Path&gt;
+        &lt;Type&gt;Characters/Dorin&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
         &lt;Path&gt;Boy-placeholder&lt;/Path&gt;

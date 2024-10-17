@@ -63,10 +63,14 @@ Ardan: Dad, over here.
 
 Dorin crouches beside his son, helping to brush away fragments of glass and debris. Among the mess, a small object gleams faintly in the moonlight — a box cutter, its blade dull but intact. Dorin picks it up and inspects it, testing the retractable blade.
 
+@char BoxCutter pos:50,50 scale:0.2
+
 Dorin: *His voice is quiet & grim.*
 Dorin: It’s not much, but it’ll do.
 
-Ardan watches as Dorin pockets the tool, knowing what it means. This isn’t just a tool for cutting — it could be a weapon if it came down to it. The weight of that realization hangs between them.
+Dorin watches as Ardan pockets the tool, knowing what it means. This isn’t just a tool for cutting — it could be a weapon if it came down to it. The weight of that realization hangs between them.
+
+@hide BoxCutter
 
 Ardan wearily looks to his father, his voice low.
 
@@ -94,7 +98,11 @@ They continue through the pharmacy, moving to the back aisles where a collapsed 
 Dorin nods toward the debris.
 Dorin: "Give me a hand."
 
-Together, they lift a fallen beam, clearing away the wreckage to reveal a dusty medkit, half-buried under the mess. Dorin opens it, revealing gauze, bandages, and a few basic medical tools.
+Together, they lift a fallen beam, clearing away the wreckage to reveal a dusty medkit, half-buried under the mess. 
+
+@char Medkit scale:1.5 pos:50,50
+
+Dorin opens it, revealing gauze, bandages, and a few basic medical tools.
 
 A mix of frustration and relief brims in Dorin's voice as he inspects the contents.
 
@@ -107,6 +115,8 @@ Ardan: "Maybe we can trade it. Someone else might need it as badly as we need an
 Dorin nods, weighing the possibility. It’s not much, but in a world this broken, even bandages could be worth something.
 
 Dorin: "Yeah. It could be our bargaining chip."
+
+@hide Medkit
 
 With the medkit in hand, they press on, their search taking on a new urgency. The faint hope of finding something worthwhile pushes them deeper into the pharmacy, but the weight of desperation hangs over every step.
 
