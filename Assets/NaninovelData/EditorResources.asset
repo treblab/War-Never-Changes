@@ -250,9 +250,9 @@ MonoBehaviour:
       guid: 99ae0d7757f5f6a458f1afc981e39270
   - Id: Characters/a482b0ac-4b34-45ca-8301-509f3308bc95
     Resources:
-    - name: Son-removedBG
+    - name: Ardan
       pathPrefix: Characters/Ardan
-      guid: 526ed079e64160f4aab14ae007f31472
+      guid: ca7af54ae2ef4fc4b98ea3d42e869c59
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
     - name: Mira-placeholder
@@ -265,9 +265,9 @@ MonoBehaviour:
       guid: c38e816b257ae0f4aa33df34a34158a4
   - Id: Characters/d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
     Resources:
-    - name: OtherFather
-      pathPrefix: Characters/OtherFather
-      guid: cf1eec2fc7eec8d4398c7a3c04254b58
+    - name: Dorin
+      pathPrefix: Characters/Dorin
+      guid: 457bf6e1cf6591d42a81b0aaa11d541b
   - Id: Characters/82d8a8b8-5e09-41b4-8615-45440a5811d2
     Resources:
     - name: Boy-placeholder

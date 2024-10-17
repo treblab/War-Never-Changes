@@ -8,6 +8,12 @@ TextureImporter:
   - first:
       213: -3508459202451445171
     second: Dorin_1
+  - first:
+      213: 1530157865019730503
+    second: Dorin_2
+  - first:
+      213: 446026383894659102
+    second: Dorin_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -120,9 +126,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 14
-        width: 1183
-        height: 1260
+        y: 10
+        width: 950
+        height: 1013
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,7 +147,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 543
+        y: 435
         width: 5
         height: 7
       alignment: 0
@@ -153,6 +159,48 @@ TextureImporter:
       bones: []
       spriteID: d4a6ee8a1f27f4fc0800000000000000
       internalID: -3508459202451445171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dorin_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a65ca98763c3510800000000000000
+      internalID: 1530157865019730503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dorin_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 348
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104e7c02aa903600800000000000000
+      internalID: 446026383894659102
       vertices: []
       indices: 
       edges: []
