@@ -206,7 +206,10 @@ MonoBehaviour:
       pathPrefix: Characters
       guid: 
   - Id: Unlockables
-    Resources: []
+    Resources:
+    - name: 
+      pathPrefix: Unlockables
+      guid: 
   - Id: Backgrounds/faa69402-028f-4008-a299-dda0b6cdcc57
     Resources:
     - name: MainMenu
@@ -278,3 +281,13 @@ MonoBehaviour:
     - name: Dorin-removedBG
       pathPrefix: Characters/Dorin
       guid: 5c6577c63f7da704dbe22adac3b7fe58
+  - Id: Characters/b7376ef6-ffdd-4e0c-aba3-40fae9f4ab7d
+    Resources:
+    - name: BoxCutter
+      pathPrefix: Characters/BoxCutter
+      guid: 50bc0b387b0d7aa418a1d0dabc414cd5
+  - Id: Characters/e1fcc822-0fdd-4009-b980-3aba9caa3f1f
+    Resources:
+    - name: Medkit
+      pathPrefix: Characters/Medkit
+      guid: 6581049dda4d6f743baa6ec2997754ce
