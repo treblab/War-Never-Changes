@@ -200,6 +200,9 @@ MonoBehaviour:
     - name: Fight!
       pathPrefix: Audio
       guid: f680de131827b144489ca9188f2570fd
+    - name: DistantGunfire
+      pathPrefix: Audio
+      guid: 3ac3e0fd7c5197246b26a8e5e2bff12f
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab
