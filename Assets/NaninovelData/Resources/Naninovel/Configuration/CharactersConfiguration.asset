@@ -130,7 +130,7 @@ MonoBehaviour:
         - visible
       - name: Conflicted
         actorState:
-          appearance: Angry
+          appearance: Conflicted
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -154,7 +154,7 @@ MonoBehaviour:
         - visible
       - name: Happy
         actorState:
-          appearance: Angry
+          appearance: Happy
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -178,7 +178,7 @@ MonoBehaviour:
         - visible
       - name: Surprised
         actorState:
-          appearance: Angry
+          appearance: Surprised
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
