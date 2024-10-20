@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ARDAN_CONFLICTED_0: -4284016077472763484
+      ARDAN_CONFLICTED_1: -3672013399417680737
+      ARDAN_CONFLICTED_2: -1352627082949502071
+      ARDAN_CONFLICTED_3: -2495760905852459843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

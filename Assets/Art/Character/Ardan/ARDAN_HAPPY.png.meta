@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ARDAN_HAPPY_0: -6460100299930762614
+      ARDAN_HAPPY_1: -6542910024754357470
+      ARDAN_HAPPY_2: -4589067980663797449
+      ARDAN_HAPPY_3: -7499139544095182776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

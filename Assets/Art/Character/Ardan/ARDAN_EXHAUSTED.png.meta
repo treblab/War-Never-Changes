@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ARDAN_EXHAUSTED_0: -5162968684817723586
+      ARDAN_EXHAUSTED_1: -8822820571903733970
+      ARDAN_EXHAUSTED_2: 8411826273903242724
+      ARDAN_EXHAUSTED_3: 4225261560359312066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
