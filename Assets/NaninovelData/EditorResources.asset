@@ -253,9 +253,27 @@ MonoBehaviour:
       guid: 99ae0d7757f5f6a458f1afc981e39270
   - Id: Characters/a482b0ac-4b34-45ca-8301-509f3308bc95
     Resources:
-    - name: Ardan
+    - name: Default
       pathPrefix: Characters/Ardan
       guid: ca7af54ae2ef4fc4b98ea3d42e869c59
+    - name: Surprised
+      pathPrefix: Characters/Ardan
+      guid: 85aef1d91b9bd8c459321d3b9b1f103e
+    - name: Conflicted
+      pathPrefix: Characters/Ardan
+      guid: 1ad6774011c2ddf4d8c38c5a4c780d87
+    - name: Exhausted
+      pathPrefix: Characters/Ardan
+      guid: 6ae67702e77143042b412c28f5ab951b
+    - name: Happy
+      pathPrefix: Characters/Ardan
+      guid: 94be53e0fd9619c4fbc983eae0e2f161
+    - name: Sad
+      pathPrefix: Characters/Ardan
+      guid: 5aca08d411cd4bf489b22a2ba4a34d36
+    - name: Angry
+      pathPrefix: Characters/Ardan
+      guid: 075d8463df273bb4e808ef9306c1241f
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
     - name: Mira-placeholder
@@ -268,12 +286,27 @@ MonoBehaviour:
       guid: c38e816b257ae0f4aa33df34a34158a4
   - Id: Characters/d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
     Resources:
-    - name: Dorin
+    - name: Default
       pathPrefix: Characters/Dorin
       guid: 457bf6e1cf6591d42a81b0aaa11d541b
     - name: Angry
       pathPrefix: Characters/Dorin
       guid: c1eae12b1d04e884fa7284ef1d31c03e
+    - name: Conflicted
+      pathPrefix: Characters/Dorin
+      guid: 2d86c6c8f473bf34291cc016b340e854
+    - name: Exhausted
+      pathPrefix: Characters/Dorin
+      guid: 0166b8ffeae4a7c4ab4e4922655f6108
+    - name: Happy
+      pathPrefix: Characters/Dorin
+      guid: dd58a8802298dd64f8547f7be82576fd
+    - name: Sad
+      pathPrefix: Characters/Dorin
+      guid: e5b4c7e5f66b30442bccd34cb9cd8b69
+    - name: Surprised
+      pathPrefix: Characters/Dorin
+      guid: 6192154a41d5fe043a369547f1dbb68a
   - Id: Characters/82d8a8b8-5e09-41b4-8615-45440a5811d2
     Resources:
     - name: Boy-placeholder

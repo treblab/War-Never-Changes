@@ -22,8 +22,8 @@ MonoBehaviour:
   OverrideObjectsLayer: 1
   ObjectsLayer: 5
   FontOptions:
-  - FontName: American Font
-    Font: {fileID: 12800000, guid: 1cd2f234e0ab18b4dafeaaa916595125, type: 3}
-    TMPFont: {fileID: 11400000, guid: 4d35f7df859ceda4cb269d3803a2a260, type: 2}
+  - FontName: Accid
+    Font: {fileID: 12800000, guid: 134e99f42ea4d924aa6f569813c9eb4a, type: 3}
+    TMPFont: {fileID: 11400000, guid: ce778626a17d58d448de0f1165d84bd4, type: 2}
     ApplyOnLocale: 
-  DefaultFont: 
+  DefaultFont: Accid
