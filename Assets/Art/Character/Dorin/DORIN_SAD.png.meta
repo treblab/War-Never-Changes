@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DORIN_SAD_0: -8176787155417426956
+      DORIN_SAD_1: 104047573566534900
+      DORIN_SAD_2: -6017881098576930297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

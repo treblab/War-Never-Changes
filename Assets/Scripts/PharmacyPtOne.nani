@@ -10,7 +10,10 @@ Naya: Is Mama going to be okay, Dad?
 
 @char Dorin
 
-Dorin: *Dorin’s face tightens, and he looks at his daughter, forcing himself to meet her gaze.*
+*Dorin’s face tightens, and he looks at his daughter, forcing himself to meet her gaze.*
+
+@char Dorin.Sad
+
 Dorin: *He crouches beside Naya, brushing her hair behind her ear gently.*
 Dorin: We're going to do everything we can, Naya. We just need to find some antibiotics to help her fight off the infection.
 

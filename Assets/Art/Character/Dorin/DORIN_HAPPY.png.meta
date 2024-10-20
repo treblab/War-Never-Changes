@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DORIN_HAPPY_0: 4562303008141594006
+      DORIN_HAPPY_1: 1985558503410336963
+      DORIN_HAPPY_2: -2016826839152396913
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

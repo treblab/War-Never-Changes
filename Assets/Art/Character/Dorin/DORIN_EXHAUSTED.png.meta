@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DORIN_EXHAUSTED_0: -5563763171482918649
+      DORIN_EXHAUSTED_1: -7326490518222764429
+      DORIN_EXHAUSTED_2: 920214374481670924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
