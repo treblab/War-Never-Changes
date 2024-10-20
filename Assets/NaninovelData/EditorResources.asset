@@ -271,6 +271,9 @@ MonoBehaviour:
     - name: Dorin
       pathPrefix: Characters/Dorin
       guid: 457bf6e1cf6591d42a81b0aaa11d541b
+    - name: Angry
+      pathPrefix: Characters/Dorin
+      guid: c1eae12b1d04e884fa7284ef1d31c03e
   - Id: Characters/82d8a8b8-5e09-41b4-8615-45440a5811d2
     Resources:
     - name: Boy-placeholder
