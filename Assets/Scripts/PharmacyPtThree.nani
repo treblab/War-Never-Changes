@@ -1,5 +1,7 @@
 @back PharmacyBackRoom
 @bgm ConfrontationBGM loop:True
+@char Ardan
+@char Dorin
 @char Ardan.Surprised pos:10
 @char Dorin.Surprised pos:30
 
