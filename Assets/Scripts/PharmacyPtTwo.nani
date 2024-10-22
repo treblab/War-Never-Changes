@@ -42,7 +42,9 @@ Ardan: "Not even scraps. What now?"
 
 @showUI ScavengeUI
 
-You'll only have time to search two rooms. Select wisely, as your choice will determine the family's next steps.
+The amount of rooms you are able to search is shown in the top right corner.
+
+Choose wisely, as useful items may be found in each location.
 
 @choice "Search the Front Aisle" if:!choice1 set:choice1=true goto:.FrontAisle
 @choice "Search the Storage Room" if:!choice2 set:choice2=true goto:.StorageRoom
