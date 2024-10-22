@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 1ffa133a08088e64882ee935ed77f70d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8795487035118788213
+    second: DestroyedCar4_6_0
+  - first:
+      213: -3448369691205607899
+    second: DestroyedCar4_6_1
+  - first:
+      213: -4698847959463186427
+    second: DestroyedCar4_6_2
+  - first:
+      213: 4336408352156542217
+    second: DestroyedCar4_6_3
+  - first:
+      213: 90282650087516069
+    second: DestroyedCar4_6_4
+  - first:
+      213: 934533541516181336
+    second: DestroyedCar4_6_5
+  - first:
+      213: -6960383060687287348
+    second: DestroyedCar4_6_6
+  - first:
+      213: 8560398830781012681
+    second: DestroyedCar4_6_7
+  - first:
+      213: 2196047807963186221
+    second: DestroyedCar4_6_8
+  - first:
+      213: -3841055688362383884
+    second: DestroyedCar4_6_9
+  - first:
+      213: -7824097539498987034
+    second: DestroyedCar4_6_10
+  - first:
+      213: -1436891773660756759
+    second: DestroyedCar4_6_11
+  - first:
+      213: 8248564157588035582
+    second: DestroyedCar4_6_12
+  - first:
+      213: -1854149835597343068
+    second: DestroyedCar4_6_13
+  - first:
+      213: -1465008934206326050
+    second: DestroyedCar4_6_14
+  - first:
+      213: -6249386317066590588
+    second: DestroyedCar4_6_15
+  - first:
+      213: 4319251612426371529
+    second: DestroyedCar4_6_16
+  - first:
+      213: 7520727041016957709
+    second: DestroyedCar4_6_17
+  - first:
+      213: -3708129610983768018
+    second: DestroyedCar4_6_18
+  - first:
+      213: -934413206415487990
+    second: DestroyedCar4_6_19
+  - first:
+      213: 3556950524165638790
+    second: DestroyedCar4_6_20
+  - first:
+      213: 8109175936116720091
+    second: DestroyedCar4_6_21
+  - first:
+      213: -5954920507742284942
+    second: DestroyedCar4_6_22
+  - first:
+      213: -429276866305835912
+    second: DestroyedCar4_6_23
+  - first:
+      213: -8142939891575598058
+    second: DestroyedCar4_6_24
+  - first:
+      213: 8286766629939723291
+    second: DestroyedCar4_6_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DestroyedCar4_6_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 519
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e1fc2abd8df0a70800000000000000
+      internalID: 8795487035118788213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 457
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e577d390ee420d0800000000000000
+      internalID: -3448369691205607899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 497
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b0aa2da65aceb0800000000000000
+      internalID: -4698847959463186427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 538
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905e357cb640e2c30800000000000000
+      internalID: 4336408352156542217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 466
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7e8d7879fb04100800000000000000
+      internalID: 90282650087516069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 454
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f72ccfd4128fc00800000000000000
+      internalID: 934533541516181336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 313
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8617eb70c76f90800000000000000
+      internalID: -6960383060687287348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 351
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1f54b165acc670800000000000000
+      internalID: 8560398830781012681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 286
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24cb6f98dde97e10800000000000000
+      internalID: 2196047807963186221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 280
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5aaa4c334d1bac0800000000000000
+      internalID: -3841055688362383884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b72eddb83b6390800000000000000
+      internalID: -7824097539498987034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 277
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4054a7b822f0ce0800000000000000
+      internalID: -1436891773660756759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 265
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7dd080669c87270800000000000000
+      internalID: 8248564157588035582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a61fd85c8cb446e0800000000000000
+      internalID: -1854149835597343068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 235
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edabbd3e22e3babe0800000000000000
+      internalID: -1465008934206326050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862f0b5148b549a0800000000000000
+      internalID: -6249386317066590588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 207
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c10536057011fb30800000000000000
+      internalID: 4319251612426371529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 169
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8d74b56dfe5860800000000000000
+      internalID: 7520727041016957709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 139
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20843ce3c31a8cc0800000000000000
+      internalID: -3708129610983768018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 112
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ccb26b32c4803f0800000000000000
+      internalID: -934413206415487990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 22
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a488cf7a3dc5130800000000000000
+      internalID: 3556950524165638790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 49
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10265bc84998070800000000000000
+      internalID: 8109175936116720091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731556495fdb5da0800000000000000
+      internalID: -5954920507742284942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c3c89e6f6ea0af0800000000000000
+      internalID: -429276866305835912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614574fcf477efe80800000000000000
+      internalID: -8142939891575598058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedCar4_6_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c3e124852800370800000000000000
+      internalID: 8286766629939723291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

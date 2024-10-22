@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: b38820673e5135443937875720f881c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4160011130721425694
+    second: Debris45_8_0
+  - first:
+      213: 5437729812959777788
+    second: Debris45_8_1
+  - first:
+      213: 6382288959041414996
+    second: Debris45_8_2
+  - first:
+      213: -4903941265135147497
+    second: Debris45_8_3
+  - first:
+      213: 1601842580605896101
+    second: Debris45_8_4
+  - first:
+      213: -7334654906250663181
+    second: Debris45_8_5
+  - first:
+      213: -4619275086812726356
+    second: Debris45_8_6
+  - first:
+      213: 7565659749895095000
+    second: Debris45_8_7
+  - first:
+      213: -5241399231402329112
+    second: Debris45_8_8
+  - first:
+      213: -6657073062632373259
+    second: Debris45_8_9
+  - first:
+      213: 5753174567563886263
+    second: Debris45_8_10
+  - first:
+      213: 5557960750419066625
+    second: Debris45_8_11
+  - first:
+      213: 8938886673375970173
+    second: Debris45_8_12
+  - first:
+      213: -8747761450675720820
+    second: Debris45_8_13
+  - first:
+      213: 3691514739205759019
+    second: Debris45_8_14
+  - first:
+      213: 1382807073820150315
+    second: Debris45_8_15
+  - first:
+      213: 5672473825480729639
+    second: Debris45_8_16
+  - first:
+      213: -904798267127590337
+    second: Debris45_8_17
+  - first:
+      213: 5232766831557108606
+    second: Debris45_8_18
+  - first:
+      213: 8475775889847911258
+    second: Debris45_8_19
+  - first:
+      213: 8572369511741576526
+    second: Debris45_8_20
+  - first:
+      213: 6866250790154319877
+    second: Debris45_8_21
+  - first:
+      213: 8105505943615289529
+    second: Debris45_8_22
+  - first:
+      213: -4339492131075231113
+    second: Debris45_8_23
+  - first:
+      213: 4678214433365123169
+    second: Debris45_8_24
+  - first:
+      213: -511226895822049649
+    second: Debris45_8_25
+  - first:
+      213: -8364393437886187426
+    second: Debris45_8_26
+  - first:
+      213: 5468861294612401273
+    second: Debris45_8_27
+  - first:
+      213: 1331641944749733526
+    second: Debris45_8_28
+  - first:
+      213: -8006558592678287512
+    second: Debris45_8_29
+  - first:
+      213: 6696857810514428387
+    second: Debris45_8_30
+  - first:
+      213: -3671791062326096775
+    second: Debris45_8_31
+  - first:
+      213: -5584430172226038544
+    second: Debris45_8_32
+  - first:
+      213: -7577917806087334648
+    second: Debris45_8_33
+  - first:
+      213: 1543785565459759187
+    second: Debris45_8_34
+  - first:
+      213: 5646258922036870219
+    second: Debris45_8_35
+  - first:
+      213: 8823297437745568825
+    second: Debris45_8_36
+  - first:
+      213: 3726402574043857081
+    second: Debris45_8_37
+  - first:
+      213: -529697360662837369
+    second: Debris45_8_38
+  - first:
+      213: 5540600688577052258
+    second: Debris45_8_39
+  - first:
+      213: 6854274358086868604
+    second: Debris45_8_40
+  - first:
+      213: -3088174232233914166
+    second: Debris45_8_41
+  - first:
+      213: 4693061279721360385
+    second: Debris45_8_42
+  - first:
+      213: 2643019221806494635
+    second: Debris45_8_43
+  - first:
+      213: -9048618510402714864
+    second: Debris45_8_44
+  - first:
+      213: -2746821123170371294
+    second: Debris45_8_45
+  - first:
+      213: 5045463096720026354
+    second: Debris45_8_46
+  - first:
+      213: 6533016704130570339
+    second: Debris45_8_47
+  - first:
+      213: -531285667371577501
+    second: Debris45_8_48
+  - first:
+      213: -4774581592938511855
+    second: Debris45_8_49
+  - first:
+      213: 78883495083277162
+    second: Debris45_8_50
+  - first:
+      213: -1956573686174782742
+    second: Debris45_8_51
+  - first:
+      213: 7798568936476331035
+    second: Debris45_8_52
+  - first:
+      213: -1150428933295423330
+    second: Debris45_8_53
+  - first:
+      213: 7049667961596697992
+    second: Debris45_8_54
+  - first:
+      213: 3446502791714225061
+    second: Debris45_8_55
+  - first:
+      213: 6850087109927362694
+    second: Debris45_8_56
+  - first:
+      213: -7395264890255517794
+    second: Debris45_8_57
+  - first:
+      213: 2190593016818291822
+    second: Debris45_8_58
+  - first:
+      213: -8763897216581613129
+    second: Debris45_8_59
+  - first:
+      213: 7487304276190806485
+    second: Debris45_8_60
+  - first:
+      213: 2429780574972329246
+    second: Debris45_8_61
+  - first:
+      213: -6681718007266819756
+    second: Debris45_8_62
+  - first:
+      213: -8613551703947761789
+    second: Debris45_8_63
+  - first:
+      213: 6298078336678768477
+    second: Debris45_8_64
+  - first:
+      213: 4084474957161811190
+    second: Debris45_8_65
+  - first:
+      213: 7397670244607488699
+    second: Debris45_8_66
+  - first:
+      213: -4124508640370569262
+    second: Debris45_8_67
+  - first:
+      213: 5488596465299959319
+    second: Debris45_8_68
+  - first:
+      213: 8850552757271671751
+    second: Debris45_8_69
+  - first:
+      213: -2137009490892881474
+    second: Debris45_8_70
+  - first:
+      213: -1877656422211236666
+    second: Debris45_8_71
+  - first:
+      213: 4609608827098215255
+    second: Debris45_8_72
+  - first:
+      213: 4397827138868433480
+    second: Debris45_8_73
+  - first:
+      213: -4650803069992311532
+    second: Debris45_8_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Debris45_8_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ada3daeba446c0800000000000000
+      internalID: -4160011130721425694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 437
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3d40e5472b67b40800000000000000
+      internalID: 5437729812959777788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 421
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457af815ef1729850800000000000000
+      internalID: 6382288959041414996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166d3cc663b1fbb0800000000000000
+      internalID: -4903941265135147497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a50c131753ea3610800000000000000
+      internalID: 1601842580605896101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 400
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa6ad23932163a90800000000000000
+      internalID: -7334654906250663181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 368
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab37b258c905efb0800000000000000
+      internalID: -4619275086812726356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 358
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c7fb357f9ef860800000000000000
+      internalID: 7565659749895095000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 358
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb324e4b2fc247b0800000000000000
+      internalID: -5241399231402329112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 344
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3c9f9f1535d93a0800000000000000
+      internalID: -6657073062632373259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bef47e99c167df40800000000000000
+      internalID: 5753174567563886263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 328
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fba4cead7d12d40800000000000000
+      internalID: 5557960750419066625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 321
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d734c06b11e4d0c70800000000000000
+      internalID: 8938886673375970173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 313
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2e98ee45b99680800000000000000
+      internalID: -8747761450675720820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 319
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206a79c815ea3330800000000000000
+      internalID: 3691514739205759019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 302
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a82fb05b7b03310800000000000000
+      internalID: 1382807073820150315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ea75e3eca8be40800000000000000
+      internalID: 5672473825480729639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32987615c28173f0800000000000000
+      internalID: -904798267127590337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73686b75b58e9840800000000000000
+      internalID: 5232766831557108606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 283
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538436e34100a570800000000000000
+      internalID: 8475775889847911258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 289
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45debe07ac27f670800000000000000
+      internalID: 8572369511741576526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 282
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b4e5f6b2d94f50800000000000000
+      internalID: 6866250790154319877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b10ef5ba8c7070800000000000000
+      internalID: 8105505943615289529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 270
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77278adf5e607c3c0800000000000000
+      internalID: -4339492131075231113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 267
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16065dbad3b5ce040800000000000000
+      internalID: 4678214433365123169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 273
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea6eac8d1c7e8f0800000000000000
+      internalID: -511226895822049649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e587f251c74bbeb80800000000000000
+      internalID: -8364393437886187426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c41474f5c45eb40800000000000000
+      internalID: 5468861294612401273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 262
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69671dc1b41fa7210800000000000000
+      internalID: 1331641944749733526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8672f0a616df2e090800000000000000
+      internalID: -8006558592678287512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1430b72b400fc50800000000000000
+      internalID: 6696857810514428387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 229
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c49989b7d2b0dc0800000000000000
+      internalID: -3671791062326096775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 234
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45e7f885e1082b0800000000000000
+      internalID: -5584430172226038544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059e07a7e3d5d690800000000000000
+      internalID: -7577917806087334648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ca9edac0ac6510800000000000000
+      internalID: 1543785565459759187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 233
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c33ed039a8b5e40800000000000000
+      internalID: 5646258922036870219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 222
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c50749546a27a70800000000000000
+      internalID: 8823297437745568825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b04cf3d567d6b330800000000000000
+      internalID: 3726402574043857081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 227
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787ca339e0326a8f0800000000000000
+      internalID: -529697360662837369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 226
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e7bec88fa24ec40800000000000000
+      internalID: 5540600688577052258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_40
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 224
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e16d296364f1f50800000000000000
+      internalID: 6854274358086868604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0de2bc5e99425d0800000000000000
+      internalID: -3088174232233914166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 212
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c8ee67e5a112140800000000000000
+      internalID: 4693061279721360385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 209
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba33e4a9af3eda420800000000000000
+      internalID: 2643019221806494635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 211
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0130c6b0869dc6280800000000000000
+      internalID: -9048618510402714864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229f3e3edb451e9d0800000000000000
+      internalID: -2746821123170371294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 211
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae65754f5150640800000000000000
+      internalID: 5045463096720026354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_47
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36855693410f9aa50800000000000000
+      internalID: 6533016704130570339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 211
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f8f0a108e70a8f0800000000000000
+      internalID: -531285667371577501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 204
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11208c986574dbdb0800000000000000
+      internalID: -4774581592938511855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_50
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 205
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b741fee10481100800000000000000
+      internalID: 78883495083277162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaecaa499ad8d4e0800000000000000
+      internalID: -1956573686174782742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_52
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c411f01251a3c60800000000000000
+      internalID: 7798568936476331035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90489bfafad800f0800000000000000
+      internalID: -1150428933295423330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 186
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d5c6b09a375d160800000000000000
+      internalID: 7049667961596697992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb489570074df20800000000000000
+      internalID: 3446502791714225061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e3b3eee5601f50800000000000000
+      internalID: 6850087109927362694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_57
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 150
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d66c93cdbe5990800000000000000
+      internalID: -7395264890255517794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64d7e61ebc866e10800000000000000
+      internalID: 2190593016818291822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 125
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b94e952ae1606680800000000000000
+      internalID: -8763897216581613129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1cd9bd19f38e760800000000000000
+      internalID: 7487304276190806485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 76
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dbe553f8058b120800000000000000
+      internalID: 2429780574972329246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 76
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c787afd4c543a0800000000000000
+      internalID: -6681718007266819756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 78
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387abbf9c54867880800000000000000
+      internalID: -8613551703947761789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_64
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f2259e0e4476750800000000000000
+      internalID: 6298078336678768477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fccb934558fea830800000000000000
+      internalID: 4084474957161811190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 29
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27e4794edc9a660800000000000000
+      internalID: 7397670244607488699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 26
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfcea18e3dc2c6c0800000000000000
+      internalID: -4124508640370569262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e2ba5c7696b2c40800000000000000
+      internalID: 5488596465299959319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3380b27da73da70800000000000000
+      internalID: 8850552757271671751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_70
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 13
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb101bdb031d752e0800000000000000
+      internalID: -2137009490892881474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_71
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc4ed7ae6931f5e0800000000000000
+      internalID: -1877656422211236666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b1b43ece98ff30800000000000000
+      internalID: 4609608827098215255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84253db6b78380d30800000000000000
+      internalID: 4397827138868433480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris45_8_74
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415efc4bf37057fb0800000000000000
+      internalID: -4650803069992311532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
