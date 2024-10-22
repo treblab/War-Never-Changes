@@ -1,0 +1,4351 @@
+fileFormatVersion: 2
+guid: 65ffdfeb7e1686a42bdd02b7b80e9c31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1396419503500298902
+    second: Building7_Inside2_2_0
+  - first:
+      213: -7984829376455562053
+    second: Building7_Inside2_2_1
+  - first:
+      213: -2638953411965021827
+    second: Building7_Inside2_2_2
+  - first:
+      213: 5155167270403314215
+    second: Building7_Inside2_2_3
+  - first:
+      213: -7426041270266358084
+    second: Building7_Inside2_2_4
+  - first:
+      213: -4101696228163239777
+    second: Building7_Inside2_2_5
+  - first:
+      213: -2900215167297048012
+    second: Building7_Inside2_2_6
+  - first:
+      213: 5839213002863514465
+    second: Building7_Inside2_2_7
+  - first:
+      213: -243229838240756780
+    second: Building7_Inside2_2_8
+  - first:
+      213: 2946361166542766869
+    second: Building7_Inside2_2_9
+  - first:
+      213: 8583527457674148941
+    second: Building7_Inside2_2_10
+  - first:
+      213: -3635746784340263062
+    second: Building7_Inside2_2_11
+  - first:
+      213: 8940895854451301325
+    second: Building7_Inside2_2_12
+  - first:
+      213: -5927987301186422891
+    second: Building7_Inside2_2_13
+  - first:
+      213: -2019783330119981787
+    second: Building7_Inside2_2_14
+  - first:
+      213: 4015002032373959186
+    second: Building7_Inside2_2_15
+  - first:
+      213: -1159494677190959239
+    second: Building7_Inside2_2_16
+  - first:
+      213: -7453336245149797995
+    second: Building7_Inside2_2_17
+  - first:
+      213: -1877225119704741877
+    second: Building7_Inside2_2_18
+  - first:
+      213: 1045742744763064341
+    second: Building7_Inside2_2_19
+  - first:
+      213: 1387645981451920010
+    second: Building7_Inside2_2_20
+  - first:
+      213: 3769120680060391710
+    second: Building7_Inside2_2_21
+  - first:
+      213: -8503829464496182989
+    second: Building7_Inside2_2_22
+  - first:
+      213: -5724589532783947853
+    second: Building7_Inside2_2_23
+  - first:
+      213: 5850290951101517774
+    second: Building7_Inside2_2_24
+  - first:
+      213: -7597010006459256803
+    second: Building7_Inside2_2_25
+  - first:
+      213: 7333528579914363456
+    second: Building7_Inside2_2_26
+  - first:
+      213: -1590186830808673880
+    second: Building7_Inside2_2_27
+  - first:
+      213: -8034007533163307945
+    second: Building7_Inside2_2_28
+  - first:
+      213: -7860037559506584911
+    second: Building7_Inside2_2_29
+  - first:
+      213: -4171032460217221283
+    second: Building7_Inside2_2_30
+  - first:
+      213: -2687393016327828328
+    second: Building7_Inside2_2_31
+  - first:
+      213: -4207432869155471037
+    second: Building7_Inside2_2_32
+  - first:
+      213: 5792472367074479447
+    second: Building7_Inside2_2_33
+  - first:
+      213: 3905114750436140878
+    second: Building7_Inside2_2_34
+  - first:
+      213: -5725614883413414134
+    second: Building7_Inside2_2_35
+  - first:
+      213: 6704465745311844669
+    second: Building7_Inside2_2_36
+  - first:
+      213: 5024251434847581101
+    second: Building7_Inside2_2_37
+  - first:
+      213: 9148002380073622769
+    second: Building7_Inside2_2_38
+  - first:
+      213: 2417022276538114474
+    second: Building7_Inside2_2_39
+  - first:
+      213: 6608316572289891168
+    second: Building7_Inside2_2_40
+  - first:
+      213: 619405013665933382
+    second: Building7_Inside2_2_41
+  - first:
+      213: -9180733228042152245
+    second: Building7_Inside2_2_42
+  - first:
+      213: 1158436653580932634
+    second: Building7_Inside2_2_43
+  - first:
+      213: 5414850453221619376
+    second: Building7_Inside2_2_44
+  - first:
+      213: -1479387274913314819
+    second: Building7_Inside2_2_45
+  - first:
+      213: -1684138601675087053
+    second: Building7_Inside2_2_46
+  - first:
+      213: -8595687978459632023
+    second: Building7_Inside2_2_47
+  - first:
+      213: 1120146283776024816
+    second: Building7_Inside2_2_48
+  - first:
+      213: -2458531263793246029
+    second: Building7_Inside2_2_49
+  - first:
+      213: -6806076927617147095
+    second: Building7_Inside2_2_50
+  - first:
+      213: 51755710328918759
+    second: Building7_Inside2_2_51
+  - first:
+      213: -8811534602540088819
+    second: Building7_Inside2_2_52
+  - first:
+      213: -2655920152275340652
+    second: Building7_Inside2_2_53
+  - first:
+      213: 3627859323920201819
+    second: Building7_Inside2_2_54
+  - first:
+      213: 8108394859558773084
+    second: Building7_Inside2_2_55
+  - first:
+      213: -1212026651331564522
+    second: Building7_Inside2_2_56
+  - first:
+      213: 3886510466138260943
+    second: Building7_Inside2_2_57
+  - first:
+      213: 7217149457353899012
+    second: Building7_Inside2_2_58
+  - first:
+      213: -4942616303127757919
+    second: Building7_Inside2_2_59
+  - first:
+      213: 6381462766660603841
+    second: Building7_Inside2_2_60
+  - first:
+      213: -7242640765665086265
+    second: Building7_Inside2_2_61
+  - first:
+      213: -5462381493126508381
+    second: Building7_Inside2_2_62
+  - first:
+      213: -7433216178103711264
+    second: Building7_Inside2_2_63
+  - first:
+      213: -5824564511202625567
+    second: Building7_Inside2_2_64
+  - first:
+      213: 8973212852939220496
+    second: Building7_Inside2_2_65
+  - first:
+      213: 3548312461974712480
+    second: Building7_Inside2_2_66
+  - first:
+      213: -6254411155135311555
+    second: Building7_Inside2_2_67
+  - first:
+      213: -7450978354408258379
+    second: Building7_Inside2_2_68
+  - first:
+      213: -8538736157178167286
+    second: Building7_Inside2_2_69
+  - first:
+      213: -7498869362374625622
+    second: Building7_Inside2_2_70
+  - first:
+      213: 6701576963242954427
+    second: Building7_Inside2_2_71
+  - first:
+      213: 7340638408507267804
+    second: Building7_Inside2_2_72
+  - first:
+      213: 554911937282494736
+    second: Building7_Inside2_2_73
+  - first:
+      213: -7616778826459049978
+    second: Building7_Inside2_2_74
+  - first:
+      213: 3614059737019213453
+    second: Building7_Inside2_2_75
+  - first:
+      213: -6861878330005818903
+    second: Building7_Inside2_2_76
+  - first:
+      213: -3053626020566876007
+    second: Building7_Inside2_2_77
+  - first:
+      213: -6663098244470115820
+    second: Building7_Inside2_2_78
+  - first:
+      213: 3982988037499181139
+    second: Building7_Inside2_2_79
+  - first:
+      213: 5205792857160307784
+    second: Building7_Inside2_2_80
+  - first:
+      213: -7855412443747155350
+    second: Building7_Inside2_2_81
+  - first:
+      213: -4932854648479821588
+    second: Building7_Inside2_2_82
+  - first:
+      213: -8558653649836702784
+    second: Building7_Inside2_2_83
+  - first:
+      213: -5824400042661861261
+    second: Building7_Inside2_2_84
+  - first:
+      213: -5556022387841092475
+    second: Building7_Inside2_2_85
+  - first:
+      213: -44074129996077140
+    second: Building7_Inside2_2_86
+  - first:
+      213: -9020668231159292589
+    second: Building7_Inside2_2_87
+  - first:
+      213: -8364486247403494665
+    second: Building7_Inside2_2_88
+  - first:
+      213: -2981897085447249367
+    second: Building7_Inside2_2_89
+  - first:
+      213: 452848182928280055
+    second: Building7_Inside2_2_90
+  - first:
+      213: -1676974660273679261
+    second: Building7_Inside2_2_91
+  - first:
+      213: -5090201545590950301
+    second: Building7_Inside2_2_92
+  - first:
+      213: 8226373776315394669
+    second: Building7_Inside2_2_93
+  - first:
+      213: 4879520635456127934
+    second: Building7_Inside2_2_94
+  - first:
+      213: 4887944168475623883
+    second: Building7_Inside2_2_95
+  - first:
+      213: -8717648802733671704
+    second: Building7_Inside2_2_96
+  - first:
+      213: -6144238637688059461
+    second: Building7_Inside2_2_97
+  - first:
+      213: -1238830862778437048
+    second: Building7_Inside2_2_98
+  - first:
+      213: -2166384514417024076
+    second: Building7_Inside2_2_99
+  - first:
+      213: 4485567484698675800
+    second: Building7_Inside2_2_100
+  - first:
+      213: -1358750453178599882
+    second: Building7_Inside2_2_101
+  - first:
+      213: -4710392768430811164
+    second: Building7_Inside2_2_102
+  - first:
+      213: 662699075645247953
+    second: Building7_Inside2_2_103
+  - first:
+      213: -835634258665792180
+    second: Building7_Inside2_2_104
+  - first:
+      213: 4492465672241546355
+    second: Building7_Inside2_2_105
+  - first:
+      213: 1660110077572741733
+    second: Building7_Inside2_2_106
+  - first:
+      213: 4925523906435412191
+    second: Building7_Inside2_2_107
+  - first:
+      213: -1473334602528418315
+    second: Building7_Inside2_2_108
+  - first:
+      213: 33475606934563924
+    second: Building7_Inside2_2_109
+  - first:
+      213: 5556378331158626448
+    second: Building7_Inside2_2_110
+  - first:
+      213: 2819728196914247767
+    second: Building7_Inside2_2_111
+  - first:
+      213: -7673735794873760529
+    second: Building7_Inside2_2_112
+  - first:
+      213: -3100212708753897268
+    second: Building7_Inside2_2_113
+  - first:
+      213: -8134102034951695546
+    second: Building7_Inside2_2_114
+  - first:
+      213: 5048518564738076958
+    second: Building7_Inside2_2_115
+  - first:
+      213: 5221639355430016550
+    second: Building7_Inside2_2_116
+  - first:
+      213: 3616441799781092875
+    second: Building7_Inside2_2_117
+  - first:
+      213: 3485567132333860856
+    second: Building7_Inside2_2_118
+  - first:
+      213: 3775805831013057312
+    second: Building7_Inside2_2_119
+  - first:
+      213: -36356620748480711
+    second: Building7_Inside2_2_120
+  - first:
+      213: -1147474067605984704
+    second: Building7_Inside2_2_121
+  - first:
+      213: -7114521042957186764
+    second: Building7_Inside2_2_122
+  - first:
+      213: -6658427703171858959
+    second: Building7_Inside2_2_123
+  - first:
+      213: 4535828541579308987
+    second: Building7_Inside2_2_124
+  - first:
+      213: 8263172483402879204
+    second: Building7_Inside2_2_125
+  - first:
+      213: -5875293302300289576
+    second: Building7_Inside2_2_126
+  - first:
+      213: 580478644290137236
+    second: Building7_Inside2_2_127
+  - first:
+      213: -2107304029247934494
+    second: Building7_Inside2_2_128
+  - first:
+      213: 1597660631920539643
+    second: Building7_Inside2_2_129
+  - first:
+      213: 6762815851406847348
+    second: Building7_Inside2_2_130
+  - first:
+      213: -1432371371191708090
+    second: Building7_Inside2_2_131
+  - first:
+      213: 2212863505087612499
+    second: Building7_Inside2_2_132
+  - first:
+      213: -55814800088668990
+    second: Building7_Inside2_2_133
+  - first:
+      213: 2000899813120281135
+    second: Building7_Inside2_2_134
+  - first:
+      213: 8305668626775486281
+    second: Building7_Inside2_2_135
+  - first:
+      213: -7915493929921818193
+    second: Building7_Inside2_2_136
+  - first:
+      213: -3361062642489081256
+    second: Building7_Inside2_2_137
+  - first:
+      213: -6465240362690716686
+    second: Building7_Inside2_2_138
+  - first:
+      213: -9103635902917190057
+    second: Building7_Inside2_2_139
+  - first:
+      213: 6024424482039692985
+    second: Building7_Inside2_2_140
+  - first:
+      213: -781237096300425194
+    second: Building7_Inside2_2_141
+  - first:
+      213: 3196991749524532438
+    second: Building7_Inside2_2_142
+  - first:
+      213: 6056536249972093634
+    second: Building7_Inside2_2_143
+  - first:
+      213: -5411564342138914085
+    second: Building7_Inside2_2_144
+  - first:
+      213: 7159561338491590347
+    second: Building7_Inside2_2_145
+  - first:
+      213: 1895976286675272749
+    second: Building7_Inside2_2_146
+  - first:
+      213: -8511103328549375749
+    second: Building7_Inside2_2_147
+  - first:
+      213: 376088928740681836
+    second: Building7_Inside2_2_148
+  - first:
+      213: 7723925312594651619
+    second: Building7_Inside2_2_149
+  - first:
+      213: -6223655579438996985
+    second: Building7_Inside2_2_150
+  - first:
+      213: -8186172395744365965
+    second: Building7_Inside2_2_151
+  - first:
+      213: -239279964543130544
+    second: Building7_Inside2_2_152
+  - first:
+      213: -9077214644390826290
+    second: Building7_Inside2_2_153
+  - first:
+      213: -4379128331989592555
+    second: Building7_Inside2_2_154
+  - first:
+      213: -5174696150380561306
+    second: Building7_Inside2_2_155
+  - first:
+      213: 3375288923143228149
+    second: Building7_Inside2_2_156
+  - first:
+      213: 5801767661409126017
+    second: Building7_Inside2_2_157
+  - first:
+      213: -7834071002120950068
+    second: Building7_Inside2_2_158
+  - first:
+      213: 4707072686465910803
+    second: Building7_Inside2_2_159
+  - first:
+      213: 8175289388515905691
+    second: Building7_Inside2_2_160
+  - first:
+      213: 2713608582613378904
+    second: Building7_Inside2_2_161
+  - first:
+      213: 7089692830269426836
+    second: Building7_Inside2_2_162
+  - first:
+      213: -8003807905464099339
+    second: Building7_Inside2_2_163
+  - first:
+      213: 8487214968932437112
+    second: Building7_Inside2_2_164
+  - first:
+      213: -3260007589227198752
+    second: Building7_Inside2_2_165
+  - first:
+      213: -6133654999806850503
+    second: Building7_Inside2_2_166
+  - first:
+      213: -3612555254715871829
+    second: Building7_Inside2_2_167
+  - first:
+      213: 3601443831733870639
+    second: Building7_Inside2_2_168
+  - first:
+      213: -5700949547680439768
+    second: Building7_Inside2_2_169
+  - first:
+      213: -6800551264204450186
+    second: Building7_Inside2_2_170
+  - first:
+      213: -4025445800118640046
+    second: Building7_Inside2_2_171
+  - first:
+      213: 7631896811381113684
+    second: Building7_Inside2_2_172
+  - first:
+      213: 3495364797807667803
+    second: Building7_Inside2_2_173
+  - first:
+      213: -7151550581250694306
+    second: Building7_Inside2_2_174
+  - first:
+      213: 7781150479863502372
+    second: Building7_Inside2_2_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Building7_Inside2_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4903
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ff603cdbee9ce0800000000000000
+      internalID: -1396419503500298902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1098
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc2340dcff203190800000000000000
+      internalID: -7984829376455562053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1059
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7115058add806bd0800000000000000
+      internalID: -2638953411965021827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1052
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7221c16b155da8740800000000000000
+      internalID: 5155167270403314215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1035
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6126e3fc661f890800000000000000
+      internalID: -7426041270266358084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1024
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9045cf1309d317c0800000000000000
+      internalID: -4101696228163239777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1009
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4323f0ddbad50c7d0800000000000000
+      internalID: -2900215167297048012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1008
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1639583e94d090150800000000000000
+      internalID: 5839213002863514465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 988
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db42e430cfdf9cf0800000000000000
+      internalID: -243229838240756780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 992
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51389c7ded393e820800000000000000
+      internalID: 2946361166542766869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 970
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cba7aceb0de1770800000000000000
+      internalID: 8583527457674148941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 975
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f312a009b3b8dc0800000000000000
+      internalID: -3635746784340263062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 953
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb1552a861741c70800000000000000
+      internalID: 8940895854451301325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 956
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597b1c715fe8bbda0800000000000000
+      internalID: -5927987301186422891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 960
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52561f433c948f3e0800000000000000
+      internalID: -2019783330119981787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 961
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0f18731728b730800000000000000
+      internalID: 4015002032373959186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f931ffbb5a8efe0800000000000000
+      internalID: -1159494677190959239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_17
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917d4cac2e609890800000000000000
+      internalID: -7453336245149797995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 946
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b080f8813b1c2f5e0800000000000000
+      internalID: -1877225119704741877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 936
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106b0c5c79338e00800000000000000
+      internalID: 1045742744763064341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 940
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82a0760ba8e14310800000000000000
+      internalID: 1387645981451920010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 920
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e111492f94b9e4430800000000000000
+      internalID: 3769120680060391710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_22
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 928
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339643248245cf980800000000000000
+      internalID: -8503829464496182989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 920
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf4e7d662c2e80b0800000000000000
+      internalID: -5724589532783947853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 905
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf8615bf98603150800000000000000
+      internalID: 5850290951101517774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 907
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1078e956aff19690800000000000000
+      internalID: -7597010006459256803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_26
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 903
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04278f3836de5c560800000000000000
+      internalID: 7333528579914363456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 889
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a11527a0858ee9e0800000000000000
+      internalID: -1590186830808673880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 884
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1dfee6b8718090800000000000000
+      internalID: -8034007533163307945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 895
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab160eb798be290800000000000000
+      internalID: -7860037559506584911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 878
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff02693148d16c0800000000000000
+      internalID: -4171032460217221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 890
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c0ae14a4674bad0800000000000000
+      internalID: -2687393016327828328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_32
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 889
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3418fa1f8123c95c0800000000000000
+      internalID: -4207432869155471037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d8db29deef26050800000000000000
+      internalID: 5792472367074479447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 871
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4762e2ec21c13630800000000000000
+      internalID: 3905114750436140878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_35
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 875
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f247169978a80b0800000000000000
+      internalID: -5725614883413414134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d394616d21c0b0d50800000000000000
+      internalID: 6704465745311844669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 862
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da336547f0ab9b540800000000000000
+      internalID: 5024251434847581101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_38
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 861
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc57bc42bb34fe70800000000000000
+      internalID: 9148002380073622769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_39
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 861
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a24f54fcfa8120800000000000000
+      internalID: 2417022276538114474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_40
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 863
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b7aaef8e475bb50800000000000000
+      internalID: 6608316572289891168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 852
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64867a30491989800800000000000000
+      internalID: 619405013665933382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 853
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61cec45cb779080800000000000000
+      internalID: -9180733228042152245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_43
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16db7faff7931010800000000000000
+      internalID: 1158436653580932634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 843
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b633205cc9652b40800000000000000
+      internalID: 5414850453221619376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 838
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df70f819c19287be0800000000000000
+      internalID: -1479387274913314819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 833
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33322ae5ddcb0a8e0800000000000000
+      internalID: -1684138601675087053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e61d3535bf5b880800000000000000
+      internalID: -8595687978459632023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_48
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 825
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a1fc3c1f8b8f00800000000000000
+      internalID: 1120146283776024816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 819
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0596867da81edd0800000000000000
+      internalID: -2458531263793246029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_50
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 817
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd56f2815fb81a0800000000000000
+      internalID: -6806076927617147095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_51
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 820
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2d0495b8fd7b000800000000000000
+      internalID: 51755710328918759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_52
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 816
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020989e6f327b580800000000000000
+      internalID: -8811534602540088819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_53
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 809
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b3d371b6442bd0800000000000000
+      internalID: -2655920152275340652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 812
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b583a5975deb85230800000000000000
+      internalID: 3627859323920201819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 813
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51aa962a2ec68070800000000000000
+      internalID: 8108394859558773084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_56
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 803
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c6315ae240e2fe0800000000000000
+      internalID: -1212026651331564522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 806
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc542066da8afe530800000000000000
+      internalID: 3886510466138260943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_58
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 801
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7b708137782460800000000000000
+      internalID: 7217149457353899012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 793
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abf30fc8ac486bb0800000000000000
+      internalID: -4942616303127757919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 791
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfcf2a63928f8850800000000000000
+      internalID: 6381462766660603841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 797
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4f4c6c898fc7b90800000000000000
+      internalID: -7242640765665086265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 796
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d68219f8b134b0800000000000000
+      internalID: -5462381493126508381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_63
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 790
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90175d449e7d890800000000000000
+      internalID: -7433216178103711264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_64
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 797
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7bb6adf6dfa2fa0800000000000000
+      internalID: -5824564511202625567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_65
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 778
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01669613c81478c70800000000000000
+      internalID: 8973212852939220496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_66
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 780
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0381862632e3130800000000000000
+      internalID: 3548312461974712480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_67
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 784
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315be2113ed339a0800000000000000
+      internalID: -6254411155135311555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_68
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 780
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b40f54e9aec89890800000000000000
+      internalID: -7450978354408258379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_69
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 784
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008c9884b0508980800000000000000
+      internalID: -8538736157178167286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_70
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b99eab0aaee790800000000000000
+      internalID: -7498869362374625622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_71
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 781
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8909ddb8c00d50800000000000000
+      internalID: 6701576963242954427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_72
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 777
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda1aab7dbf2fd560800000000000000
+      internalID: 7340638408507267804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_73
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 773
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011d857877173b700800000000000000
+      internalID: 554911937282494736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_74
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 768
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60011344304cb4690800000000000000
+      internalID: -7616778826459049978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_75
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866216ce28b72230800000000000000
+      internalID: 3614059737019213453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 764
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17d00c306b5c0a0800000000000000
+      internalID: -6861878330005818903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 754
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c83720575f95d0800000000000000
+      internalID: -3053626020566876007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_78
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 749
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41274d2037be783a0800000000000000
+      internalID: -6663098244470115820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_79
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 756
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d4cf648a664730800000000000000
+      internalID: 3982988037499181139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 753
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445e49a501be3840800000000000000
+      internalID: 5205792857160307784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_81
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 745
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62844e8008fbf290800000000000000
+      internalID: -7855412443747155350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 745
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0d9b425dafa8bb0800000000000000
+      internalID: -4932854648479821588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_83
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 742
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c302e5e9dd893980800000000000000
+      internalID: -8558653649836702784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_84
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 741
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ae5b25039b2fa0800000000000000
+      internalID: -5824400042661861261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_85
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 741
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843d98431b05e2b0800000000000000
+      internalID: -5556022387841092475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_86
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 731
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7acc1ffca636ff0800000000000000
+      internalID: -44074129996077140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_87
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 734
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d591d890620d280800000000000000
+      internalID: -9020668231159292589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_88
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 734
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2efde23106beb80800000000000000
+      internalID: -8364486247403494665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_89
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 731
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e429466c2e96d0800000000000000
+      internalID: -2981897085447249367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_90
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f90f98e507d84600800000000000000
+      internalID: 452848182928280055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_91
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 727
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645e057e603ab8e0800000000000000
+      internalID: -1676974660273679261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_92
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36638efc9a8fb59b0800000000000000
+      internalID: -5090201545590950301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_93
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 722
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2ed64d53f92270800000000000000
+      internalID: 8226373776315394669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_94
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb30d864a2a87b340800000000000000
+      internalID: 4879520635456127934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_95
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 716
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc18ee3e25775d340800000000000000
+      internalID: 4887944168475623883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_96
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 726
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea337c1a90b40780800000000000000
+      internalID: -8717648802733671704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_97
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb98f5933874bbaa0800000000000000
+      internalID: -6144238637688059461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 717
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842fc47d4e9cecee0800000000000000
+      internalID: -1238830862778437048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_99
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 714
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3244b13c47fe1e0800000000000000
+      internalID: -2166384514417024076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_100
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac18d9cdfef3e30800000000000000
+      internalID: 4485567484698675800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_101
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 716
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63673eb69afb42de0800000000000000
+      internalID: -1358750453178599882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_102
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 713
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7dc1ddbb251aeb0800000000000000
+      internalID: -4710392768430811164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_103
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 702
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d190d45c41623900800000000000000
+      internalID: 662699075645247953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_104
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 701
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d1412b11b3764f0800000000000000
+      internalID: -835634258665792180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_105
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 705
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374089f0ab1785e30800000000000000
+      internalID: 4492465672241546355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_106
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 699
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af4c5e155e90710800000000000000
+      internalID: 1660110077572741733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_107
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f6c775e9fa5440800000000000000
+      internalID: 4925523906435412191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_108
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 692
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5900d2cf9ad8be0800000000000000
+      internalID: -1473334602528418315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 691
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca9fb13ede67000800000000000000
+      internalID: 33475606934563924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 697
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090436a37a83c1d40800000000000000
+      internalID: 5556378331158626448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_111
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 694
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f9340bdfa12720800000000000000
+      internalID: 2819728196914247767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_112
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe48956a3f9618590800000000000000
+      internalID: -7673735794873760529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_113
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 689
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8829e87f4d9f4d0800000000000000
+      internalID: -3100212708753897268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_114
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 686
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6431ce7ab4ddd1f80800000000000000
+      internalID: -8134102034951695546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 678
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e119d2de2e0ff0640800000000000000
+      internalID: 5048518564738076958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_116
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 681
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6261b9d045df67840800000000000000
+      internalID: 5221639355430016550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_117
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 676
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e83daf7ae203230800000000000000
+      internalID: 3616441799781092875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_118
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 673
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7698be6d83f5030800000000000000
+      internalID: 3485567132333860856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c162f56b566430800000000000000
+      internalID: 3775805831013057312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_120
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 680
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f9d0798d5de7ff0800000000000000
+      internalID: -36356620748480711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_121
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 659
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a6f534a6a5310f0800000000000000
+      internalID: -1147474067605984704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_122
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 652
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ce774ec4244d90800000000000000
+      internalID: -7114521042957186764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_123
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 663
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd32d528438893a0800000000000000
+      internalID: -6658427703171858959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_124
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 653
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfa9e6d60082fe30800000000000000
+      internalID: 4535828541579308987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_125
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 650
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d20fe79faca270800000000000000
+      internalID: 8263172483402879204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_126
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5d825ced3c67ea0800000000000000
+      internalID: -5875293302300289576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 639
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c2d9060464e0800800000000000000
+      internalID: 580478644290137236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_128
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 647
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef6dee762a51c2e0800000000000000
+      internalID: -2107304029247934494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 633
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7ff3541e70c2610800000000000000
+      internalID: 1597660631920539643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_130
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 634
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6c789f295add50800000000000000
+      internalID: 6762815851406847348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_131
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 625
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646dda1b3d13f1ce0800000000000000
+      internalID: -1432371371191708090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_132
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 623
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3564c2532aba5be10800000000000000
+      internalID: 2212863505087612499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_133
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 617
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4618b2cb4b93ff0800000000000000
+      internalID: -55814800088668990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_134
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 612
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a0e2067cf94cb10800000000000000
+      internalID: 2000899813120281135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_135
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 617
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f2f095c99a34370800000000000000
+      internalID: 8305668626775486281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_136
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 612
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1df357534862290800000000000000
+      internalID: -7915493929921818193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_137
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8524a96955b1b51d0800000000000000
+      internalID: -3361062642489081256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_138
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 605
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb5d4af42ad646a0800000000000000
+      internalID: -6465240362690716686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_139
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ed022216369a180800000000000000
+      internalID: -9103635902917190057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_140
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 600
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be742cc52e0b9350800000000000000
+      internalID: 6024424482039692985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_141
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 600
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d7a5000d7825f0800000000000000
+      internalID: -781237096300425194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_142
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dca34cce0ffd5c20800000000000000
+      internalID: 3196991749524532438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 598
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2fcd461a32d0450800000000000000
+      internalID: 6056536249972093634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_144
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 594
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdab3ab07e246e4b0800000000000000
+      internalID: -5411564342138914085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_145
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 588
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc65968ba1fdb5360800000000000000
+      internalID: 7159561338491590347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_146
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 579
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2408dd236cdf4a10800000000000000
+      internalID: 1895976286675272749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_147
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 556
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07b2fcd9c72e980800000000000000
+      internalID: -8511103328549375749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_148
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 563
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68ab8953e2283500800000000000000
+      internalID: 376088928740681836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_149
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 562
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e92ad01625e03b60800000000000000
+      internalID: 7723925312594651619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_150
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 555
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702292f893221a9a0800000000000000
+      internalID: -6223655579438996985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_151
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 550
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3727c89049fd46e80800000000000000
+      internalID: -8186172395744365965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_152
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 544
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054e987d328edacf0800000000000000
+      internalID: -239279964543130544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_153
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 546
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece6c13cf51470280800000000000000
+      internalID: -9077214644390826290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_154
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 535
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51659e1dbf53a33c0800000000000000
+      internalID: -4379128331989592555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_155
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 529
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3cf79449cf28b0800000000000000
+      internalID: -5174696150380561306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_156
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 531
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa434e746f67de20800000000000000
+      internalID: 3375288923143228149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_157
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 535
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186c3afe2f4048050800000000000000
+      internalID: 5801767661409126017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_158
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 536
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce64652ee9c74390800000000000000
+      internalID: -7834071002120950068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_159
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 520
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3188eb05ba1e25140800000000000000
+      internalID: 4707072686465910803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_160
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d2826266747170800000000000000
+      internalID: 8175289388515905691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_161
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572f1ae0aca8a520800000000000000
+      internalID: 2713608582613378904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_162
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 517
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cc7daf016a36260800000000000000
+      internalID: 7089692830269426836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_163
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5950bd13cce090800000000000000
+      internalID: -8003807905464099339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 503
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c889b0c05a8c570800000000000000
+      internalID: 8487214968932437112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_165
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6090fae5022c2d0800000000000000
+      internalID: -3260007589227198752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_166
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac6b17641e0eaa0800000000000000
+      internalID: -6133654999806850503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_167
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 481
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad803fc220adddc0800000000000000
+      internalID: -3612555254715871829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_168
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 483
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e40d6516eaf130800000000000000
+      internalID: 3601443831733870639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_169
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8226510679822e0b0800000000000000
+      internalID: -5700949547680439768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_170
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 452
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769244f7a69f91a0800000000000000
+      internalID: -6800551264204450186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_171
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 437
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252275d5f5eb228c0800000000000000
+      internalID: -4025445800118640046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_172
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 423
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453cec4e6b1f9e960800000000000000
+      internalID: 7631896811381113684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_173
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a2bbda3c7028030800000000000000
+      internalID: 3495364797807667803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_174
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 407
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53605b03a690cc90800000000000000
+      internalID: -7151550581250694306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building7_Inside2_2_175
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426df1892233cfb60800000000000000
+      internalID: 7781150479863502372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
