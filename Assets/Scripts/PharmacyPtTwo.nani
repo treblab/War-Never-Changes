@@ -40,6 +40,8 @@ Ardan: "Not even scraps. What now?"
 @char Dorin.Default
 @char Ardan.Default
 
+@showUI ScavengeUI
+
 You'll only have time to search two rooms. Select wisely, as your choice will determine the family's next steps.
 
 @choice "Search the Front Aisle" if:!choice1 set:choice1=true goto:.FrontAisle
