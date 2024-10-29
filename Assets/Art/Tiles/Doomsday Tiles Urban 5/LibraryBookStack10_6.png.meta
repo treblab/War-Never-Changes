@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LibraryBookStack10_6_0: 4656526080925919818
+      LibraryBookStack10_6_1: -3150425695971709150
+      LibraryBookStack10_6_2: -4709142192350199394
+      LibraryBookStack10_6_3: 6023454974907853469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

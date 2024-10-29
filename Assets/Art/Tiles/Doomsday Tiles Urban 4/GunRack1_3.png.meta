@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GunRack1_3_0: 2148849899349434463
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

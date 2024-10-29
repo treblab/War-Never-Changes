@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrokenDoor1_3_0: -7923569146635402376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

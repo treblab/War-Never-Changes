@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrokenHighway2_4_0: -3767736142254424078
+      BrokenHighway2_4_1: 8797355570361629586
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

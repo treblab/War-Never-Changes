@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decal_Road_13b_0: 8533707530939934025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

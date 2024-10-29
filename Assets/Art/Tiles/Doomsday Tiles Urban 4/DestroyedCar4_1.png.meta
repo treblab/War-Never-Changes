@@ -407,7 +407,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DestroyedCar4_1_0: -6905529712631717010
+      DestroyedCar4_1_1: 8976456137900834362
+      DestroyedCar4_1_10: -3144015186189913402
+      DestroyedCar4_1_11: 7683530882667858997
+      DestroyedCar4_1_2: 1400156668991061231
+      DestroyedCar4_1_3: 7777884155971027483
+      DestroyedCar4_1_4: 3823660372677785675
+      DestroyedCar4_1_5: -7693249285051522121
+      DestroyedCar4_1_6: -4083815761574901132
+      DestroyedCar4_1_7: -4553797171797255727
+      DestroyedCar4_1_8: -859404265572034963
+      DestroyedCar4_1_9: 5794833370178457225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

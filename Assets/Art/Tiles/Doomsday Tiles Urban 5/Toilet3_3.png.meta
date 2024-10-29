@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toilet3_3_0: 7257971850708467062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

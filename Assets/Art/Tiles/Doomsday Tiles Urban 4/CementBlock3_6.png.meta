@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CementBlock3_6_0: 2579033154354385018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rebar_3_0: -6422163684147998512
+      Rebar_3_1: -1428108903695426216
+      Rebar_3_2: -5106374189260096724
+      Rebar_3_3: 3587093932151483520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pavement2_2_0: 7904332328179237800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

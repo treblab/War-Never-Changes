@@ -647,7 +647,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DestroyedCar4_5_0: 1050933492095304378
+      DestroyedCar4_5_1: -2400914691142531066
+      DestroyedCar4_5_10: 8740762586998341755
+      DestroyedCar4_5_11: -1752251953014126955
+      DestroyedCar4_5_12: 967130866977219052
+      DestroyedCar4_5_13: -2223595370069126166
+      DestroyedCar4_5_14: 2554658709633892350
+      DestroyedCar4_5_15: -6393951514761571890
+      DestroyedCar4_5_16: 8293086517547193593
+      DestroyedCar4_5_17: 2190136876521390742
+      DestroyedCar4_5_18: 7573101172592763460
+      DestroyedCar4_5_19: 1955228549325896008
+      DestroyedCar4_5_2: 2515829665400594896
+      DestroyedCar4_5_20: 6896815115617473728
+      DestroyedCar4_5_21: 7489879195568690891
+      DestroyedCar4_5_3: 6273912291915724754
+      DestroyedCar4_5_4: 5340526931613200322
+      DestroyedCar4_5_5: 6549902531256766970
+      DestroyedCar4_5_6: 1486021302972114166
+      DestroyedCar4_5_7: -7526036281160336828
+      DestroyedCar4_5_8: -1894081763944193453
+      DestroyedCar4_5_9: -8591154799944866448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

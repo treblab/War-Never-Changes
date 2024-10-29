@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dumpster4_2_0: -6154493129585105923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

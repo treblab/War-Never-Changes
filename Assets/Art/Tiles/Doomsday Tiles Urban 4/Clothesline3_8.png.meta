@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Clothesline3_8_0: 6409692025922122456
+      Clothesline3_8_1: 1300691370369481969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Manhole1_2_0: 1069115300450748023
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

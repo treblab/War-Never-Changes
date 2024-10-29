@@ -959,7 +959,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Building13_Inside2_3_0: -4198575085436924031
+      Building13_Inside2_3_1: 2930166666619215595
+      Building13_Inside2_3_10: 6611155985516038288
+      Building13_Inside2_3_11: -8986280479367493857
+      Building13_Inside2_3_12: -4798956290701907820
+      Building13_Inside2_3_13: 1237954089874198702
+      Building13_Inside2_3_14: 4737876496498849727
+      Building13_Inside2_3_15: -2780125837685081723
+      Building13_Inside2_3_16: -5075658515545791483
+      Building13_Inside2_3_17: 2883231210564186518
+      Building13_Inside2_3_18: -5180041587179448813
+      Building13_Inside2_3_19: 7059594144275743565
+      Building13_Inside2_3_2: -3832232678839052698
+      Building13_Inside2_3_20: 6786421257515695146
+      Building13_Inside2_3_21: 677989499989952491
+      Building13_Inside2_3_22: 3318137770583693640
+      Building13_Inside2_3_23: 1341289560910725533
+      Building13_Inside2_3_24: 3613185224025979236
+      Building13_Inside2_3_25: 1262584733844935120
+      Building13_Inside2_3_26: 8411407676517822227
+      Building13_Inside2_3_27: 4820167779217984124
+      Building13_Inside2_3_28: 1596774439051261516
+      Building13_Inside2_3_29: -1343521702231618167
+      Building13_Inside2_3_3: -4767915624255476709
+      Building13_Inside2_3_30: -4958974369896630782
+      Building13_Inside2_3_31: -5254508213030751665
+      Building13_Inside2_3_32: 3684599057810969465
+      Building13_Inside2_3_33: -3819929620534686744
+      Building13_Inside2_3_34: -7976469284866719552
+      Building13_Inside2_3_4: -4770732183476097928
+      Building13_Inside2_3_5: 5149292474549565952
+      Building13_Inside2_3_6: 2208148372093973778
+      Building13_Inside2_3_7: 9025513769625497629
+      Building13_Inside2_3_8: 5520628584836961406
+      Building13_Inside2_3_9: 5390343293058498093
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mail3_6_0: 5905971731771516058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

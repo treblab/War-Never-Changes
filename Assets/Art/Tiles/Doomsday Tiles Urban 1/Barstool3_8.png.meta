@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Barstool3_8_0: 3128988530769548005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

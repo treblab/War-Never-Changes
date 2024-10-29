@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElectricalBox4_1_0: -782766087472888113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ColaCan3_0: 1113011889621412417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

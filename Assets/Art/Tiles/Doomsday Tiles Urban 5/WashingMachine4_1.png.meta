@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WashingMachine4_1_0: -5733903481676326651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

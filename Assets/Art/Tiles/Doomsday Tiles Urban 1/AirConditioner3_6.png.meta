@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AirConditioner3_6_0: -3011587374794697265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

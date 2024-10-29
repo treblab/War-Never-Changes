@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decal_WallMildew1_3_0: 2801502271324590796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TrainStationComposter1_1_0: 4652764077089555930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

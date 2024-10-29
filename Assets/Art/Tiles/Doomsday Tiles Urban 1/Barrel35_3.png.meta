@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Barrel35_3_0: 5755381954610021424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

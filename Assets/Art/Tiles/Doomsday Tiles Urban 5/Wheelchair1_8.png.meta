@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wheelchair1_8_0: 8794909354392095353
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

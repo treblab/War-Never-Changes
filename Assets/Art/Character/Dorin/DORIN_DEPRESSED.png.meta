@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DORIN_DEPRESSED_0: -192219512885452316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

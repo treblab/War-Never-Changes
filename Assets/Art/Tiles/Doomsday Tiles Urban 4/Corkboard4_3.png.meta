@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Corkboard4_3_0: -5987985194784661285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

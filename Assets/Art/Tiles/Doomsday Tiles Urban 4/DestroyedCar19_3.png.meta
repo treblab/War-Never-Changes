@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DestroyedCar19_3_0: -2884644712442967452
+      DestroyedCar19_3_1: 5034065652224438748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

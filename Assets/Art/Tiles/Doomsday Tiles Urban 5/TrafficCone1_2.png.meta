@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TrafficCone1_2_0: -4352668961920464625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

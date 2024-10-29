@@ -287,7 +287,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Anim_BurningBarrel_1x5_0: -4111327179516523060
+      Anim_BurningBarrel_1x5_1: 8843132879077735525
+      Anim_BurningBarrel_1x5_2: -6719455859692849836
+      Anim_BurningBarrel_1x5_3: -7291387357926977673
+      Anim_BurningBarrel_1x5_4: -2208064655316862141
+      Anim_BurningBarrel_1x5_5: -7333976643909999141
+      Anim_BurningBarrel_1x5_6: 5816504322848987067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

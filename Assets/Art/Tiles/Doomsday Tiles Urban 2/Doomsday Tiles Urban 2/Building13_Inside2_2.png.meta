@@ -383,7 +383,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Building13_Inside2_2_0: 3123928662020099479
+      Building13_Inside2_2_1: -7501593751817658862
+      Building13_Inside2_2_10: 1164821522191247903
+      Building13_Inside2_2_2: -1632400979047914751
+      Building13_Inside2_2_3: 1629988454702395248
+      Building13_Inside2_2_4: -5989975192614604884
+      Building13_Inside2_2_5: -6761199032100739786
+      Building13_Inside2_2_6: -4765190905675257763
+      Building13_Inside2_2_7: 6161770823103198779
+      Building13_Inside2_2_8: 6013542965885966765
+      Building13_Inside2_2_9: 1114046796721566343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

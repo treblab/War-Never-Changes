@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chopsticks1_4_0: -6691696916056440316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

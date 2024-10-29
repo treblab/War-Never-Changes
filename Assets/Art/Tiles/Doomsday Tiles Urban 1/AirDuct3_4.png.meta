@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AirDuct3_4_0: -8792067263299960633
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

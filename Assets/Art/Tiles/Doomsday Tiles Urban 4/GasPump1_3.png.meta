@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GasPump1_3_0: -5193406100086807418
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
