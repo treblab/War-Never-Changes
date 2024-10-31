@@ -169,6 +169,9 @@ MonoBehaviour:
     - name: ScavengeUI
       pathPrefix: UI
       guid: 9c4c7bf3bac254d41a379c6cadc82436
+    - name: Calendar
+      pathPrefix: UI
+      guid: 81ce2e06888c3f143b0f41b16ee6abf5
   - Id: Scripts
     Resources:
     - name: MainMenu
