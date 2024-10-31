@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoodNoodles2_4_0: 5794537323114381274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

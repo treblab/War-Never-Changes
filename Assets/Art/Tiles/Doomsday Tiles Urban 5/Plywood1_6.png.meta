@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plywood1_6_0: -8539374331520291751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

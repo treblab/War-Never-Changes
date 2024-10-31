@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Building17_Inside_5_0: -1810112662955356264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

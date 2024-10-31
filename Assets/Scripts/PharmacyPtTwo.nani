@@ -42,6 +42,8 @@ Ardan: "Not even scraps. What now?"
 
 @showUI ScavengeUI
 
+@set ScavengeUI.scavCount=3
+
 The amount of rooms you are able to search is shown in the top right corner.
 
 Choose wisely, as useful items may be found in each location.

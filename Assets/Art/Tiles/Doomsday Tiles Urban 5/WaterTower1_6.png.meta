@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterTower1_6_0: -3558239762692652663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

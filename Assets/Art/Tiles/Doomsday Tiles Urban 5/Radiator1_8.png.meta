@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Radiator1_8_0: 4834755370329916521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

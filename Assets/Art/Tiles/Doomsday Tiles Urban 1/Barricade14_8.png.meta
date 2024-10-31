@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Barricade14_8_0: -5857775022782088366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

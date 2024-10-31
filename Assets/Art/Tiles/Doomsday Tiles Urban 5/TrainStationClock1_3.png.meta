@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TrainStationClock1_3_0: 5508813891571086958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

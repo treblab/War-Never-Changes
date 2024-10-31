@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ConstructionZone1_7_0: -7414537047940573098
+      ConstructionZone1_7_1: -2928442038482502436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

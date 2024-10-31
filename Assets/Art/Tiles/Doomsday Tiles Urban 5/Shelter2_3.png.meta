@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shelter2_3_0: -9061131423801959768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

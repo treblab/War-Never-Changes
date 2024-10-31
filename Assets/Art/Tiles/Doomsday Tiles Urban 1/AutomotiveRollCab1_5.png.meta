@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AutomotiveRollCab1_5_0: -8878091535635038140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

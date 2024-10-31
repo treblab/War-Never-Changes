@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BarbedWire1_2_0: 2714887720546235478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

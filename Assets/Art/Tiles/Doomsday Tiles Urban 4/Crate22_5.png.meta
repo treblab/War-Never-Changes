@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crate22_5_0: -6324969838785759073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

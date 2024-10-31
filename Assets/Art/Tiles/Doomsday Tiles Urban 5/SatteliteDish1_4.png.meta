@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SatteliteDish1_4_0: -8795720629683460354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

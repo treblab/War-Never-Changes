@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HospitalGurney2_1_0: 2481987265116159504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

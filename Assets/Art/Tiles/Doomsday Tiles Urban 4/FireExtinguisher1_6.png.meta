@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireExtinguisher1_6_0: -311987388814664641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CardboardShelter1_3_0: 5841138284407099297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

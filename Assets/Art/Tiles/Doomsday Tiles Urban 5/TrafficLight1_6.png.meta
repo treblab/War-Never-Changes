@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TrafficLight1_6_0: 1978014627942604884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

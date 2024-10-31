@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DestroyedShipPiece5_2_0: -4110196844342854187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

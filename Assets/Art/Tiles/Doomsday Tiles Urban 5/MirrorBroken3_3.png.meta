@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MirrorBroken3_3_0: 1179290249554503368
+      MirrorBroken3_3_1: 227348779589929073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

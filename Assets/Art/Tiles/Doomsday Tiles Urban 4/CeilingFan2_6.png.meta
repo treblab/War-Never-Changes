@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CeilingFan2_6_0: -3755725009419773381
+      CeilingFan2_6_1: -2325462222116216803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

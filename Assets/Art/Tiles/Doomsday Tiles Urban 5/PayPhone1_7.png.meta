@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PayPhone1_7_0: 1847863727637586349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

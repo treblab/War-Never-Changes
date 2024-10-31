@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrokenStreetLight2_1_0: 2227393772221903478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

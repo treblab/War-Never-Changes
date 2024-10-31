@@ -287,7 +287,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Anim_Flames_1x5_0: -5235418474024449261
+      Anim_Flames_1x5_1: 3838674162175468764
+      Anim_Flames_1x5_2: -3646882027281568884
+      Anim_Flames_1x5_3: -4283493473634124347
+      Anim_Flames_1x5_4: -3334417223845359650
+      Anim_Flames_1x5_5: 1135510174774829578
+      Anim_Flames_1x5_6: -4950871861479222079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

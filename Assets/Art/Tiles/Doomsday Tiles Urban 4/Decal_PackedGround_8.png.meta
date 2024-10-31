@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decal_PackedGround_8_0: -910302251714010241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

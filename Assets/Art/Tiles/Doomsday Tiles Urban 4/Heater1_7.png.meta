@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Heater1_7_0: 1967848089691667552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

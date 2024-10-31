@@ -287,7 +287,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bed18_6_0: 4557510769440883499
+      Bed18_6_1: 7263039713275560218
+      Bed18_6_2: 9118134538649517768
+      Bed18_6_3: -2285226578023556438
+      Bed18_6_4: -5751380475325131216
+      Bed18_6_5: -5137839456844669166
+      Bed18_6_6: -6327652503018211353
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bookshelf2_2_0: -7095919645190735428
+      Bookshelf2_2_1: 4962258114204155253
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

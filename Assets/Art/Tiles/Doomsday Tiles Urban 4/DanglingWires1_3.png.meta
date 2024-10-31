@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DanglingWires1_3_0: 1964385574765080168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FuseBox1_1_0: -6546475820730876912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

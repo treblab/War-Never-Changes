@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rubble6_5_0: 3511977124197455226
+      Rubble6_5_1: -6960388917429896779
+      Rubble6_5_2: 3367448008596015879
+      Rubble6_5_3: 4009936334637788012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

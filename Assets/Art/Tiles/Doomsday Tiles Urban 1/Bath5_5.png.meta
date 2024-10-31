@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bath5_5_0: 1517687908950021162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

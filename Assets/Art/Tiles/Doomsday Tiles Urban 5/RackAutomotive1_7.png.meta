@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RackAutomotive1_7_0: 2639757312471877618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DestroyedHelicopter1_3_0: -2331054747118525755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

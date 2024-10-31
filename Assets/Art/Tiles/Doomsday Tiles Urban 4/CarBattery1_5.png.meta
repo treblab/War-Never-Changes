@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CarBattery1_5_0: 4949330957426147722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

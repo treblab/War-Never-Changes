@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lamp8_6_0: 7535014321845400928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

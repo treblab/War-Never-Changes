@@ -287,7 +287,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Debris23_2_0: 4613636531912689225
+      Debris23_2_1: 2513395402299070097
+      Debris23_2_2: -3776003885656478656
+      Debris23_2_3: -3760630746905491850
+      Debris23_2_4: -2673196872055232078
+      Debris23_2_5: -7257920752568304525
+      Debris23_2_6: -5807028839515437875
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

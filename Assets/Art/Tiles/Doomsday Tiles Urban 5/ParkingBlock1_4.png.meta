@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ParkingBlock1_4_0: 7711545124501350571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StreetSign25_4_0: -6701300519693936556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
