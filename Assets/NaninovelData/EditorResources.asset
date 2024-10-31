@@ -166,6 +166,9 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+    - name: ScavengeUI
+      pathPrefix: UI
+      guid: 9c4c7bf3bac254d41a379c6cadc82436
   - Id: Scripts
     Resources:
     - name: MainMenu
