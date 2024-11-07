@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MetroAd1_3_0: -4353317383098602651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

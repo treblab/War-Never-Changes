@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlippingSign1_4_0: 8157172185718929984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

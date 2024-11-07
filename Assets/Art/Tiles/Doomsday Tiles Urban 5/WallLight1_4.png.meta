@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WallLight1_4_0: 3984362751793574096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

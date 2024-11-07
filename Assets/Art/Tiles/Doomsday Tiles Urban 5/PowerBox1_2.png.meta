@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerBox1_2_0: 2056162888693543604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

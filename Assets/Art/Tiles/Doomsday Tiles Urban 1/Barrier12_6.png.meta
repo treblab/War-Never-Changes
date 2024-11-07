@@ -239,7 +239,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Barrier12_6_0: -4773672956894193730
+      Barrier12_6_1: 6262363623614781677
+      Barrier12_6_2: -5383648164209137498
+      Barrier12_6_3: -8240422637543409662
+      Barrier12_6_4: 2027108624962475034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

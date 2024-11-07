@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GasCan8_3_0: -6587698751886362712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

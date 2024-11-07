@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElevatorShaft2_1_0: -8014484212863152324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

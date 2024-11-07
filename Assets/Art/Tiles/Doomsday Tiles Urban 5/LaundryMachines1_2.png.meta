@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LaundryMachines1_2_0: 625740407101824429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

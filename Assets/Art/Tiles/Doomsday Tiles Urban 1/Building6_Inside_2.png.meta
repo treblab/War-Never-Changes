@@ -1007,7 +1007,44 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Building6_Inside_2_0: -8779266626053780553
+      Building6_Inside_2_1: -8932131102463919852
+      Building6_Inside_2_10: -2222493816501694068
+      Building6_Inside_2_11: -2649364036411931997
+      Building6_Inside_2_12: -828658955725745253
+      Building6_Inside_2_13: -4014109159343798828
+      Building6_Inside_2_14: -5144200068167387645
+      Building6_Inside_2_15: -3013367062569401363
+      Building6_Inside_2_16: -7523223161752870903
+      Building6_Inside_2_17: 4296445144052017792
+      Building6_Inside_2_18: 6713941474579839749
+      Building6_Inside_2_19: -3311889038030285384
+      Building6_Inside_2_2: -9073054301682920346
+      Building6_Inside_2_20: -3643375538802101062
+      Building6_Inside_2_21: -7672856931114654774
+      Building6_Inside_2_22: -5512310484232400001
+      Building6_Inside_2_23: -2202422053041657601
+      Building6_Inside_2_24: 6140346168804532480
+      Building6_Inside_2_25: 4712758774985139147
+      Building6_Inside_2_26: 8784963393558876350
+      Building6_Inside_2_27: 5192491097606382720
+      Building6_Inside_2_28: 3660336203849660260
+      Building6_Inside_2_29: 6172964452493833386
+      Building6_Inside_2_3: -2257491624829681404
+      Building6_Inside_2_30: 4584578725236246029
+      Building6_Inside_2_31: 5694358936868500140
+      Building6_Inside_2_32: -5883222206494144852
+      Building6_Inside_2_33: -99100429901737092
+      Building6_Inside_2_34: -762908414862995750
+      Building6_Inside_2_35: 7581329539409280352
+      Building6_Inside_2_36: 2267281061794288324
+      Building6_Inside_2_4: -9044460923784184785
+      Building6_Inside_2_5: -7563710272322137117
+      Building6_Inside_2_6: -7767699765594949471
+      Building6_Inside_2_7: -5849058203162260053
+      Building6_Inside_2_8: -5743572716328364501
+      Building6_Inside_2_9: 3858128559468259368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

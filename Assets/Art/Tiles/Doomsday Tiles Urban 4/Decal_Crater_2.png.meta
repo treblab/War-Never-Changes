@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decal_Crater_2_0: -2168091691454834102
+      Decal_Crater_2_1: 77191140207109684
+      Decal_Crater_2_2: -4371488618462039567
+      Decal_Crater_2_3: 5661670565963098072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

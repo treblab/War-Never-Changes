@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VendingMachine4_6_0: -2182934784598621836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

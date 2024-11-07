@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AutomotiveFanBelts1_5_0: -5166222396136693691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

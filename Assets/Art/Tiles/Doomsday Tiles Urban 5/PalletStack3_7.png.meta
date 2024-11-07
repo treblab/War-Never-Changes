@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PalletStack3_7_0: -1428942495512386630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

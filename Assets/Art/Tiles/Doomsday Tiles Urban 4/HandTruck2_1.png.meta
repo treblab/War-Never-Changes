@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HandTruck2_1_0: -8763680133380743589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

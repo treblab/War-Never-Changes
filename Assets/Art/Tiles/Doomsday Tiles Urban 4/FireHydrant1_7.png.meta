@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireHydrant1_7_0: 5777038618947373158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

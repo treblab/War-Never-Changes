@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Door17_3_0: -6895401484557037071
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

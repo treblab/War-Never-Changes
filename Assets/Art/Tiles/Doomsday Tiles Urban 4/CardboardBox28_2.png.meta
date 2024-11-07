@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CardboardBox28_2_0: -7601515399953213889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

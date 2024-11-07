@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Curb1_3_0: 3575436127170393548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

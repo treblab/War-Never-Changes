@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CeilingPipe3_4_0: 7930403584805042909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

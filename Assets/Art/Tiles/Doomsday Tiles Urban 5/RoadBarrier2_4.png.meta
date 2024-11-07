@@ -263,7 +263,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RoadBarrier2_4_0: -3125881298068709729
+      RoadBarrier2_4_1: 195165273243282609
+      RoadBarrier2_4_2: 2494517483449844835
+      RoadBarrier2_4_3: -6982464846668486044
+      RoadBarrier2_4_4: -4730909641594052044
+      RoadBarrier2_4_5: 8356109148228326314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

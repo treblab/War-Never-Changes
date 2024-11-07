@@ -359,7 +359,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Building7_Inside1_4_0: -1131326545293968927
+      Building7_Inside1_4_1: -5085174337130516632
+      Building7_Inside1_4_2: 752116392313387552
+      Building7_Inside1_4_3: 6460523666517511405
+      Building7_Inside1_4_4: 3724746144958456375
+      Building7_Inside1_4_5: -4383024149702310054
+      Building7_Inside1_4_6: -2829440935999382131
+      Building7_Inside1_4_7: 4789556479289821937
+      Building7_Inside1_4_8: -6145977718002293126
+      Building7_Inside1_4_9: 8659885228503176944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

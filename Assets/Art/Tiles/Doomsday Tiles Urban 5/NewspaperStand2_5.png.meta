@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NewspaperStand2_5_0: 974990024226304805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dresser3_8_0: 2897781751311760293
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

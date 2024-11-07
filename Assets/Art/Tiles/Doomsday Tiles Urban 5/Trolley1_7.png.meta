@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trolley1_7_0: -7302237035474759148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

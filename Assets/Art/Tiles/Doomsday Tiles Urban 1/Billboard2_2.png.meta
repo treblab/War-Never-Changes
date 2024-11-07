@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Billboard2_2_0: -5913371900776727595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

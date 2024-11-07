@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CoffeeTable2_5_0: 6507355797489240315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

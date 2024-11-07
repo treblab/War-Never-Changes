@@ -1031,7 +1031,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Building13_Inside2_1_0: 7129121156897463504
+      Building13_Inside2_1_1: 8521530148924073741
+      Building13_Inside2_1_10: 2679587146426603454
+      Building13_Inside2_1_11: -2668903259792087675
+      Building13_Inside2_1_12: -5914429495916201799
+      Building13_Inside2_1_13: 3648976315168978882
+      Building13_Inside2_1_14: 1587637779152775894
+      Building13_Inside2_1_15: 8578226744939116303
+      Building13_Inside2_1_16: -7726070919980849114
+      Building13_Inside2_1_17: 7666838801168985343
+      Building13_Inside2_1_18: 3499311341898052940
+      Building13_Inside2_1_19: -3983080311045774390
+      Building13_Inside2_1_2: 5801870991065173453
+      Building13_Inside2_1_20: -8190266525874359397
+      Building13_Inside2_1_21: -3136972113459332674
+      Building13_Inside2_1_22: 4901255807172914653
+      Building13_Inside2_1_23: -625039197340784754
+      Building13_Inside2_1_24: -696956025072222868
+      Building13_Inside2_1_25: -446458446100938835
+      Building13_Inside2_1_26: 8798853316524553125
+      Building13_Inside2_1_27: -5595295345695140828
+      Building13_Inside2_1_28: 1474737474534922129
+      Building13_Inside2_1_29: -8210919033746808883
+      Building13_Inside2_1_3: -1492072999730753304
+      Building13_Inside2_1_30: 5468488029562449467
+      Building13_Inside2_1_31: 2755528604556394483
+      Building13_Inside2_1_32: -8791139627925039909
+      Building13_Inside2_1_33: 5286246385662713191
+      Building13_Inside2_1_34: 40782916137965573
+      Building13_Inside2_1_35: 3558414417347463106
+      Building13_Inside2_1_36: -59931421692752343
+      Building13_Inside2_1_37: -8334327038170363868
+      Building13_Inside2_1_4: -353837155888266421
+      Building13_Inside2_1_5: 412548134454910298
+      Building13_Inside2_1_6: -8961587944785250694
+      Building13_Inside2_1_7: -757221367705618866
+      Building13_Inside2_1_8: 3643118845300732769
+      Building13_Inside2_1_9: -1349161612468330952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

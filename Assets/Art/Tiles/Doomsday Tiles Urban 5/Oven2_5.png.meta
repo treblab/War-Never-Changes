@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oven2_5_0: 66803071582450429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

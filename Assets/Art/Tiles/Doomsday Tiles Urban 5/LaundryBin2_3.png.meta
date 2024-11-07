@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LaundryBin2_3_0: 1662805018287909590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Detergent2_5_0: 3661315512450856870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

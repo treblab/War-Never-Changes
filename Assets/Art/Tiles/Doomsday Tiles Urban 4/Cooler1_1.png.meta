@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cooler1_1_0: 906396489606872233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LaundromatSeating1_8_0: 312284706548569641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Interior_Wall13_4_0: -6052292142823152734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

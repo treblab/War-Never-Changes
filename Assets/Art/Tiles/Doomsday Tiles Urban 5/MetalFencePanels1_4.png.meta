@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MetalFencePanels1_4_0: -1023900078673632755
+      MetalFencePanels1_4_1: -2662601210329562647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

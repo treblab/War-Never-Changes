@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cellphone1_1_0: 7493061933319598726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

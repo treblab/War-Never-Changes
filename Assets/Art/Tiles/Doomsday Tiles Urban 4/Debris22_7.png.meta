@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Debris22_7_0: -607576491932281201
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

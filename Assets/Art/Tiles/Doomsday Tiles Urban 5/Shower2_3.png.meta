@@ -287,7 +287,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shower2_3_0: 2603508235230715210
+      Shower2_3_1: -2532192386678010918
+      Shower2_3_2: -8743599451080278820
+      Shower2_3_3: -1461044101827724471
+      Shower2_3_4: -7795170600151635001
+      Shower2_3_5: 7141944170096332727
+      Shower2_3_6: -743626660061451265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

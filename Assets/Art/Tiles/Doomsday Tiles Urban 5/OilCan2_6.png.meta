@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OilCan2_6_0: 7833393299684589363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

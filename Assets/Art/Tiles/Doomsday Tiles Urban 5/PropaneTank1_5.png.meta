@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PropaneTank1_5_0: 1262786518214153990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

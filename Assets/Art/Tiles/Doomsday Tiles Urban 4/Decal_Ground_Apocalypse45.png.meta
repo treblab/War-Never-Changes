@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decal_Ground_Apocalypse45_0: 1588483716249279358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

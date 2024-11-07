@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LaundryTrolly4_6_0: 40303193955016655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

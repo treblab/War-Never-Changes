@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cannister4_1_0: 5288067189294775687
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

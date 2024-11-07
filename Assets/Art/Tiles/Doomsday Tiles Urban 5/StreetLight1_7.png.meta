@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StreetLight1_7_0: 4845343235214714494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

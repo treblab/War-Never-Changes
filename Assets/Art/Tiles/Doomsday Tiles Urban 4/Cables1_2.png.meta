@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cables1_2_0: -1823900170168719435
+      Cables1_2_1: 5555584202396416919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

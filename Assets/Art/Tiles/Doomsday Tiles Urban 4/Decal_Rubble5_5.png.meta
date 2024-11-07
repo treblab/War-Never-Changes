@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decal_Rubble5_5_0: 6115024837115893096
+      Decal_Rubble5_5_1: 3692260003122011231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

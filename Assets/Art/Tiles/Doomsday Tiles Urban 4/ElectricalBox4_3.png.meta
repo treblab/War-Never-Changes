@@ -239,7 +239,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElectricalBox4_3_0: -2612026579084571979
+      ElectricalBox4_3_1: -5621696095766561936
+      ElectricalBox4_3_2: -6644367056092176234
+      ElectricalBox4_3_3: 4503296455798696714
+      ElectricalBox4_3_4: 7860437116501799928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

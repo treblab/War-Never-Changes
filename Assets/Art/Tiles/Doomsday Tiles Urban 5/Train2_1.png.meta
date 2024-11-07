@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Train2_1_0: 5074779638444478273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
