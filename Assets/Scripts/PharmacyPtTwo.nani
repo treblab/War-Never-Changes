@@ -38,10 +38,6 @@ Ardan: "Not even scraps. What now?"
 @showUI ScavUI
 @set scavCount=2
 
-@spawn CoinFlip
-@wait 10
-@despawn CoinFlip
-
 # ScavengeChoices
 
 @char Dorin.Default
@@ -149,7 +145,8 @@ Dorin meets his son’s gaze, his expression hardening as he considers the quest
 
 Dorin: If we have to. Let’s hope it doesn’t come to that.
 
-@goto .Confrontation if:"ScavengeChance = 0"
+@if "ScavengeChance = 0"
+@goto .Confrontation
 @else
 @goto .ScavengeChoices
 

@@ -98,6 +98,11 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 ; ----------- CHECK CONDITIONS FOR FIGHT -----------
 
 # FightCheck
+
+@spawn CoinFlip pos:50,90
+@wait 2
+@despawn CoinFlip
+
 @set playerRoll=Random(0,10)
 @set fightCheck=5
 
@@ -113,6 +118,11 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 
 ; ----------- CHECK CONDITIONS FOR NEGOTIATE -----------
 # NegotiateCheck
+
+@spawn CoinFlip pos:50,90
+@wait 2
+@despawn CoinFlip
+
 @set playerRoll2=Random(0,10)
 @set negotiateCheck=3
 
