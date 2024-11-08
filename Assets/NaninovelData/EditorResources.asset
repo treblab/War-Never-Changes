@@ -342,20 +342,6 @@ MonoBehaviour:
     - name: BoxCutter
       pathPrefix: Characters/BoxCutter
       guid: 50bc0b387b0d7aa418a1d0dabc414cd5
-  - Id: Characters/e1fcc822-0fdd-4009-b980-3aba9caa3f1f
-    Resources:
-    - name: Default
-      pathPrefix: Characters/Boy
-      guid: 8b074ac5bfb45a24cbd61d5c211e6121
-    - name: Sad
-      pathPrefix: Characters/Boy
-      guid: ee4e996760151424c8ced00ef7cd7f2c
-    - name: Scared
-      pathPrefix: Characters/Boy
-      guid: 54744af01d1c06643afff89c16560a74
-    - name: Worried
-      pathPrefix: Characters/Boy
-      guid: 7799c1ed513c61b48a5b26096ce820b7
   - Id: Characters/02e57c2d-b4a6-4956-a867-90ccb7fab2b2
     Resources:
     - name: Default
@@ -438,3 +424,22 @@ MonoBehaviour:
     - name: Worried
       pathPrefix: Characters/Boy
       guid: 7799c1ed513c61b48a5b26096ce820b7
+  - Id: Characters/e1fcc822-0fdd-4009-b980-3aba9caa3f1f
+    Resources:
+    - name: Default
+      pathPrefix: Characters/Boy
+      guid: 8b074ac5bfb45a24cbd61d5c211e6121
+    - name: Sad
+      pathPrefix: Characters/Boy
+      guid: ee4e996760151424c8ced00ef7cd7f2c
+    - name: Scared
+      pathPrefix: Characters/Boy
+      guid: 54744af01d1c06643afff89c16560a74
+    - name: Worried
+      pathPrefix: Characters/Boy
+      guid: 7799c1ed513c61b48a5b26096ce820b7
+  - Id: Characters/83677166-a5d4-43f8-bde5-5ba7c794a660
+    Resources:
+    - name: Medkit
+      pathPrefix: Characters/Medkit
+      guid: 6581049dda4d6f743baa6ec2997754ce

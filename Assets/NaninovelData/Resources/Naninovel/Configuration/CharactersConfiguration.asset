@@ -178,7 +178,7 @@ MonoBehaviour:
         - visible
       - name: Surprised
         actorState:
-          appearance: Default
+          appearance: Surprised
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -188,9 +188,9 @@ MonoBehaviour:
         overriddenProperties:
         - appearance
         - visible
-      - name: Default
+      - name: Depressed
         actorState:
-          appearance: Default
+          appearance: Depressed
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -200,9 +200,9 @@ MonoBehaviour:
         overriddenProperties:
         - appearance
         - visible
-      - name: Default
+      - name: Happy
         actorState:
-          appearance: Default
+          appearance: Happy
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -821,7 +821,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: e1fcc822-0fdd-4009-b980-3aba9caa3f1f
+      guid: 83677166-a5d4-43f8-bde5-5ba7c794a660
       customData:
         rid: -2
       Pivot: {x: 0.5, y: 0}
