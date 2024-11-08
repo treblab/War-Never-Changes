@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: d185b47d88a9fcd479f4af589264d251
+guid: 7799c1ed513c61b48a5b26096ce820b7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7247997718889874601
-    second: OTHER_FATHER_0001_0
-  - first:
-      213: 7886226206017974482
-    second: OTHER_FATHER_0001_1
+      213: 6758684959316150786
+    second: OTHER_BOY_WORRIED_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OTHER_FATHER_0001_0
+      name: OTHER_BOY_WORRIED_0
       rect:
         serializedVersion: 2
-        x: 238
+        x: 237
         y: 0
-        width: 869
-        height: 1238
+        width: 527
+        height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,29 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75b3ab8e970f96b90800000000000000
-      internalID: -7247997718889874601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: OTHER_FATHER_0001_1
-      rect:
-        serializedVersion: 2
-        x: 1089
-        y: 523
-        width: 17
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d0f31c83f0817d60800000000000000
-      internalID: 7886226206017974482
+      spriteID: 20a80d4592cabcd50800000000000000
+      internalID: 6758684959316150786
       vertices: []
       indices: 
       edges: []
@@ -167,9 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      OTHER_FATHER_0001_0: -7247997718889874601
-      OTHER_FATHER_0001_1: 7886226206017974482
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: c38e816b257ae0f4aa33df34a34158a4
+guid: 7e661ec944d5ca74592765fda270cb40
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3529527463489833188
-    second: Naya-placeholder_0
+      213: -3891703151646358804
+    second: OTHER_FATHER_CONFLICTED_0
+  - first:
+      213: -5450726951510958206
+    second: OTHER_FATHER_CONFLICTED_1
+  - first:
+      213: 8904466266442620792
+    second: OTHER_FATHER_CONFLICTED_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +115,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Naya-placeholder_0
+      name: OTHER_FATHER_CONFLICTED_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 185
         y: 0
-        width: 485
-        height: 494
+        width: 673
+        height: 968
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +133,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c17f3b1e879940fc0800000000000000
-      internalID: -3529527463489833188
+      spriteID: ce2c9da4a94edf9c0800000000000000
+      internalID: -3891703151646358804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTHER_FATHER_CONFLICTED_1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 386
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9a8f77b02b54b0800000000000000
+      internalID: -5450726951510958206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTHER_FATHER_CONFLICTED_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 401
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd2c534e4039b70800000000000000
+      internalID: 8904466266442620792
       vertices: []
       indices: 
       edges: []
@@ -156,8 +191,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Naya-placeholder_0: -3529527463489833188
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

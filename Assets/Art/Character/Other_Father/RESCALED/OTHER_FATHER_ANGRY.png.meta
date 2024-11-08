@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 65b4ce0b0499b6f43a3494966ddb2ce5
+guid: 0e80a09a429f31e46a5577b344358d02
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 390715045476887943
-    second: OTHER_BOY_0000_0
+      213: -4373998532656483442
+    second: OTHER_FATHER_ANGRY_0
+  - first:
+      213: -1091416753414618692
+    second: OTHER_FATHER_ANGRY_1
+  - first:
+      213: 2180439423919480363
+    second: OTHER_FATHER_ANGRY_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OTHER_BOY_0000_0
+      name: OTHER_FATHER_ANGRY_0
       rect:
         serializedVersion: 2
-        x: 237
+        x: 185
         y: 0
-        width: 527
-        height: 600
+        width: 673
+        height: 968
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +133,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78dec0683491c6500800000000000000
-      internalID: 390715045476887943
+      spriteID: e833eec428f6c43c0800000000000000
+      internalID: -4373998532656483442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTHER_FATHER_ANGRY_1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 386
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1cfcece328ad0f0800000000000000
+      internalID: -1091416753414618692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTHER_FATHER_ANGRY_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 401
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e5af48a1a724e10800000000000000
+      internalID: 2180439423919480363
       vertices: []
       indices: 
       edges: []
@@ -143,8 +191,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      OTHER_BOY_0000_0: 390715045476887943
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

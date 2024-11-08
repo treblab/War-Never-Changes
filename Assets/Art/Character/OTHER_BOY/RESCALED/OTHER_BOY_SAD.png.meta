@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: edfb4030fd91dab49ba073cf0b1fada7
+guid: ee4e996760151424c8ced00ef7cd7f2c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8789147469607951991
-    second: OTHER_BOY_0006_0
+      213: -8295386455841469538
+    second: OTHER_BOY_SAD_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OTHER_BOY_0006_0
+      name: OTHER_BOY_SAD_0
       rect:
         serializedVersion: 2
         x: 237
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 981ae7b71fca60680800000000000000
-      internalID: -8789147469607951991
+      spriteID: e9b8bf028fdd0ec80800000000000000
+      internalID: -8295386455841469538
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      OTHER_BOY_0006_0: -8789147469607951991
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

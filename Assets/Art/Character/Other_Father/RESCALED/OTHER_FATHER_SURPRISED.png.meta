@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 2019476b8b9486b4692747b023343443
+guid: 56bc0cbd36491ff4ba001c33b4de8892
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5218777332752616472
-    second: OTHER_FATHER_0002_0
+      213: 4071822338733483440
+    second: OTHER_FATHER_SURPRISED_0
   - first:
-      213: 6797656463782529188
-    second: OTHER_FATHER_0002_1
+      213: 2046034743228479148
+    second: OTHER_FATHER_SURPRISED_1
   - first:
-      213: 334923523806346401
-    second: OTHER_FATHER_0002_2
+      213: -8585721058069961954
+    second: OTHER_FATHER_SURPRISED_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,7 +119,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OTHER_FATHER_0002_0
+      name: OTHER_FATHER_SURPRISED_0
       rect:
         serializedVersion: 2
         x: 185
@@ -133,14 +133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81c84987552dc6840800000000000000
-      internalID: 5218777332752616472
+      spriteID: 0b5a5b8f7d4028830800000000000000
+      internalID: 4071822338733483440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OTHER_FATHER_0002_1
+      name: OTHER_FATHER_SURPRISED_1
       rect:
         serializedVersion: 2
         x: 841
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a845ecc980265e50800000000000000
-      internalID: 6797656463782529188
+      spriteID: ca6bd3432c9f46c10800000000000000
+      internalID: 2046034743228479148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OTHER_FATHER_0002_2
+      name: OTHER_FATHER_SURPRISED_2
       rect:
         serializedVersion: 2
         x: 848
@@ -175,8 +175,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ac366f9b23e5a400800000000000000
-      internalID: 334923523806346401
+      spriteID: e132621df2469d880800000000000000
+      internalID: -8585721058069961954
       vertices: []
       indices: 
       edges: []
@@ -191,10 +191,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      OTHER_FATHER_0002_0: 5218777332752616472
-      OTHER_FATHER_0002_1: 6797656463782529188
-      OTHER_FATHER_0002_2: 334923523806346401
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
