@@ -35,14 +35,13 @@ Ardan: "Not even scraps. What now?"
 
 ; ----------- SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
 
+@showUI ScavUI
+@set scavCount=2
+
 # ScavengeChoices
 
 @char Dorin.Default
 @char Ardan.Default
-
-@showUI ScavUI
-
-@set scavCount=3
 
 The amount of rooms you are able to search is shown in the top right corner.
 
@@ -56,6 +55,9 @@ Choose wisely, as useful items may be found in each location.
 
 ; ---Option 1: Search Front Aisle ---
 # FrontAisle
+
+@set ScavengeChance--
+@set scavCount--
 
 The two decide to check the Front Aisles.
 
@@ -77,15 +79,16 @@ Ardan: *He sighs, frustration evident in his voice.*
 
 Dorin: "We’re running out of time. We need to find something soon."
 
-@set ScavangeChance++
-
-@if "ScavangeChance = 2"
+@if "ScavengeChance = 0"
 @goto .Confrontation
 @else
 @goto .ScavengeChoices
 
 ; -- Option 2: Check Back Storage Room --
 # StorageRoom
+
+@set ScavengeChance--
+@set scavCount--
 
 The two decide to check Back Storage Room.
 
@@ -141,15 +144,16 @@ Dorin meets his son’s gaze, his expression hardening as he considers the quest
 @set G_HasCutters=choice2
 
 Dorin: If we have to. Let’s hope it doesn’t come to that.
-@set ScavangeChance++
-@if "ScavangeChance = 2"
-@goto .Confrontation if:"ScavangeChance = 2"
+
+@goto .Confrontation if:"ScavengeChance = 0"
 @else
 @goto .ScavengeChoices
 
 
 ; --Option 3: Check Back Aisles ---
 # BackAisle
+@set ScavengeChance--
+@set scavCount--
 
 The two decide to check Back Aisles of the Pharmacy.
 
@@ -203,8 +207,7 @@ With the medkit in hand, they press on, their search taking on a new urgency. Th
 
 @set G_HasMedkit=choice3
 
-@set ScavangeChance++
-@goto .Confrontation if:"ScavangeChance = 2"
+@goto .Confrontation if:"ScavengeChance = 0"
 
 @else
 @goto .ScavengeChoices

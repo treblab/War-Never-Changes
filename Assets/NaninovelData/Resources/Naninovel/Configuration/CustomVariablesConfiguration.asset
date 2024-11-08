@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: CustomVariablesConfiguration
   m_EditorClassIdentifier: 
   PredefinedVariables:
-  - name: ScavangeChance
+  - name: ScavengeChance
     value: 0
   - name: choice1
     value: false
