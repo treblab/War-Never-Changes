@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: caa6850159d077840a4a6884a6694a22
+guid: b274c867bcdc5f94bbd0016a83eeb3eb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8124583820443767169
-    second: MIRA_0002_0
+      213: 6220011535027425116
+    second: MIRA_ANGRY_0
   - first:
-      213: -8680791426819646879
-    second: MIRA_0002_1
+      213: -5746705643197192509
+    second: MIRA_ANGRY_1
   - first:
-      213: -8732825119831467984
-    second: MIRA_0002_2
+      213: 7377311430688457146
+    second: MIRA_ANGRY_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,7 +119,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MIRA_0002_0
+      name: MIRA_ANGRY_0
       rect:
         serializedVersion: 2
         x: 261
@@ -133,14 +133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7e209aaf0eaf3f80800000000000000
-      internalID: -8124583820443767169
+      spriteID: c5f442c398be15650800000000000000
+      internalID: 6220011535027425116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MIRA_0002_1
+      name: MIRA_ANGRY_1
       rect:
         serializedVersion: 2
         x: 263
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16a982ba032a78780800000000000000
-      internalID: -8680791426819646879
+      spriteID: 3c6af743aa99f30b0800000000000000
+      internalID: -5746705643197192509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MIRA_0002_2
+      name: MIRA_ANGRY_2
       rect:
         serializedVersion: 2
         x: 259
@@ -175,8 +175,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03856de62d5cec680800000000000000
-      internalID: -8732825119831467984
+      spriteID: ab14d97d8a9716660800000000000000
+      internalID: 7377311430688457146
       vertices: []
       indices: 
       edges: []
@@ -191,10 +191,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      MIRA_0002_0: -8124583820443767169
-      MIRA_0002_1: -8680791426819646879
-      MIRA_0002_2: -8732825119831467984
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

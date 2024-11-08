@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2edc0889e72e12b4a89e610a525712ff
+guid: 47613cb8934047748945683304eb4b87
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3206226966856132731
-    second: NAYA_0003_0
+      213: -8076432496688210073
+    second: NAYA_HAPPY_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NAYA_0003_0
+      name: NAYA_HAPPY_0
       rect:
         serializedVersion: 2
         x: 273
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 587134b9f813183d0800000000000000
-      internalID: -3206226966856132731
+      spriteID: 76f5a7e5f6fbaef80800000000000000
+      internalID: -8076432496688210073
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      NAYA_0003_0: -3206226966856132731
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

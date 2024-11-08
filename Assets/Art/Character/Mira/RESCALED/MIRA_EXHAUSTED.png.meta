@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: d8fb9d6978a19654ba25a093f3c75f00
+guid: 6eef240362c53004fa62acc86aa701da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2801715376654742932
-    second: NAYA_0000_0
+      213: -2143511290689807466
+    second: MIRA_EXHAUSTED_0
+  - first:
+      213: -453915165868666119
+    second: MIRA_EXHAUSTED_1
+  - first:
+      213: -2852034572727516627
+    second: MIRA_EXHAUSTED_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NAYA_0000_0
+      name: MIRA_EXHAUSTED_0
       rect:
         serializedVersion: 2
-        x: 273
-        y: 0
-        width: 506
-        height: 610
+        x: 261
+        y: 741
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +133,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6a8eb485be4e19d0800000000000000
-      internalID: -2801715376654742932
+      spriteID: 69b156286d7b042e0800000000000000
+      internalID: -2143511290689807466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIRA_EXHAUSTED_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 650
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25c34cf8e53b9f0800000000000000
+      internalID: -453915165868666119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIRA_EXHAUSTED_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228175baa98b68d0800000000000000
+      internalID: -2852034572727516627
       vertices: []
       indices: 
       edges: []
@@ -143,8 +191,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      NAYA_0000_0: -2801715376654742932
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
