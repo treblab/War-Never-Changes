@@ -38,6 +38,10 @@ Ardan: "Not even scraps. What now?"
 @showUI ScavUI
 @set scavCount=2
 
+@spawn CoinFlip
+@wait 10
+@despawn CoinFlip
+
 # ScavengeChoices
 
 @char Dorin.Default

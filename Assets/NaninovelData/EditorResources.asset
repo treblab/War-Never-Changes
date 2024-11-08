@@ -113,6 +113,9 @@ MonoBehaviour:
     - name: Blur
       pathPrefix: Spawn
       guid: e466d9326b30a4b49a3dad428b4d9968
+    - name: CoinFlip
+      pathPrefix: Spawn
+      guid: 8038f29a40baa81428cd814afd4b8e43
   - Id: UI
     Resources:
     - name: ClickThroughPanel
