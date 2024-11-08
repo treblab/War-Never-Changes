@@ -1,14 +1,14 @@
 @back PharmacyBackRoom
 @bgm ConfrontationBGM loop:True
-@char Ardan
 @char Dorin
-@char Ardan.Surprised pos:10
+@char Ardan
 @char Dorin.Surprised pos:30
+@char Ardan.Surprised pos:10
+
+They round the corner, only to find themselves face-to-face with another father and son. The two groups freeze, the air thick with tension.
 
 @char Boy pos:90
 @char Man pos:70
-
-They round the corner, only to find themselves face-to-face with another father and son. The two groups freeze, the air thick with tension.
 
 Both families look gaunt, desperate, the hollow eyes of hunger and fear staring back at each other. The other father clutches a small bag, the outline of medicine bottles visible.
 

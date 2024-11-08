@@ -329,25 +329,6 @@ MonoBehaviour:
     - name: Surprised
       pathPrefix: Characters/Naya
       guid: 9255a4838e2227b4a924f2a5c1f1740c
-  - Id: Characters/d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
-    Resources:
-    - name: Default
-      pathPrefix: Characters/Dorin
-      guid: 4de9db7ba6845a242aafdedcc49cbace
-    - name: Angry
-      pathPrefix: Characters/Dorin
-      guid: 0e80a09a429f31e46a5577b344358d02
-    - name: Conflicted
-      pathPrefix: Characters/Dorin
-      guid: 7e661ec944d5ca74592765fda270cb40
-    - name: Surprised
-      pathPrefix: Characters/Dorin
-      guid: 56bc0cbd36491ff4ba001c33b4de8892
-  - Id: Characters/82d8a8b8-5e09-41b4-8615-45440a5811d2
-    Resources:
-    - name: Boy-placeholder
-      pathPrefix: Characters/Boy
-      guid: ef544f1a276a265418a573f24cf25a70
   - Id: Characters/60b599bb-a78c-4444-81ab-a47158e7e301
     Resources:
     - name: Dorin-removedBG
@@ -363,3 +344,82 @@ MonoBehaviour:
     - name: Medkit
       pathPrefix: Characters/Medkit
       guid: 6581049dda4d6f743baa6ec2997754ce
+  - Id: Characters/02e57c2d-b4a6-4956-a867-90ccb7fab2b2
+    Resources:
+    - name: Default
+      pathPrefix: Characters/Man
+      guid: 4de9db7ba6845a242aafdedcc49cbace
+    - name: Angry
+      pathPrefix: Characters/Man
+      guid: 0e80a09a429f31e46a5577b344358d02
+    - name: Conflicted
+      pathPrefix: Characters/Man
+      guid: 7e661ec944d5ca74592765fda270cb40
+    - name: Surprised
+      pathPrefix: Characters/Man
+      guid: 56bc0cbd36491ff4ba001c33b4de8892
+  - Id: Characters/ffe0f557-8017-4c5a-a8c7-eb84bb1c0392
+    Resources:
+    - name: Default
+      pathPrefix: Characters/Boy
+      guid: 8b074ac5bfb45a24cbd61d5c211e6121
+    - name: Sad
+      pathPrefix: Characters/Boy
+      guid: ee4e996760151424c8ced00ef7cd7f2c
+    - name: Scared
+      pathPrefix: Characters/Boy
+      guid: 54744af01d1c06643afff89c16560a74
+    - name: Worried
+      pathPrefix: Characters/Boy
+      guid: 7799c1ed513c61b48a5b26096ce820b7
+  - Id: Characters/d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
+    Resources:
+    - name: Default
+      pathPrefix: Characters/Dorin
+      guid: 457bf6e1cf6591d42a81b0aaa11d541b
+    - name: Angry
+      pathPrefix: Characters/Dorin
+      guid: c1eae12b1d04e884fa7284ef1d31c03e
+    - name: Conflicted
+      pathPrefix: Characters/Dorin
+      guid: 2d86c6c8f473bf34291cc016b340e854
+    - name: Exhausted
+      pathPrefix: Characters/Dorin
+      guid: 0166b8ffeae4a7c4ab4e4922655f6108
+    - name: Happy
+      pathPrefix: Characters/Dorin
+      guid: dd58a8802298dd64f8547f7be82576fd
+    - name: Sad
+      pathPrefix: Characters/Dorin
+      guid: e5b4c7e5f66b30442bccd34cb9cd8b69
+    - name: Surprised
+      pathPrefix: Characters/Dorin
+      guid: 6192154a41d5fe043a369547f1dbb68a
+  - Id: Characters/3bac85e7-40d6-47cc-bb2e-a3a084fcc4fb
+    Resources:
+    - name: Default
+      pathPrefix: Characters/Man
+      guid: 4de9db7ba6845a242aafdedcc49cbace
+    - name: Angry
+      pathPrefix: Characters/Man
+      guid: 0e80a09a429f31e46a5577b344358d02
+    - name: Conflicted
+      pathPrefix: Characters/Man
+      guid: 7e661ec944d5ca74592765fda270cb40
+    - name: Surprised
+      pathPrefix: Characters/Man
+      guid: 56bc0cbd36491ff4ba001c33b4de8892
+  - Id: Characters/3ab6119f-21d9-4f18-8b77-bfb23e353d3f
+    Resources:
+    - name: Default
+      pathPrefix: Characters/Boy
+      guid: 8b074ac5bfb45a24cbd61d5c211e6121
+    - name: Sad
+      pathPrefix: Characters/Boy
+      guid: ee4e996760151424c8ced00ef7cd7f2c
+    - name: Scared
+      pathPrefix: Characters/Boy
+      guid: 54744af01d1c06643afff89c16560a74
+    - name: Worried
+      pathPrefix: Characters/Boy
+      guid: 7799c1ed513c61b48a5b26096ce820b7
