@@ -283,6 +283,9 @@ MonoBehaviour:
     - name: Angry
       pathPrefix: Characters/Ardan
       guid: 075d8463df273bb4e808ef9306c1241f
+    - name: Depressed
+      pathPrefix: Characters/Ardan
+      guid: bb24b49d124b3a44aae3946dc9b18385
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
     - name: Default
@@ -341,9 +344,18 @@ MonoBehaviour:
       guid: 50bc0b387b0d7aa418a1d0dabc414cd5
   - Id: Characters/e1fcc822-0fdd-4009-b980-3aba9caa3f1f
     Resources:
-    - name: Medkit
-      pathPrefix: Characters/Medkit
-      guid: 6581049dda4d6f743baa6ec2997754ce
+    - name: Default
+      pathPrefix: Characters/Boy
+      guid: 8b074ac5bfb45a24cbd61d5c211e6121
+    - name: Sad
+      pathPrefix: Characters/Boy
+      guid: ee4e996760151424c8ced00ef7cd7f2c
+    - name: Scared
+      pathPrefix: Characters/Boy
+      guid: 54744af01d1c06643afff89c16560a74
+    - name: Worried
+      pathPrefix: Characters/Boy
+      guid: 7799c1ed513c61b48a5b26096ce820b7
   - Id: Characters/02e57c2d-b4a6-4956-a867-90ccb7fab2b2
     Resources:
     - name: Default
@@ -395,6 +407,9 @@ MonoBehaviour:
     - name: Surprised
       pathPrefix: Characters/Dorin
       guid: 6192154a41d5fe043a369547f1dbb68a
+    - name: Depressed
+      pathPrefix: Characters/Dorin
+      guid: dc9752cff4428a74880d0050af693ec3
   - Id: Characters/3bac85e7-40d6-47cc-bb2e-a3a084fcc4fb
     Resources:
     - name: Default

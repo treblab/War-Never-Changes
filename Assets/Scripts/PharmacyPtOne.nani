@@ -24,7 +24,7 @@ Naya: Is Mama going to be okay, Dad?
 @char Dorin
 @char Dorin.Sad
 
-*He crouches beside Naya, brushing her hair behind her ear gently.*
+Dorin crouches beside Naya, brushing her hair behind her ear gently.
 
 Dorin: We're going to do everything we can, Naya. We just need to find some antibiotics to help her fight off the infection.
 
@@ -37,6 +37,7 @@ He nods at Ardan, and the two step away from Mira’s bedside to speak in hushed
 @char Dorin.Default
 
 @char Ardan
+@char Ardan.Conflicted
 
 Ardan: She's getting worse, Dad. We need to find those antibiotics fast. 
 
@@ -44,7 +45,7 @@ Dorin: I know. We'll head to the pharmacy tonight. It's risky, but we don't have
 
 @char Ardan.Angry
 
-Ardan meets his father’s gaze, anger flaring for a moment before he nods. 
+Ardan meets his father’s gaze, anger and anxiousness flaring for a moment before he nods. 
 
 @char Ardan.Conflicted
 
@@ -56,17 +57,19 @@ Ardan: Yeah. I’m ready.
 
 @char Mira
 
-*Dorin walks back to Mira, kneeling beside her. Her eyes flutter open, hazy with fever. She struggles to focus on his face*.
+Dorin walks back to Mira, kneeling beside her. Her eyes flutter open, hazy with fever. She struggles to focus on his face.
 
 Mira: Dorin... Ardan... don’t... don’t go...
 
-*Dorin takes her hand, squeezing gently.*
+Dorin takes her hand, squeezing gently.
 
 @char Dorin.Conflicted
 
 Dorin: We have to, Mira. We don’t have a choice.
 
-Mira shakes her head weakly, tears pooling in her eyes.
+@char Mira.Depressed
+
+Mira shakes her head weakly.
 
 Mira: It’s too dangerous... I don’t want... to lose you too.
 
@@ -75,6 +78,8 @@ Dorin leans in closer.
 @char Dorin.Happy
 
 Dorin: You won’t lose us. I’ll bring back what you need. I swear.
+
+@char Mira.Exhausted
 
 Mira closes her eyes, too weak to argue anymore. Dorin stands, turning to Ardan.
 
@@ -112,7 +117,7 @@ Dorin: I will.
 
 @hide Naya
 
-@char Ardan
+@char Ardan.Default
 
 He pulls away and glances one last time at Mira. He exchanges a look with Ardan as they both grab their bags. 
 
@@ -120,7 +125,7 @@ The apartment feels colder as they step toward the door.
 
 Ardan: We’ll find it, Dad. We have to.
 
-Dorin: *He grimly nods.*
+Dorin grimly nods.
 
 Dorin: We will.
 

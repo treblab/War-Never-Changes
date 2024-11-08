@@ -14,14 +14,20 @@ Dorin and Ardan journey back to the apartment.
 
     The weight of the stolen antibiotics hangs heavy between them, but they’ve made it back. 
     
+    @char Mira
+    @char Mira.Depressed
+
+    @char Naya.Sad
+
     Mira lies on a makeshift bed, her breathing shallow, her skin pale. Naya sits beside her, her eyes red-rimmed with worry.
 
-    @char Naya
+    @char Naya.Surprised
 
-    Naya: "Dad... Ardan... you’re back. Did you... did you find it?"
+    Naya: "Dad... Ardan... you’re back! Did you... did you find it?"
     
     Dorin grimly nods.
 
+    @char Dorin.Surprised
     He rushes to Mira's side, holding up the vial of medicine, his hands trembling.
 
     Ardan: "Dad... will this be enough?"
@@ -32,18 +38,32 @@ Dorin and Ardan journey back to the apartment.
 
     Ardan quickly fetches it, and together they administer the antibiotics, their hearts pounding with anticipation and fear. Mira stirs slightly, her eyes fluttering open for the first time in hours.
 
-    @char Mira
+    @char Mira.Surprised
 
-    Mira: Weakly. "Dorin...? Ardan...? You’re back..."
+    Mira weakly reaches out a hand, her voice barely a whisper.
 
-    Dorin squeezes her hand gently, his voice breaking with relief. Dorin: "We’re here, Mira. We got what you needed. You’re going to be okay."
+    Mira: Dorin...? Ardan...? You’re back...
+
+    Dorin squeezes her hand gently, his voice breaking with relief. 
+    
+    @char Dorin.Happy
+
+    Dorin: We’re here, Mira. We got what you needed. You’re going to be okay.
+
+    @char Ardan.Happy
 
     Tears well up in Ardan’s eyes as he watches his mother’s breathing steady. The fear that had gripped them so tightly for days begins to loosen. 
     
+    @char Mira.Exhausted
+
     As the night passes, the color slowly returns to Mira’s cheeks, and though she’s still weak, it’s clear she’s going to survive.
 
     @if G_HasCutters
-        The box cutter sits on the table, a silent reminder of the lengths they’d gone to for her survival. Dorin watches it for a moment, his thoughts heavy with the weight of their choices.
+        The box cutter sits on the table, a silent reminder of the lengths they’d gone to for her survival. 
+        
+        @char Ardan.Depressed
+
+        Ardan watches it for a moment, his thoughts heavy with the weight of their choices.
 
         Dorin: "We did what we had to do, Ardan. We saved your mother. That’s what matters."
 
@@ -56,20 +76,24 @@ Dorin and Ardan journey back to the apartment.
         Dorin: "You did what you had to do, Ardan. We both did. We saved your mother. That’s what matters."
     @endif
 
-    END OF PROTOTYPE. Thanks for playing!
-
 ; -- Else, no antibiotics
 @else
 
     Their faces are hollow with failure. The moment they step inside, the weight of the empty-handed return presses down on them. 
+
+    @char Ardan.Depressed
+    @char Dorin.Depressed
     
     @back Apartment
 
     Mira lies still on the bed, her breaths shallow and labored, each one a painful reminder of their inability to save her. 
     
+    @char Mira.Depressed
+    @char Naya.Sad
+
     Her skin is pale, almost gray, and the light in her eyes has dimmed. Naya sits beside her, her eyes red-rimmed with worry.
 
-    @char Naya
+    @char Naya.Surprised
 
     Naya: "Dad... Ardan... did you... did you find it?"
 
@@ -83,26 +107,30 @@ Dorin and Ardan journey back to the apartment.
 
     Mira stirs faintly at his voice, but her response is little more than a strained breath. She’s too weak to speak, her eyes barely opening. 
     
-    Dorin kneels beside her, gripping her hand, but it’s cold and limp in his grasp. He forces words from his throat, though they feel empty. 
+    Dorin kneels beside her, gripping her hand, but it’s cold and limp in his grasp. He forces words from his throat, though they feel empty.
 
-    Naya: Voice small, barely audible. "Is Mom going to die?"
+    @char Naya.Angry
+
+    Naya: Is Mom going to die!?
     
-    Dorin: "Mira...Naya... we’ll try again. I... I’ll find something tomorrow."
+    Dorin: Mira...Naya... we’ll try again. I... I’ll find something tomorrow.
 
     But even as he says it, the words feel hollow. He knows there may be no tomorrow for her. Her body is failing, the signs all too clear. 
+
+    @char Naya.Sad
     
     They have nothing left to give her — no medicine, no comfort. Only the crushing reality that time is running out.
 
+    @char Dorin.Depressed
+    @char Ardan.Depressed
+    
     Night falls, and with it, the last flickers of hope. Dorin and Ardan sit in silence, knowing they can do nothing but wait. The world outside feels distant, irrelevant. Inside, they are alone with the grim reality of what they might lose.
 
-    END OF PROTOTYPE. Thanks for playing!
 @endIf
 
 ;--- Hard code reset of flags -- remove later
 @set G_HasAntibiotics=false
 @set G_HasCutters=false
 @set G_HasMedkit=false
-
-END OF PROTOTYPE. Thanks for playing!
 
 @stop

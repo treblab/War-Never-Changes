@@ -8,7 +8,7 @@ Dorin picks up an empty pill bottle and turns it over in his hands, the weight o
 
 @char Ardan.Angry
 
-*Ardan is frustrated, kicking a box aside.*
+Ardan is frustrated, kicking a box aside.
 
 Ardan: There's nothing here. Someone must’ve cleared this place out weeks ago.
 
@@ -18,9 +18,7 @@ Dorin checks the label on a half-crushed box of bandages, his brow furrowed in d
 
 @char Dorin.Conflicted
 
-Dorin: *He mutters, voice heavy with concern.*
-
-Dorin: "We should’ve expected this. Every place like this was picked clean in the first days."
+Dorin: We should’ve expected this. Every place like this was picked clean in the first days.
 
 @char Dorin.Sad
 

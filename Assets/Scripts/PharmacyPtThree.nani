@@ -8,7 +8,9 @@
 They round the corner, only to find themselves face-to-face with another father and son. The two groups freeze, the air thick with tension.
 
 @char Boy pos:90
+@char Boy.Scared
 @char Man pos:70
+@char Man.Surprised
 
 Both families look gaunt, desperate, the hollow eyes of hunger and fear staring back at each other. The other father clutches a small bag, the outline of medicine bottles visible.
 
@@ -46,9 +48,11 @@ Dorin knows in his heart that they’re just like him and Ardan — fighting for
 
 The other father’s voice cuts through the silence, low and hoarse.
 
-The stranger's voice is weary, but defiant.
+@char Man.Surprised
 
 Man: I don’t know what you think you’re gonna do... but we need this medicine. Don’t make me fight for it.
+
+@char Man.Conflicted
 
 Dorin clenches his jaw, feeling the weight of the decision pressing down on him. 
 
@@ -66,13 +70,17 @@ Dorin: We’re not here to fight. But we need that medicine... without it, my wi
 
 The other father narrows his eyes, his grip tightening on the bag.
 
-The other father bitterly responds.
+@char Man.Angry
 
-Man: And what do you think happens to us if we give it to you? My son’s all I’ve got left. You think I’ll just hand it over and watch him die?
+Man: And what do you think happens to us if we give it to you? My son’s all I’ve got left. You think I’ll just hand it over and watch him die? He's sick too!
 
 The man takes a step forward, his posture defensive, but his voice falters, revealing the fear underneath.
 
+@char Man.Surprised
+
 Man: I won’t let you take it. We need this just as bad as you do.
+
+@char Man.Conflicted
 
 Your choices here will determine the outcome of the confrontation. Choose wisely. Choices could have long-lasting consequences.
 
@@ -155,6 +163,8 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
     @char Ardan.Angry
 
     Ardan pulls out the box cutter, his eyes locked on the other father. The room is charged with tension, the air thick with the threat of violence.
+
+    @char Boy.Scared
     
     @char Ardan.Conflicted
 
@@ -168,8 +178,17 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
     @spawn ShakeCamera params:,5,,,,,true,false
     The room erupts into chaos, the two families locked in a desperate struggle for survival.
     Ardan slashes at the other father using the box cutter, his movements fueled by fear and desperation.
+
+    @char Boy.Scared
+
     The other father fights back, his son trying to shield him from the blows. 
+
+    Boy: Stop! Please! Don't hurt my dad!
+
+    @char Man.Angry
+
     Ardan's box cutter slashes the man's arms and face, leaving him bleeding and gasping for breath.
+
 @else
     Dorin steps forward, his voice hard and determined.
 
@@ -186,15 +205,30 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
 
     @char Dorin.Angry
 
-    Dorin throws a punch, the sound of the impact echoing through the room. The other father stumbles back, blood trickling from his nose.
+    Dorin throws a punch, the sound of the impact echoing through the room. 
+    
+    @char Man.Angry
+
+    The other father stumbles back, blood trickling from his nose.
+
+    @char Man.Surprised
+
+    @char Boy.Scared
+
     The other father fights back, his son trying to shield him from the blows.
+
+    Boy: Stop! Please! Don't hurt my dad!
 
     @char Ardan.Angry
 
     Ardan shoves the other father to the ground, his face twisted with desperation. Dorin follows up with a heavy kick to the man’s side, and begins to frantically pummel him.
 @endif
 
+@char Man.Angry
+
 Man: No! Stop! Please! I'll give it to you!
+
+@char Boy.Sad
 
 The Father and Son stand over the fallen family. The scuffle is over. The room is silent except for the sound of strained breathing. 
 
@@ -202,7 +236,17 @@ The Father and Son stand over the fallen family. The scuffle is over. The room i
 
 Dorin holds the antibiotics in his trembling hand, his chest heaving from the effort.
 
-Across the floor, the other father is slumped, clutching his side, his son kneeling beside him, eyes wide with fear and disbelief. The boy’s quiet sobs fill the air as he tries to help his injured father.
+@char Boy.Scared
+
+@char Man.Surprised
+
+Across the floor, the other father is slumped, clutching his side, his son kneeling beside him, eyes wide with fear and disbelief. 
+
+@char Boy.Sad
+
+The boy’s quiet sobs fill the air as he tries to help his injured father.
+
+Boy: Dad! Dad, please... are you okay?
 
 @char Ardan.Exhausted
 
@@ -226,20 +270,21 @@ Dorin: We did what we had to... for your mother. It was the only way.
 
 @char Ardan.Conflicted
 
-Ardan stares at the broken family on the floor, the blood staining the other father’s shirt, the boy’s tear-streaked face. His expression shifts, a quiet horror creeping into his features.
+Ardan stares at the broken family on the floor, the blood staining the other father’s shirt, the boy’s tear-streaked face. 
 
-@char Ardan.Exhausted
+@char Ardan.Depressed
+
+His expression shifts, a quiet horror creeping into his features.
 
 Ardan: Was it?
 
 @char Dorin.Sad
-@char Ardan.Exhausted
 
 Dorin turns to leave, but the weight of the moment clings to him. As they walk away with the stolen supplies, the sound of the boy’s crying haunts them both.
 
 @hide Dorin
 @hide Ardan
-@hide OtherFather
+@hide Man
 @hide Boy
 
 @set G_HasAntibiotics=true
@@ -251,6 +296,8 @@ Dorin turns to leave, but the weight of the moment clings to him. As they walk a
 
 @char Ardan.Surprised
 
+@char Man.Angry
+
 The fight spirals out of control. Dorin struggles to hold his ground, but the other father is stronger, more desperate than he anticipated. 
 
 @spawn ShakeCamera params:,5,,,,,true,false
@@ -261,7 +308,11 @@ A punch lands squarely in his ribs, sending him stumbling back.
 
 @char Ardan.Conflicted
 
+@char Boy.Scared
+
 Ardan tries to intervene, but the other boy, despite his age, lunges forward to protect his father. 
+
+Boy: Stop! Please! Don't hurt him!
 
 @char Ardan.Surprised
 
@@ -274,6 +325,7 @@ The room is chaos — blows exchanged, pain and panic fueling the violence.
 @if G_HasCutters
     @char BoxCutter pos:50,50, scale:0.2
     Ardan’s box cutter slashes at the other father, but the man’s reflexes are quick. 
+    @char Man.Surprised
     He dodges the blade, his own fists landing heavy blows on Ardan’s face. 
     @hide BoxCutter
     The room is a blur of motion, the sounds of struggle and pain echoing off the walls.
@@ -292,6 +344,8 @@ Dorin: Ardan! Get back! We need to go!
 Ardan stumbles, blood dripping from a cut on his forehead. The other father stands tall, wounded but defiant, glaring at them with a ferocity Dorin can’t match in this moment.
 
 The other man snarls, out of breath.
+
+@char Man.Angry
 
 Man: Get out! Before I kill you both!
 
@@ -321,7 +375,7 @@ Dorin: I know... I know.
 
 @hide Dorin
 @hide Ardan
-@hide OtherFather
+@hide Man
 @hide Boy
 
 @goto PharmacyEnd
@@ -348,7 +402,9 @@ Dorin: Look, we’re all in the same place. We don’t want to fight you.
 
 My wife... she’s dying. Without those antibiotics, she won’t make it through the night.
 
+@char Man.Surprised
 Man: And what if I give this to you? What happens to us? 
+@char Man.Angry
 Man: You think I can just hand over what little we have left and walk out of here with nothing? No way!
 
 @char Dorin.Surprised
@@ -360,10 +416,15 @@ Dorin: I don’t have much... but I swear, if I find more supplies, I’ll come 
 
 # MedkitSuccess
 
-The boy tugs on his Father's arm, looking up at him with wide, pleading eyes. 
+@char Boy.Worried
+The boy tugs on his Father's arm, looking up at him with wide, pleading eyes.
+ 
+Boy: Maybe... maybe we should... we should help them. They need it too.
 
+@char Man.Surprised
 The man sighs heavily, the fight slowly draining from him. He knows what’s at stake, but the sight of his son weakens his resolve.
 
+@char Man.Conflicted
 Man: Take it. If we keep fighting each other, none of us will make it.
 
 @char Dorin.Surprised
@@ -382,7 +443,7 @@ As Dorin and Ardan leave, the weight of the decision stays with them, but for no
 
 @hide Dorin
 @hide Ardan
-@hide OtherFather
+@hide Man
 @hide Boy
 
 @set G_HasAntibiotics=true
@@ -394,22 +455,25 @@ As Dorin and Ardan leave, the weight of the decision stays with them, but for no
 
 Dorin: Please... we just need the antibiotics to save her. We won’t hurt you. We just need your help.
 
+@char Man.Surprised
 The other father’s eyes harden, his grip on the bag tightening. He shakes his head, his voice firm.
 
 Tall and imposing despite his injuries, he shifts his stance, protective of his son and the precious supplies they’ve managed to scavenge. His face is hardened by days of suffering, and his eyes narrow at Dorin’s words.
 
+@char Man.Conflicted
 Man: You think I can give you this and still walk out of here alive? My boy’s all I’ve got left. I can’t risk it. Not for you. Not for anyone.
 
 Dorin glances at Ardan, who’s standing tense and silent behind him, then tries again, voice edged with pleading.
 
-Dorin: More urgently, his voice breaking slightly.
 Dorin: I’m not asking for much. Just enough to get her through. We’re all struggling here. I’m just trying to save my family.
 
 The other father shakes his head slowly, his face unreadable, but the tension in his posture tells Dorin he won’t budge.
 
 Man: I have a family too. And if I give you this, it could be the end for us. I can’t do that.
 
-Dorin feels his heart sink, the cold realization settling in. He’s not going to get the medicine. Not without taking it by force. He takes a step back, fists clenched at his sides, his mind racing. Ardan shifts uncomfortably beside him, his voice barely above a whisper.
+Dorin feels his heart sink, the cold realization settling in. He’s not going to get the medicine. Not without taking it by force. 
+
+He takes a step back, fists clenched at his sides, his mind racing. Ardan shifts uncomfortably beside him, his voice barely above a whisper.
 
 # ChoiceTwo
 @choice "Walk Away (100%)" goto:.WalkAwayMedkit
@@ -425,8 +489,11 @@ Dorin feels his heart sink, the cold realization settling in. He’s not going t
 
 # WalkAwayMedkit
 His voice is thin, resigned.
+
 Dorin: I understand... we won’t take it from you.
+
 He turns, shoulders heavy, the sting of failure biting deep. As they leave, Dorin can feel Ardan’s silent disappointment beside him. He knows that tonight, they’ll go home empty-handed—and possibly face a greater loss.
+
 @goto PharmacyEnd
 
 ; ----------- VARIATION 2 - IF PLAYERS DO HAVE A MEDKIT -----------
@@ -440,17 +507,21 @@ Dorin: We’ll make a trade. It’s the only way this ends without blood. I’ve
 
 @char Medkit pos:50,50 scale:1.5
 
+@char Man.Conflicted
+
+@char Boy.Worried
+
 The other father’s eyes flicker with hesitation as he considers the offer. The silence feels suffocating as he looks down at his son, whose terrified eyes are pleading with him. 
 
 He knows they need the antibiotics, but he also knows they need to stay alive long enough to use them.
 
-He hesitates, voice cracking slightly.
+The silence is tense, both sides unwilling to break, but there’s something in the other man’s face — a flicker of understanding.
+
+@char Man.Surprised
 
 Man: A medkit? That’s not gonna heal this... but it’s better than nothing.
 
 Dorin holds out the medkit, his eyes locked on the other father. 
-
-The silence is tense, both sides unwilling to break, but there’s something in the other man’s face — a flicker of understanding.
 
 Slowly, the man reaches out, taking the medkit from Dorin’s hands.
 
@@ -458,6 +529,7 @@ Slowly, the man reaches out, taking the medkit from Dorin’s hands.
 
 Man: This... this might help us. War’s already taken enough from us. No need to take more.
 
+@char Man.Conflicted
 He rummages through the bag, inspecting the supplies. After a long pause, he pulls out the antibiotics, handing them over. His eyes are hard, but there’s no malice in them, only exhaustion.
 
 Man: Take it. We’ll survive without this... somehow.
@@ -467,16 +539,13 @@ Man: Take it. We’ll survive without this... somehow.
 
 Dorin takes the antibiotics, feeling an odd sense of relief wash over him. It wasn’t violence this time — it was humanity.
 
-Dorin speaks softly.
-
-Dorin: Sincerely.
 Dorin: Thank you... I won’t forget this.
 
 The two fathers exchange a glance, one that speaks of shared suffering. Dorin and Ardan leave, the medicine in hand, knowing that for once, something good came from this broken world.
 
 @hide Dorin
 @hide Ardan
-@hide OtherFather
+@hide Man
 @hide Boy
 
 @set G_HasAntibiotics=true
@@ -488,6 +557,8 @@ The two fathers exchange a glance, one that speaks of shared suffering. Dorin an
 @char Medkit pos:50,50 scale:1.5
 
 @char Dorin.Happy
+
+@char Man.Conflicted
 
 Dorin pleads, holding out the medkit, but the other father isn’t moved. His face hardens, the lines of suffering etched deeply into his skin. 
 
@@ -521,6 +592,10 @@ He knows what it’s like to be on the edge of survival, and he won’t cross th
 
 Dorin: Ardan - we’re leaving. We can’t do this.
 
+@char Man.Surprised
+
+@char Boy.Worried
+
 @char Ardan.Conflicted
 
 Ardan: Dad... we’re just going to walk away?
@@ -543,7 +618,7 @@ Dorin: I won’t do it, Ardan. I won’t steal from them. Not like this. We stil
 
 @hide Dorin
 @hide Ardan
-@hide OtherFather
+@hide Man
 @hide Boy
 
 They walk away, empty-handed, the weight of their choice pressing heavily on their shoulders. As they leave the pharmacy behind, Dorin glances at his son, knowing the consequences of this moment will haunt them both. But at least, for now, their humanity remains intact—though it might cost them everything.
