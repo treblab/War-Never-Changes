@@ -40,34 +40,9 @@ Ardan: "Not even scraps. What now?"
 @char Dorin.Default
 @char Ardan.Default
 
-@showUI ScavengeUI
+@showUI ScavUI
 
-@set ScavengeUI.scavCount=3
-
-Now going to show the calendar.
-@showUI Calendar
-Now setting the date.
-@set day=12;month=1
-The date should be January 12th.
-@set day++
-The day should increase by one.
-@set month=2
-The month should change to February.
-Now hiding the calendar.
-@hideUI Calendar
-
-Now starting the month loop.
-@showUI Calendar
-
-# Loop
-
-@set month++
-@set month=1 if:month>12
-
-Next month.
-
-@goto .Loop
-
+@set scavCount=3
 
 The amount of rooms you are able to search is shown in the top right corner.
 
