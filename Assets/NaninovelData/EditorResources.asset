@@ -285,14 +285,50 @@ MonoBehaviour:
       guid: 075d8463df273bb4e808ef9306c1241f
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
-    - name: Mira-placeholder
+    - name: Default
       pathPrefix: Characters/Mira
-      guid: c6358d9ed2e252d40927a309bf20cf4c
+      guid: d29db9b9014a76747bac5862166f7888
+    - name: Angry
+      pathPrefix: Characters/Mira
+      guid: b274c867bcdc5f94bbd0016a83eeb3eb
+    - name: Conflicted
+      pathPrefix: Characters/Mira
+      guid: 97e45e1439d27804eb8ada19de8f89dc
+    - name: Depressed
+      pathPrefix: Characters/Mira
+      guid: 3220d3d1effe796479c509b1877140f6
+    - name: Exhausted
+      pathPrefix: Characters/Mira
+      guid: 6eef240362c53004fa62acc86aa701da
+    - name: Happy
+      pathPrefix: Characters/Mira
+      guid: f3195ef192d94a248aaa8ed9688f5851
+    - name: Surprised
+      pathPrefix: Characters/Mira
+      guid: a751649a89d13664083cf281a0cc1df5
   - Id: Characters/d40c5786-ea12-4247-964b-bd75de0c9c0b
     Resources:
-    - name: Naya-placeholder
+    - name: Default
       pathPrefix: Characters/Naya
-      guid: c38e816b257ae0f4aa33df34a34158a4
+      guid: 0f0b27f7ecd1fe849bb122ab44b7a702
+    - name: Angry
+      pathPrefix: Characters/Naya
+      guid: 8fb631aabfbb1f740beda3d0e3f423ad
+    - name: Conflicted
+      pathPrefix: Characters/Naya
+      guid: bd5d2b795d65b864d89307fe8dced625
+    - name: Happy
+      pathPrefix: Characters/Naya
+      guid: 47613cb8934047748945683304eb4b87
+    - name: Pout
+      pathPrefix: Characters/Naya
+      guid: c2927288c438bb640be5990dcd2b01ca
+    - name: Sad
+      pathPrefix: Characters/Naya
+      guid: b6115cce91e4c884c9d075f1bea3850f
+    - name: Surprised
+      pathPrefix: Characters/Naya
+      guid: 9255a4838e2227b4a924f2a5c1f1740c
   - Id: Characters/d4fbd3a5-23ea-46b6-94b8-a76129b4bfb7
     Resources:
     - name: Default

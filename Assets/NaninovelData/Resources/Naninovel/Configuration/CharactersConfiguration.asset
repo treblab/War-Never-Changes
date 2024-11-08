@@ -314,7 +314,7 @@ MonoBehaviour:
       guid: 77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
       customData:
         rid: -2
-      Pivot: {x: 0.5, y: -0.6}
+      Pivot: {x: 0.5, y: 0}
       PixelsPerUnit: 100
       EnableDepthPass: 1
       DepthAlphaCutoff: 0.5
@@ -343,7 +343,91 @@ MonoBehaviour:
       MessageSoundPlayback: 0
       VoiceSource: {fileID: 0}
       LinkedPrinter: 
-      Poses: []
+      Poses:
+      - name: Default
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Angry
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Conflicted
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Depressed
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Exhausted
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Surprised
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Happy
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
     - Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       Loader:
@@ -356,7 +440,7 @@ MonoBehaviour:
       guid: d40c5786-ea12-4247-964b-bd75de0c9c0b
       customData:
         rid: -2
-      Pivot: {x: 0.5, y: -0.6}
+      Pivot: {x: 0.5, y: 0}
       PixelsPerUnit: 100
       EnableDepthPass: 1
       DepthAlphaCutoff: 0.5
@@ -385,7 +469,91 @@ MonoBehaviour:
       MessageSoundPlayback: 0
       VoiceSource: {fileID: 0}
       LinkedPrinter: 
-      Poses: []
+      Poses:
+      - name: Default
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Angry
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Conflicted
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Happy
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Pout
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Sad
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
+      - name: Surprised
+        actorState:
+          appearance: 
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
     - Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       Loader:

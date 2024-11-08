@@ -261,6 +261,10 @@
         &lt;Type&gt;Spawn&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
+        &lt;Path&gt;CoinFlip&lt;/Path&gt;
+        &lt;Type&gt;Spawn&lt;/Type&gt;
+      &lt;/Resource&gt;
+      &lt;Resource&gt;
         &lt;Path&gt;ClickThroughPanel&lt;/Path&gt;
         &lt;Type&gt;UI&lt;/Type&gt;
       &lt;/Resource&gt;
@@ -329,11 +333,7 @@
         &lt;Type&gt;UI&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
-        &lt;Path&gt;ScavengeUI&lt;/Path&gt;
-        &lt;Type&gt;UI&lt;/Type&gt;
-      &lt;/Resource&gt;
-      &lt;Resource&gt;
-        &lt;Path&gt;Calendar&lt;/Path&gt;
+        &lt;Path&gt;ScavUI&lt;/Path&gt;
         &lt;Type&gt;UI&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
@@ -507,7 +507,7 @@
     &lt;/Resources&gt;
     &lt;Constants /&gt;
     &lt;Variables&gt;
-      &lt;string&gt;ScavangeChance&lt;/string&gt;
+      &lt;string&gt;ScavengeChance&lt;/string&gt;
       &lt;string&gt;choice1&lt;/string&gt;
       &lt;string&gt;choice2&lt;/string&gt;
       &lt;string&gt;choice3&lt;/string&gt;
