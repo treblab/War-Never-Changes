@@ -341,8 +341,8 @@ MonoBehaviour:
         height: 1
       BakedLookDirection: 1
       DisplayName: 
-      UseCharacterColor: 0
-      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      UseCharacterColor: 1
+      NameColor: {r: 1, g: 0.95974106, b: 0, a: 1}
       MessageColor: {r: 1, g: 1, b: 1, a: 1}
       HighlightWhenSpeaking: 0
       HighlightCharacterCount: 0
@@ -467,8 +467,8 @@ MonoBehaviour:
         height: 1
       BakedLookDirection: 1
       DisplayName: 
-      UseCharacterColor: 0
-      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      UseCharacterColor: 1
+      NameColor: {r: 0.8989227, g: 1, b: 0, a: 1}
       MessageColor: {r: 1, g: 1, b: 1, a: 1}
       HighlightWhenSpeaking: 0
       HighlightCharacterCount: 0
@@ -484,7 +484,7 @@ MonoBehaviour:
       Poses:
       - name: Default
         actorState:
-          appearance: 
+          appearance: Default
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -496,7 +496,7 @@ MonoBehaviour:
         - visible
       - name: Angry
         actorState:
-          appearance: 
+          appearance: Angry
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -508,7 +508,7 @@ MonoBehaviour:
         - visible
       - name: Conflicted
         actorState:
-          appearance: 
+          appearance: Conflicted
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -520,7 +520,7 @@ MonoBehaviour:
         - visible
       - name: Happy
         actorState:
-          appearance: 
+          appearance: Happy
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -532,7 +532,7 @@ MonoBehaviour:
         - visible
       - name: Pout
         actorState:
-          appearance: 
+          appearance: Pout
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -544,7 +544,7 @@ MonoBehaviour:
         - visible
       - name: Sad
         actorState:
-          appearance: 
+          appearance: Sad
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -556,7 +556,7 @@ MonoBehaviour:
         - visible
       - name: Surprised
         actorState:
-          appearance: 
+          appearance: Surprised
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
