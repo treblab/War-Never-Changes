@@ -1,0 +1,6 @@
+
+@startTimer
+@choice Option 1
+@choice Option 2
+@stopTimer
+@stop
