@@ -192,6 +192,9 @@ MonoBehaviour:
     - name: PharmacyEnd
       pathPrefix: Scripts
       guid: 9859da6280970b441a0d560e8046d88b
+    - name: TimerTest
+      pathPrefix: Scripts
+      guid: 46daa23be7286574793f8f4b847cdffe
   - Id: Audio
     Resources:
     - name: MainMenu
