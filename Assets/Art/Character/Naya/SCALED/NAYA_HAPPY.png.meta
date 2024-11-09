@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NAYA_HAPPY_0: -8076432496688210073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

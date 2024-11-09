@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NAYA_SAD_0: 931871734592891308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

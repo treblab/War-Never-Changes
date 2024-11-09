@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MIRA_EXHAUSTED_0: -2143511290689807466
+      MIRA_EXHAUSTED_1: -453915165868666119
+      MIRA_EXHAUSTED_2: -2852034572727516627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

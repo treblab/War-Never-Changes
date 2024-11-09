@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OTHER_FATHER_SURPRISED_0: 4071822338733483440
+      OTHER_FATHER_SURPRISED_1: 2046034743228479148
+      OTHER_FATHER_SURPRISED_2: -8585721058069961954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

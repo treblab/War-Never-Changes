@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MIRA_CONFLICTED_0: 6729751169911465015
+      MIRA_CONFLICTED_1: 4010700120269459855
+      MIRA_CONFLICTED_2: 6541444646939741586
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

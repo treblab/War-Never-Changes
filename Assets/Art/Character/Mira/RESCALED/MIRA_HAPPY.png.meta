@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MIRA_HAPPY_0: 7498723689967912071
+      MIRA_HAPPY_1: -1028034800329664912
+      MIRA_HAPPY_2: -6348734337793402306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

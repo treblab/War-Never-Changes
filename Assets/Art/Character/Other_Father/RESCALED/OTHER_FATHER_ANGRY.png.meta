@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OTHER_FATHER_ANGRY_0: -4373998532656483442
+      OTHER_FATHER_ANGRY_1: -1091416753414618692
+      OTHER_FATHER_ANGRY_2: 2180439423919480363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

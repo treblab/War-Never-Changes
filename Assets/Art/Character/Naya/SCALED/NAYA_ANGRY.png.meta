@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NAYA_ANGRY_0: 1120954819778175388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

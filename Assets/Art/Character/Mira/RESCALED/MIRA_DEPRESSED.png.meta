@@ -191,7 +191,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MIRA_DEPRESSED_0: 9221766244386195827
+      MIRA_DEPRESSED_1: 7907502748502051076
+      MIRA_DEPRESSED_2: -5406774952080946191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
