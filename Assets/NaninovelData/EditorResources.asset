@@ -207,6 +207,12 @@ MonoBehaviour:
     - name: SancNegotiated
       pathPrefix: Scripts
       guid: 170e2f8844e1a7742a75350f22f52bb3
+    - name: GoodEnding
+      pathPrefix: Scripts
+      guid: 1e6f24bc79add0d4faf39613f87c43c2
+    - name: BadEnding
+      pathPrefix: Scripts
+      guid: cfde9c9105e6b764fa7fab6d263c837b
   - Id: Audio
     Resources:
     - name: MainMenu
