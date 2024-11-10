@@ -40,7 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
+    locked: 1
   - name: Ground
     uniqueID: 3914031295
     locked: 0
@@ -49,4 +49,13 @@ TagManager:
     locked: 0
   - name: Walls
     uniqueID: 2691923971
+    locked: 0
+  - name: Buildings
+    uniqueID: 1625186821
+    locked: 0
+  - name: Buildings2
+    uniqueID: 3658672047
+    locked: 0
+  - name: Buildings3
+    uniqueID: 4088988007
     locked: 0
