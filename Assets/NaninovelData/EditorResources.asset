@@ -195,6 +195,12 @@ MonoBehaviour:
     - name: TimerTest
       pathPrefix: Scripts
       guid: 46daa23be7286574793f8f4b847cdffe
+    - name: DeathSceanrio
+      pathPrefix: Scripts
+      guid: fc47f2669680ee24e99bc421b2046e2e
+    - name: DeathSceanrio 1
+      pathPrefix: Scripts
+      guid: d279e1e394f10d242ad2f33d13c49abf
   - Id: Audio
     Resources:
     - name: MainMenu

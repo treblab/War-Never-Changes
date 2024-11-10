@@ -115,13 +115,13 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 @set fightCheck=5
 
 @if G_HasCutters
-@set playerRoll+=0.20
+    @set playerRoll+=0.20
 @endif
 
 @if playerRoll>=fightCheck
-@goto .FightSuccess
-@else
-@goto .FightFailure
+    @goto .FightSuccess
+    @else
+        @goto .FightFailure
 @endif
 
 ; ----------- CHECK CONDITIONS FOR NEGOTIATE -----------

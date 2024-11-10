@@ -1,0 +1,76 @@
+; Scene Transition to Street in the Morning
+@set scene
+@set background
+@set music
+
+; Narration
+@print "Dorin and Arden step out, gunfire and explosions fading into the background as they navigate the ruined streets of their beloved city. They move carefully, keeping low and staying close to the walls of the buildings. The journey feels almost surreal—hope mingling with the fear that lingers in the air."
+
+@print "After a tense but smooth trek, they find a nearby zone, noticing graffiti that signals the church’s location—a good sign. After a cautious walk, they both release their tension as they finally spot the church. They see people exchanging goods and stories, the atmosphere buzzing with a sense of community amidst the chaos."
+
+; Church Encounter - Set Image here
+@set background
+@print "Dorin approaches a volunteer, who greets them with a warm smile."
+
+Volunteer: "You okay? Looks like you're worse for wear. Don’t worry, we’re here to help. What can I do for you today?"
+
+; Choice: What to Take Back
+@choice "Large Medkit" goto:.choice_medkit
+@choice "Swiss Army Knife" goto:.choice_medkit
+@choice "Hand Mirror" goto:.choice_mirror
+
+# choice_medkit
+@print "Dorin chooses the large medkit, knowing it could make a huge difference in an emergency."
+
+Volunteer: "That's a wise choice. Take care of yourselves out there."
+
+@print "They gather what they can—canned goods, new blankets, and a large medkit. The feeling of accomplishment washes over Dorin as he realizes they might finally be okay for a while."
+
+; End the choice sequence
+@goto .end_supplies
+
+# choice_mirror
+@print "Dorin decides on a small hand mirror, feeling it could be useful in unexpected ways, even though it means leaving the large medkit behind."
+
+Volunteer: "An interesting choice-sometimes, the smallest items can be the most valuable."
+
+@choice "Swiss Army Knife" goto:.choice_knife_second
+
+# choice_knife_second
+@print "Dorin adds a Swiss Army Knife, knowing its versatility might come in handy."
+
+Volunteer: "You’re packing smart. Stay safe out there."
+
+@print "They gather what they can—canned goods, new blankets, the hand mirror, and the Swiss Army Knife. Dorin feels a sense of resourcefulness, even if they couldn't take the medkit."
+
+@goto end_supplies
+
+# choice_knife
+@print "Dorin picks up the Swiss Army Knife, knowing it could be a valuable tool for many situations."
+
+Volunteer: "That's a solid choice; it's got plenty of uses."
+
+@choice "Hand Mirror" goto:.choice_mirror_second
+
+# choice_mirror_second
+@print "Dorin adds a hand mirror, even though it means they’ll have to pass up the medkit."
+
+Volunteer: "Interesting choices. You two take care."
+
+@print "They gather what they can—canned goods, new blankets, the Swiss Army Knife, and the hand mirror. Dorin feels prepared, even if they couldn't take the medkit."
+
+@goto end_supplies
+
+# end_supplies
+@print "After a short talk about what they need, Dorin and Arden gather what supplies they can. The atmosphere of kindness and community feels like a breath of fresh air to Dorin, contrasting with the chaos outside."
+
+@print "Dorin glances at Arden and smiles. 
+Dorin: 'See?' 
+Dorin: 'We did it.' 
+Arden nods, a glimmer of hope in his eyes.
+
+@print "As they leave the church with bags filled with essentials, a child outside kicks a football across the street, laughter ringing out into the morning. For a moment, it feels like life is returning to normal."
+
+@print "They retrace their steps back home, the tense air almost gone. Hours later, they finally arrive, feeling a rare sense of accomplishment and relief."
+
+; End Scene
