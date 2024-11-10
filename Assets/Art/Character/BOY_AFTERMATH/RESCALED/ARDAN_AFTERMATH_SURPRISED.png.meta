@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 70e4862c983e2e44191fa0ff94c9a25e
+guid: f0b3cae9b3e9741429674fa1eb37655f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6767162376882279953
-    second: ARDAN_AFTERMATH_0001_0
+      213: -2318562533685688354
+    second: ARDAN_AFTERMATH_SURPRISED_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ARDAN_AFTERMATH_0001_0
+      name: ARDAN_AFTERMATH_SURPRISED_0
       rect:
         serializedVersion: 2
         x: 99
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe92b841ca53612a0800000000000000
-      internalID: -6767162376882279953
+      spriteID: ed7822ee8afc2dfd0800000000000000
+      internalID: -2318562533685688354
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      ARDAN_AFTERMATH_0001_0: -6767162376882279953
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -289,6 +289,24 @@ MonoBehaviour:
     - name: Depressed
       pathPrefix: Characters/Ardan
       guid: bb24b49d124b3a44aae3946dc9b18385
+    - name: AngryA
+      pathPrefix: Characters/Ardan
+      guid: 503f7e74899ec2a4baab14b9a6f78416
+    - name: ConflictedA
+      pathPrefix: Characters/Ardan
+      guid: 4130d1e4517af2f4facf05c490c69ffd
+    - name: DefaultA
+      pathPrefix: Characters/Ardan
+      guid: aa1f7551b148c9545a6db214dcc99697
+    - name: ExhaustedA
+      pathPrefix: Characters/Ardan
+      guid: f1b71e8b905d1c7479b0678d56911218
+    - name: HappyA
+      pathPrefix: Characters/Ardan
+      guid: f8d38a8d6d715994db782abe0b5a181b
+    - name: PensiveA
+      pathPrefix: Characters/Ardan
+      guid: ac6cafda6592fcd49a83a9c0ea3909d8
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
     - name: Default
