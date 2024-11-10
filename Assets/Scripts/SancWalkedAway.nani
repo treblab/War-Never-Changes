@@ -1,6 +1,4 @@
-Ardan guides Mira and Naya through the dim, cramped sanctuary. His eyes scan the room warily, searching for a place where they might settle without drawing too much attention. The weight of his father Dorin’s absence presses on him, a reminder of all they’ve endured since that desperate day at the pharmacy.
-
-As they move toward an empty corner, Ardan’s gaze catches on a familiar face. The other father from the pharmacy stands across the room, his young son beside him. Recognition flickers in the man’s eyes, and a tense silence falls between them as he approaches, his expression unreadable.
+Ardan’s gaze catches on a familiar face. The other father from the pharmacy stands across the room, his young son beside him. Recognition flickers in the man’s eyes, and a tense silence falls between them as he approaches, his expression unreadable.
 
 The man pauses, then nods at Ardan, a hint of forced politeness in his voice.
 
@@ -54,19 +52,18 @@ Ardan studies him for a moment, weighing the offer, his mind racing with conflic
 
 Ardan: (with a tight nod) Fine. I’ll watch your back, you watch mine. But let’s keep it simple.
 
-Outcome: The other father nods, understanding the wariness in Ardan’s tone. On the next supply run, the two men work together out of necessity, keeping interactions minimal but effective. This cooperation builds a wary respect, but the bitterness still lingers, affecting future encounters.
+Outcome: The other father nods, understanding the wariness in Ardan’s tone. On the next supply run, Ardan can count on the man to have his back, while keeping interactions minimal but effective. This cooperation builds a wary respect, but the bitterness still lingers.
 
 ; Express Bitterness, but Agree to Work Together
 
 Ardan: (coldly) I’ll help, but don’t think I’ve forgotten what happened. My family comes first.
 
-Outcome: The other father nods stiffly, understanding the warning in Ardan’s tone. Their supply run is tense, with both men working independently even as they share the same mission. The bitterness remains, though both families sense the benefit of occasional cooperation.
+Outcome: The other father nods stiffly, understanding the warning in Ardan’s tone. The bitterness remains, though both families sense the benefit of occasional cooperation.
 
 ; Refuse, Choosing Independence
 
 Ardan: I think we’ll handle things on our own. We’ve done fine so far.
 
-Outcome: The other father shrugs, respecting Ardan’s decision but remaining wary. Ardan’s family faces the hazards of the supply run alone, narrowly avoiding danger but missing out on potential resources. This decision further distances the families, leaving room for more mistrust in future encounters.
-
+Outcome: The other father shrugs, respecting Ardan’s decision but remaining wary. Ardan’s family maintains their independence, but the tension between them and the other father’s family remains.
 
 @stop
