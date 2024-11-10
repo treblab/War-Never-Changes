@@ -195,6 +195,18 @@ MonoBehaviour:
     - name: TimerTest
       pathPrefix: Scripts
       guid: 46daa23be7286574793f8f4b847cdffe
+    - name: SanctuaryScene
+      pathPrefix: Scripts
+      guid: d964f312584fbc2489adb176c5b091c6
+    - name: SancWalkedAway
+      pathPrefix: Scripts
+      guid: d8d479e522881564b9fdaa3dc3004546
+    - name: SancFought
+      pathPrefix: Scripts
+      guid: 74d53ebdea82ec246a55d6531ce4aac5
+    - name: SancNegotiated
+      pathPrefix: Scripts
+      guid: 170e2f8844e1a7742a75350f22f52bb3
   - Id: Audio
     Resources:
     - name: MainMenu

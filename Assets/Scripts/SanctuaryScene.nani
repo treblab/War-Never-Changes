@@ -1,0 +1,88 @@
+; Sanctuary Scene
+
+; Introduction
+
+The city lies in ruins under the cover of night, broken buildings casting long shadows over streets littered with rubble and echoes of distant gunfire. 
+
+Ardan pushes forward, his face drawn with exhaustion, leading his mother Mira and young sister Naya. 
+
+Mira walks slowly, her illness visible in each strained breath, while Naya clutches her mother’s hand, her eyes wide with a mixture of fear and trust in her older brother. 
+
+Every step reminds Ardan of the heavy responsibility left to him since his father, Dorin, died—his promise to protect them growing heavier with each passing day.
+
+Rumors of a hidden sanctuary within the city’s sewers have kept them moving, a faint hope they cling to in the face of dwindling supplies and Mira’s worsening health. 
+
+As they approach the edge of the city, Ardan spots a narrow gap behind a pile of rubble, barely visible in the shadows. His heart skips; faint murmurs and the flicker of light spill from within, hinting that the sanctuary may indeed be real.
+
+Ardan: This could be it. Stay close and keep quiet.
+
+Mira nods, and Naya’s grip tightens around her mother’s hand. Ardan steps forward cautiously, tension building in his chest as he leads them through the gap, hoping that this sanctuary will offer the refuge they so desperately need. 
+
+Inside, a narrow tunnel stretches deeper into the sewers, the light and voices growing closer with each step. The damp air is thick, carrying the faint scent of decay.
+
+Ardan grips Naya’s shoulder gently, feeling her small hand slip into his, and glances back at Mira, giving her a reassuring nod. 
+
+With each cautious step toward the light, Ardan wonders if they’ll be accepted—or if they’re walking into yet another test of survival.
+
+Two guards stand at the entrance, their expressions wary and their makeshift weapons held tightly. Ardan raises his hands in a gesture of peace.
+
+Ardan: We’re looking for shelter. My family needs somewhere safe… even if only for a little while.
+
+The guards exchange skeptical glances, their eyes scanning over Mira and Naya. Mira’s face is pale and drawn, clearly weakened by weeks of illness. Naya clings to her mother’s side, eyes wide with a mixture of exhaustion and fear.
+
+One guard steps forward, his voice gruff but not unkind.
+
+Guard: They’ve got a child and a sick woman. We should let them in, at least to talk with the others.
+
+The other guard nods, and the first steps aside, gesturing for Ardan to enter. Ardan casts a glance at Mira, catching the faintest glimmer of hope in her tired eyes.
+
+; Common Area
+
+The sanctuary is a stark contrast to the city above, the walls lined with makeshift beds and shelves of supplies. People of all ages huddle together, their faces drawn with exhaustion and fear, but a sense of community lingers in the air.
+
+Ardan leads Mira and Naya to an empty corner, where they can rest and gather their strength. Mira sinks onto a bed, her breaths coming in ragged gasps, while Naya curls up beside her, her eyes drifting shut with exhaustion.
+
+Naya: Ardan… is this place safe?
+
+Ardan forces a small smile, though he can’t shake the feeling that this sanctuary might hold its own dangers.
+
+Ardan: “For now, Naya. Try to rest. I’ll take care of everything.”
+
+
+; Confrontation - choices deviate here
+
+; 1 - if you just walked away from them
+
+@if WalkAway
+    As he finishes speaking, a familiar voice rings out from across the room.
+
+    Man: Wait… I know you.
+
+    Ardan’s heart sinks. Standing across the room is the other father from the pharmacy. This is the person who had the antibiotics that could have saved Mira. The same man his Father decided to walk away from. His young son stands beside him, his eyes wide with fear and confusion.
+@endIf
+
+; 2 - if you fought them
+
+@if foughtAtPharmacy
+
+    As he finishes speaking, a familiar voice rings out from across the room, sharp and bitter.
+
+    Man: Wait… I know you.
+
+    Ardan’s heart sinks. Standing across the room is the other father from the pharmacy, his young son at his side. The man’s face is etched with lines of exhaustion, his eyes filled with a mix of resentment and pain.
+@endIf
+
+; 3- if you successfully negotiated with them
+
+@if negotiatedAtPharmacy
+    As he finishes speaking, a familiar voice rings out from across the room.
+
+    Man: Wait… I know you.
+
+    The man’s eyes meet Ardan’s, a flicker of recognition crossing his face, quickly replaced by a guarded expression.
+
+    Ardan hesitates, glancing at Mira and Naya, uncertain whether to approach. Before he can decide, the community leader - a stern woman with watchful eyes - steps between them, addressing both men.
+@endIf
+
+
+@stop
