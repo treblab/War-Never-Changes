@@ -23,35 +23,84 @@ MonoBehaviour:
   - scriptName: IntroScene
     position:
       serializedVersion: 2
-      x: 0
+      x: 1598
       y: 0
       width: 162
       height: 149
   - scriptName: PharmacyPtOne
     position:
       serializedVersion: 2
-      x: 0
+      x: 1415
       y: 0
       width: 163
       height: 125
   - scriptName: PharmacyPtTwo
     position:
       serializedVersion: 2
-      x: 0
+      x: 1206
       y: 0
       width: 189
       height: 461
   - scriptName: PharmacyPtThree
     position:
       serializedVersion: 2
-      x: 0
+      x: 979
       y: 0
       width: 207
       height: 917
   - scriptName: PharmacyEnd
     position:
       serializedVersion: 2
-      x: 0
+      x: 796
       y: 0
-      width: 125
+      width: 163
+      height: 101
+  - scriptName: TimerTest
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 77
+      width: 104
+      height: 77
+  - scriptName: SanctuaryScene
+    position:
+      serializedVersion: 2
+      x: 606
+      y: 0
+      width: 170
+      height: 176
+  - scriptName: SancWalkedAway
+    position:
+      serializedVersion: 2
+      x: 146
+      y: 0
+      width: 147
+      height: 77
+  - scriptName: SancFought
+    position:
+      serializedVersion: 2
+      x: 313
+      y: 0
+      width: 115
+      height: 77
+  - scriptName: SancNegotiated
+    position:
+      serializedVersion: 2
+      x: 448
+      y: 0
+      width: 138
+      height: 77
+  - scriptName: GoodEnding
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 116
+      height: 77
+  - scriptName: BadEnding
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 231
+      width: 107
       height: 77

@@ -8,6 +8,10 @@ The city lies in ruins under the cover of night, broken buildings casting long s
 
 Ardan pushes forward, his face drawn with exhaustion, leading his mother Mira and young sister Naya. 
 
+@char Ardan pos:20
+@char Naya pos:66
+@char Mira pos:80
+
 Mira walks slowly, her illness visible in each strained breath, while Naya clutches her mother’s hand, her eyes wide with a mixture of fear and trust in her older brother. 
 
 Every step reminds Ardan of the heavy responsibility left to him since his father, Dorin, died—his promise to protect them growing heavier with each passing day.
@@ -30,11 +34,19 @@ Ardan grips Naya’s shoulder gently, feeling her small hand slip into his, and 
 
 With each cautious step toward the light, Ardan wonders if they’ll be accepted — or if they’re walking into yet another test of survival.
 
+@hide Ardan
+@hide Naya
+@hide Mira 
+
 @back SubwayEntrance
 
 Two guards stand at the entrance, their expressions wary and their makeshift weapons held tightly. Ardan raises his hands in a gesture of peace.
 
 Ardan: We’re looking for shelter. My family needs somewhere safe… even if only for a little while.
+
+@char Ardan pos:20
+@char Naya pos:66
+@char Mira pos:80
 
 The guards exchange skeptical glances, their eyes scanning over Mira and Naya. Mira’s face is pale and drawn, clearly weakened by weeks of illness. Naya clings to her mother’s side, eyes wide with a mixture of exhaustion and fear.
 
@@ -56,45 +68,27 @@ Naya: Ardan… is this place safe?
 
 Ardan forces a small smile, though he can’t shake the feeling that this sanctuary might hold its own dangers.
 
-Ardan: “For now, Naya. Try to rest. I’ll take care of everything.”
-
+Ardan: For now, Naya. Try to rest. I’ll take care of everything.
 
 ; Confrontation - choices deviate here
 
 ; 1 - if you just walked away from them
 
-@if WalkAway
-    As he finishes speaking, a familiar voice rings out from across the room.
-
-    Man: Wait… I know you.
-
-    Ardan’s heart sinks. Standing across the room is the other father from the pharmacy. This is the person who had the antibiotics that could have saved Mira. The same man his Father decided to walk away from. His young son stands beside him, his eyes wide with fear and confusion.
-
+@if WalkAwayPharmacy
     @goto SancWalkedAway
-@endIf
+@endif
 
 ; 2 - if you fought them
 
-@if foughtAtPharmacy
-
-    As he finishes speaking, a familiar voice rings out from across the room, sharp and bitter.
-
-    Man: Wait… I know you.
-
-    Ardan’s heart sinks. Standing across the room is the other father from the pharmacy, his young son at his side. The man’s face is etched with lines of exhaustion, his eyes filled with a mix of resentment and pain.
-@endIf
+@if FoughtAtPharmacy
+    @goto SancFought
+@endif
 
 ; 3- if you successfully negotiated with them
 
-@if negotiatedAtPharmacy
-    As he finishes speaking, a familiar voice rings out from across the room.
-
-    Man: Wait… I know you.
-
-    The man’s eyes meet Ardan’s, a flicker of recognition crossing his face, quickly replaced by a guarded expression.
-
-    Ardan hesitates, glancing at Mira and Naya, uncertain whether to approach. Before he can decide, the community leader - a stern woman with watchful eyes - steps between them, addressing both men.
-@endIf
+@if NegotiatedPharmacy
+    @goto SancNegotiated
+@endif
 
 
 @stop

@@ -127,7 +127,6 @@
           &lt;string&gt;SubwayEntrance&lt;/string&gt;
           &lt;string&gt;SubwayOutskirts&lt;/string&gt;
           &lt;string&gt;SubwayTunnel&lt;/string&gt;
-          &lt;string&gt;Guards&lt;/string&gt;
         &lt;/Appearances&gt;
       &lt;/Actor&gt;
       &lt;Actor&gt;
@@ -557,10 +556,6 @@
       &lt;/Resource&gt;
       &lt;Resource&gt;
         &lt;Path&gt;SubwayTunnel&lt;/Path&gt;
-        &lt;Type&gt;Backgrounds/MainBackground&lt;/Type&gt;
-      &lt;/Resource&gt;
-      &lt;Resource&gt;
-        &lt;Path&gt;Guards&lt;/Path&gt;
         &lt;Type&gt;Backgrounds/MainBackground&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
