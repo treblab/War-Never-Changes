@@ -398,6 +398,18 @@ MonoBehaviour:
         overriddenProperties:
         - appearance
         - visible
+      - name: SurprisedA
+        actorState:
+          appearance: SurprisedA
+          visible: 0
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0, w: 0}
+          scale: {x: 0, y: 0, z: 0}
+          tintColor: {r: 0, g: 0, b: 0, a: 0}
+          lookDirection: 0
+        overriddenProperties:
+        - appearance
+        - visible
       - name: Depressed
         actorState:
           appearance: Depressed
@@ -454,7 +466,7 @@ MonoBehaviour:
       Poses:
       - name: Default
         actorState:
-          appearance: 
+          appearance: Default
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -466,7 +478,7 @@ MonoBehaviour:
         - visible
       - name: Angry
         actorState:
-          appearance: 
+          appearance: Angry
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -478,7 +490,7 @@ MonoBehaviour:
         - visible
       - name: Conflicted
         actorState:
-          appearance: 
+          appearance: Conflicted
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -490,7 +502,7 @@ MonoBehaviour:
         - visible
       - name: Depressed
         actorState:
-          appearance: 
+          appearance: Depressed
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -502,7 +514,7 @@ MonoBehaviour:
         - visible
       - name: Exhausted
         actorState:
-          appearance: 
+          appearance: Exhausted
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -514,7 +526,7 @@ MonoBehaviour:
         - visible
       - name: Surprised
         actorState:
-          appearance: 
+          appearance: Surprised
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}
@@ -526,7 +538,7 @@ MonoBehaviour:
         - visible
       - name: Happy
         actorState:
-          appearance: 
+          appearance: Happy
           visible: 0
           position: {x: 0, y: 0, z: 0}
           rotation: {x: 0, y: 0, z: 0, w: 0}

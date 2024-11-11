@@ -295,6 +295,9 @@ MonoBehaviour:
     - name: SubwayTunnel
       pathPrefix: Backgrounds/MainBackground
       guid: 81d570e403841d942b0f11d909bbcf63
+    - name: BadEnd
+      pathPrefix: Backgrounds/MainBackground
+      guid: 1b9f60356cb785547acc4ac5bc6b67bd
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24
@@ -346,6 +349,9 @@ MonoBehaviour:
     - name: PensiveA
       pathPrefix: Characters/Ardan
       guid: ac6cafda6592fcd49a83a9c0ea3909d8
+    - name: SurprisedA
+      pathPrefix: Characters/Ardan
+      guid: f0b3cae9b3e9741429674fa1eb37655f
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
     - name: Default
