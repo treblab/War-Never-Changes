@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ARDAN_AFTERMATH_PENSIVE_0: 9062193779631117270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

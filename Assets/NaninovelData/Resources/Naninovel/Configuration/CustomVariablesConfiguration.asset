@@ -27,3 +27,9 @@ MonoBehaviour:
     value: false
   - name: G_HasAntibiotics
     value: false
+  - name: WalkAwayPharmacy
+    value: false
+  - name: FoughtAtPharmacy
+    value: false
+  - name: NegotiatedPharmacy
+    value: false
