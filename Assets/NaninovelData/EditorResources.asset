@@ -274,6 +274,21 @@ MonoBehaviour:
     - name: PharmacyBackRoom
       pathPrefix: Backgrounds/MainBackground
       guid: c3921d1db27cbaf46b1cc0337a59927c
+    - name: CityRuins
+      pathPrefix: Backgrounds/MainBackground
+      guid: 4bc1b0320f03c70499e0b4898ccf887c
+    - name: Sanctuary
+      pathPrefix: Backgrounds/MainBackground
+      guid: e756d7c62c587244ca147d840a3cb6c7
+    - name: SubwayEntrance
+      pathPrefix: Backgrounds/MainBackground
+      guid: de21935436e74cb47bf9608676900add
+    - name: SubwayOutskirts
+      pathPrefix: Backgrounds/MainBackground
+      guid: b355e34ea6eb7d04d85f61185739f6e1
+    - name: SubwayTunnel
+      pathPrefix: Backgrounds/MainBackground
+      guid: 81d570e403841d942b0f11d909bbcf63
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24

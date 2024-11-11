@@ -133,4 +133,11 @@ Dorin and Ardan journey back to the apartment.
 @set G_HasCutters=false
 @set G_HasMedkit=false
 
+@hide Dorin
+@hide Ardan
+@hide Mira
+@hide Naya
+
+@goto SanctuaryScene
+
 @stop

@@ -2,6 +2,8 @@
 
 ; Introduction
 
+@back CityRuins
+
 The city lies in ruins under the cover of night, broken buildings casting long shadows over streets littered with rubble and echoes of distant gunfire. 
 
 Ardan pushes forward, his face drawn with exhaustion, leading his mother Mira and young sister Naya. 
@@ -10,7 +12,9 @@ Mira walks slowly, her illness visible in each strained breath, while Naya clutc
 
 Every step reminds Ardan of the heavy responsibility left to him since his father, Dorin, died—his promise to protect them growing heavier with each passing day.
 
-Rumors of a hidden sanctuary within the city’s sewers have kept them moving, a faint hope they cling to in the face of dwindling supplies and Mira’s worsening health. 
+Rumors of a hidden sanctuary within the city’s subways have kept them moving, a faint hope they cling to in the face of dwindling supplies and Mira’s worsening health. 
+
+@back SubwayOutskirts
 
 As they approach the edge of the city, Ardan spots a narrow gap behind a pile of rubble, barely visible in the shadows. His heart skips; faint murmurs and the flicker of light spill from within, hinting that the sanctuary may indeed be real.
 
@@ -18,11 +22,15 @@ Ardan: This could be it. Stay close and keep quiet.
 
 Mira nods, and Naya’s grip tightens around her mother’s hand. Ardan steps forward cautiously, tension building in his chest as he leads them through the gap, hoping that this sanctuary will offer the refuge they so desperately need. 
 
-Inside, a narrow tunnel stretches deeper into the sewers, the light and voices growing closer with each step. The damp air is thick, carrying the faint scent of decay.
+@back SubwayTunnel
+
+Inside, a narrow tunnel stretches deeper into the subway, the light and voices growing closer with each step. The damp air is thick, carrying the faint scent of decay.
 
 Ardan grips Naya’s shoulder gently, feeling her small hand slip into his, and glances back at Mira, giving her a reassuring nod. 
 
-With each cautious step toward the light, Ardan wonders if they’ll be accepted—or if they’re walking into yet another test of survival.
+With each cautious step toward the light, Ardan wonders if they’ll be accepted — or if they’re walking into yet another test of survival.
+
+@back SubwayEntrance
 
 Two guards stand at the entrance, their expressions wary and their makeshift weapons held tightly. Ardan raises his hands in a gesture of peace.
 
@@ -37,6 +45,8 @@ Guard: They’ve got a child and a sick woman. We should let them in, at least t
 The other guard nods, and the first steps aside, gesturing for Ardan to enter. Ardan casts a glance at Mira, catching the faintest glimmer of hope in her tired eyes.
 
 ; Common Area
+
+@back Sanctuary
 
 The sanctuary is a stark contrast to the city above, the walls lined with makeshift beds and shelves of supplies. People of all ages huddle together, their faces drawn with exhaustion and fear, but a sense of community lingers in the air.
 
@@ -59,6 +69,8 @@ Ardan: “For now, Naya. Try to rest. I’ll take care of everything.”
     Man: Wait… I know you.
 
     Ardan’s heart sinks. Standing across the room is the other father from the pharmacy. This is the person who had the antibiotics that could have saved Mira. The same man his Father decided to walk away from. His young son stands beside him, his eyes wide with fear and confusion.
+
+    @goto SancWalkedAway
 @endIf
 
 ; 2 - if you fought them
