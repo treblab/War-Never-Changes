@@ -1,0 +1,58 @@
+@back Sanctuary
+
+As they navigate the crowded room, Ardan’s eyes fall on a familiar face — the father from the pharmacy, standing nearby with his young son. Their eyes meet, and a flicker of recognition passes between them, followed by a brief, guarded silence.
+
+Ardan hesitates, glancing at Mira and Naya, who both look at him with quiet curiosity. Gathering his resolve, Ardan steps forward, giving the man a tentative nod.
+
+Ardan: Good to see a familiar face. Last time we met, it was over… tougher circumstances.
+
+The other father nods, a hint of a smile tugging at the corner of his mouth.
+
+Man:"Yeah, I remember. We managed to work things out in the end. Surviving’s a little easier when we’ve got each other’s backs.
+
+They stand in silence for a moment, the memory of their tense negotiation still hanging in the air. Ardan clears his throat, then gestures around them.
+
+Man: And your father? He’s not with you?
+
+Ardan: My father… he’s gone. It’s just us now.
+
+Man: I'm very sorry to hear that... I get it. Lost my wife early on. It’s just me and him now.
+
+An awkward silence falls between them, the weight of shared loss hanging in the air. The community leader clears her throat, breaking the moment.
+
+She gestures for them to follow her to the main storage area, where she explains that a supply run is scheduled for the following morning. Resources are running low, and able-bodied residents are required to participate to keep the sanctuary stocked.
+
+After the leader walks away, the other father turns to Ardan.
+
+Man: I’ll be out there tomorrow. They say it’s rough — enemy patrols and... worse. Can’t afford to have anyone watching their back alone. Guess we could both use a partner. 
+
+Ardan studies him, understanding the implication. The other father’s offer is practical; neither fully trusts the other, but both recognize the benefit of cooperation, especially in such dangerous times.
+
+; Choices
+
+@choice "Accept the Offer, with Mutual Caution" goto:.AcceptOffer
+@choice "Refuse the Offer, Preferring Independence" goto:.RefuseOffer
+
+# AcceptOffer
+
+    Ardan: Alright, I’ll watch your back if you watch mine. It’s better than facing it alone, right?
+
+    Man: Couldn’t agree more. Who knows, maybe we’ll make a decent team.
+
+    The two continue walking together, exchanging friendly conversation along the way. Ardan feels the beginnings of real trust. Though they part ways with a simple nod, he knows he’s gained a reliable ally.
+
+    @goto GoodEnding
+
+; Refuse the Offer, Preferring Independence
+
+# RefuseOffer
+
+    Ardan: Thanks for the offer, but I’ve been on my own for so long, I’m just more used to it. Nothing personal.
+
+    Man: I get it. Sometimes going solo is the best way to stay sharp. Just know, if you ever need an extra hand, you can count on me.
+
+    Ardan sets off alone but feels a sense of goodwill from the interaction. While he may face challenges on his own, he knows he has a potential ally in the other father. The friendly parting leaves the door open for future collaboration.
+
+    @goto GoodEnding
+
+@stop

@@ -127,5 +127,17 @@ Dorin and Ardan journey back to the apartment.
     Night falls, and with it, the last flickers of hope. Dorin and Ardan sit in silence, knowing they can do nothing but wait. The world outside feels distant, irrelevant. Inside, they are alone with the grim reality of what they might lose.
 
 @endIf
-@goto DeathScenario
+
+;--- Hard code reset of flags -- remove later
+@set G_HasAntibiotics=false
+@set G_HasCutters=false
+@set G_HasMedkit=false
+
+@hide Dorin
+@hide Ardan
+@hide Mira
+@hide Naya
+
+@goto SanctuaryScene
+
 @stop

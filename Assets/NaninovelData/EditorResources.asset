@@ -201,6 +201,24 @@ MonoBehaviour:
     - name: DeathSceanrio 1
       pathPrefix: Scripts
       guid: d279e1e394f10d242ad2f33d13c49abf
+    - name: SanctuaryScene
+      pathPrefix: Scripts
+      guid: d964f312584fbc2489adb176c5b091c6
+    - name: SancWalkedAway
+      pathPrefix: Scripts
+      guid: d8d479e522881564b9fdaa3dc3004546
+    - name: SancFought
+      pathPrefix: Scripts
+      guid: 74d53ebdea82ec246a55d6531ce4aac5
+    - name: SancNegotiated
+      pathPrefix: Scripts
+      guid: 170e2f8844e1a7742a75350f22f52bb3
+    - name: GoodEnding
+      pathPrefix: Scripts
+      guid: 1e6f24bc79add0d4faf39613f87c43c2
+    - name: BadEnding
+      pathPrefix: Scripts
+      guid: cfde9c9105e6b764fa7fab6d263c837b
   - Id: Audio
     Resources:
     - name: MainMenu
@@ -262,6 +280,21 @@ MonoBehaviour:
     - name: PharmacyBackRoom
       pathPrefix: Backgrounds/MainBackground
       guid: c3921d1db27cbaf46b1cc0337a59927c
+    - name: CityRuins
+      pathPrefix: Backgrounds/MainBackground
+      guid: 4bc1b0320f03c70499e0b4898ccf887c
+    - name: Sanctuary
+      pathPrefix: Backgrounds/MainBackground
+      guid: e756d7c62c587244ca147d840a3cb6c7
+    - name: SubwayEntrance
+      pathPrefix: Backgrounds/MainBackground
+      guid: de21935436e74cb47bf9608676900add
+    - name: SubwayOutskirts
+      pathPrefix: Backgrounds/MainBackground
+      guid: b355e34ea6eb7d04d85f61185739f6e1
+    - name: SubwayTunnel
+      pathPrefix: Backgrounds/MainBackground
+      guid: 81d570e403841d942b0f11d909bbcf63
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24
@@ -295,6 +328,24 @@ MonoBehaviour:
     - name: Depressed
       pathPrefix: Characters/Ardan
       guid: bb24b49d124b3a44aae3946dc9b18385
+    - name: AngryA
+      pathPrefix: Characters/Ardan
+      guid: 503f7e74899ec2a4baab14b9a6f78416
+    - name: ConflictedA
+      pathPrefix: Characters/Ardan
+      guid: 4130d1e4517af2f4facf05c490c69ffd
+    - name: DefaultA
+      pathPrefix: Characters/Ardan
+      guid: aa1f7551b148c9545a6db214dcc99697
+    - name: ExhaustedA
+      pathPrefix: Characters/Ardan
+      guid: f1b71e8b905d1c7479b0678d56911218
+    - name: HappyA
+      pathPrefix: Characters/Ardan
+      guid: f8d38a8d6d715994db782abe0b5a181b
+    - name: PensiveA
+      pathPrefix: Characters/Ardan
+      guid: ac6cafda6592fcd49a83a9c0ea3909d8
   - Id: Characters/77a289c4-b5aa-4f2f-9b21-92cd95d3b59f
     Resources:
     - name: Default

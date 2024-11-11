@@ -107,6 +107,8 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 
 # FightCheck
 
+@set FoughtAtPharmacy=true
+
 @spawn CoinFlip pos:50,90
 @wait 2
 @despawn CoinFlip
@@ -126,6 +128,8 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 
 ; ----------- CHECK CONDITIONS FOR NEGOTIATE -----------
 # NegotiateCheck
+
+@set NegotiatedPharmacy=true
 
 @spawn CoinFlip pos:50,90
 @wait 2
@@ -409,7 +413,6 @@ Man: You think I can just hand over what little we have left and walk out of her
 
 @char Dorin.Surprised
 
-Dorin: I don’t have much... but I swear, if I find more supplies, I’ll come back. I’ll help you. This doesn’t have to end with us tearing each other apart.
 @goto .ChoiceTwo
 
 ; ----------- NO MEDKIT - SUCCESS -----------
@@ -577,6 +580,8 @@ Dorin’s heart sinks. He lowers the medkit, glancing at Ardan, whose face is pa
 @stop
 ; ----------- CHOICE 3 - WALK AWAY -----------
 # WalkAwayEnd
+
+@set WalkAwayPharmacy=true
 
 @char Dorin.Exhausted
 
