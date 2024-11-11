@@ -72,5 +72,7 @@ Arden nods, a glimmer of hope in his eyes.
 @print "As they leave the church with bags filled with essentials, a child outside kicks a football across the street, laughter ringing out into the morning. For a moment, it feels like life is returning to normal."
 
 @print "They retrace their steps back home, the tense air almost gone. Hours later, they finally arrive, feeling a rare sense of accomplishment and relief."
+@goto DeathScenarioPt3
 
+@stop
 ; End Scene

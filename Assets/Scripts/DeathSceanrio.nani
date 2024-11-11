@@ -47,3 +47,5 @@ Dorin: "We leave at dawn. Better to not go through the night."
 
 @print "Time passes as they rest, gathering their energy for the journey. At dawn, they are ready to face whatever awaits, hoping this journey yields supplies they desperately need."
 
+@goto DeathScenarioPt2
+@stop
