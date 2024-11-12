@@ -23,84 +23,105 @@ MonoBehaviour:
   - scriptName: IntroScene
     position:
       serializedVersion: 2
-      x: 1598
+      x: 2012
       y: 0
       width: 162
       height: 149
   - scriptName: PharmacyPtOne
     position:
       serializedVersion: 2
-      x: 1415
+      x: 1830
       y: 0
-      width: 163
+      width: 162
       height: 125
   - scriptName: PharmacyPtTwo
     position:
       serializedVersion: 2
-      x: 1206
+      x: 1621
       y: 0
       width: 189
-      height: 461
+      height: 437
   - scriptName: PharmacyPtThree
     position:
       serializedVersion: 2
-      x: 979
+      x: 1395
       y: 0
-      width: 207
+      width: 206
       height: 917
   - scriptName: PharmacyEnd
     position:
       serializedVersion: 2
-      x: 796
+      x: 1242
       y: 0
-      width: 163
+      width: 133
       height: 101
   - scriptName: TimerTest
     position:
       serializedVersion: 2
       x: 0
       y: 77
-      width: 104
+      width: 103
       height: 77
+  - scriptName: DeathSceanrio
+    position:
+      serializedVersion: 2
+      x: 2682
+      y: 0
+      width: 172
+      height: 128
+  - scriptName: DeathScenarioPt2
+    position:
+      serializedVersion: 2
+      x: 2425
+      y: 0
+      width: 237
+      height: 464
+  - scriptName: DeathSceanrioPt3
+    position:
+      serializedVersion: 2
+      x: 2194
+      y: 0
+      width: 211
+      height: 896
   - scriptName: SanctuaryScene
     position:
       serializedVersion: 2
-      x: 606
+      x: 725
       y: 0
-      width: 170
+      width: 169
       height: 176
   - scriptName: SancWalkedAway
     position:
       serializedVersion: 2
-      x: 146
+      x: 472
       y: 0
-      width: 147
-      height: 77
+      width: 233
+      height: 221
   - scriptName: SancFought
     position:
       serializedVersion: 2
-      x: 313
+      x: 914
       y: 0
-      width: 115
-      height: 77
+      width: 181
+      height: 221
   - scriptName: SancNegotiated
     position:
       serializedVersion: 2
-      x: 448
+      x: 135
       y: 0
-      width: 138
-      height: 77
+      width: 181
+      height: 221
   - scriptName: GoodEnding
     position:
       serializedVersion: 2
-      x: 0
-      y: 154
+      x: 336
+      y: 0
       width: 116
       height: 77
   - scriptName: BadEnding
     position:
       serializedVersion: 2
-      x: 0
-      y: 231
+      x: 1115
+      y: 0
       width: 107
       height: 77

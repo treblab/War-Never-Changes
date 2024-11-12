@@ -1,16 +1,22 @@
-# Pharmacy
 @back Pharmacy
+@bgm Scavenging loop:True 
+
+@bgm volume:0.5
+
 The pharmacy is deathly quiet, with only the sound of broken glass crunching underfoot. Long shadows stretch across the room from the pale moonlight streaming in through a broken window. Dorin and Ardan move cautiously, their footsteps deliberate as they scan the rows of empty shelves.
 
 @char Dorin pos:33
 @char Ardan pos:66
+
 Dorin picks up an empty pill bottle and turns it over in his hands, the weight of desperation sinking deeper into his chest. Ardan pushes aside discarded packaging and debris as they search for any remaining medical supplies.
+
+Anything here is empty, broken, or long past its expiration date. The pharmacy is a graveyard of hope, a stark reminder of the world they now inhabit.
 
 @char Ardan.Angry
 
 Ardan is frustrated, kicking a box aside.
 
-Ardan: There's nothing here. Someone must’ve cleared this place out weeks ago.
+Ardan: There's nothing we can use here. Someone must’ve cleared this place out weeks ago.
 
 @char Dorin.Sad
 
@@ -18,7 +24,7 @@ Dorin checks the label on a half-crushed box of bandages, his brow furrowed in d
 
 @char Dorin.Conflicted
 
-Dorin: We should’ve expected this. Every place like this was picked clean in the first days.
+Dorin: We should’ve expected this. Anything useful in a place like this was picked clean in the first days.
 
 @char Dorin.Sad
 
@@ -29,7 +35,7 @@ Ardan shakes his head.
 @char Dorin.Default
 @char Ardan.Default
 
-Ardan: "Not even scraps. What now?"
+Ardan: Not even scraps. What now?
 
 ; ----------- SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
 
@@ -133,7 +139,7 @@ Ardan wearily looks to his father, his voice low.
 
 @char Ardan.Conflicted
 
-Ardan: "Do you think we’ll need to use it?"
+Ardan: Do you think we’ll need to use it?
 
 @char Dorin.Conflicted
 
@@ -168,7 +174,7 @@ Dorin pauses, noticing a glimpse of red beneath a pile of broken packaging.
 
 @char Dorin.Conflicted
 
-Dorin: "Give me a hand."
+Dorin: Give me a hand.
 
 @char Dorin.Angry
 @char Ardan.Angry
@@ -186,19 +192,19 @@ A mix of frustration and relief brims in Dorin's voice as he inspects the conten
 
 @char Dorin.Sad
 
-Dorin: "It’s not what we came for, but we can use this."
+Dorin: It’s not what we came for, but we can use this.
 
 @char Ardan.Exhausted
 
 Ardan leans in to look at the contents of the medkit, his expression thoughtful.
 
-Ardan: "Maybe we can trade it. Someone else might need it as badly as we need antibiotics."
+Ardan: Maybe we can trade it. Someone else might need it as badly as we need antibiotics.
 
 @char Dorin.Default
 
 Dorin nods, weighing the possibility. It’s not much, but in a world this broken, even bandages could be worth something.
 
-Dorin: "Yeah. It could be our bargaining chip."
+Dorin: Yeah. It could be a bargaining chip.
 
 @hide Medkit
 
@@ -223,7 +229,7 @@ Dorin and Ardan move cautiously toward the noise they just heard.
 @hide Dorin
 @hide Ardan
 
-@stopBgm PharmacyBGM fade:3
+@stopBgm Scavenging fade:3
 
 @goto PharmacyPtThree
 
