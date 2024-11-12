@@ -251,6 +251,12 @@ MonoBehaviour:
     - name: Explosion
       pathPrefix: Audio
       guid: b4ae7bd6935aeb4438417a90f2cd1a6c
+    - name: Scavenging
+      pathPrefix: Audio
+      guid: 7e911ea6163313141be008802413f43c
+    - name: Hopeful
+      pathPrefix: Audio
+      guid: 209605c2a5c0c4b4bb75f1d334509b2c
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab

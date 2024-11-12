@@ -1,4 +1,4 @@
-@playBgm PharmacyBGM loop:true
+@bgm PharmacyBGM loop:true
 # Introduction to Story
 @back FarWarCityShot
 Vostoria, once a thriving nation, now lies in ruin under the grip of a relentless blockade by its neighbor, Drakovia.

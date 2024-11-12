@@ -1,6 +1,5 @@
 # Introduction - At Apartment
 
-@bgm PharmacyBGM loop:true
 @back Apartment
 
 The room is dim, lit only by the faint glow of a cracked window. Mira lies on a makeshift bed, her skin pale and covered in a sheen of sweat. 
@@ -132,6 +131,9 @@ Dorin: We will.
 @hide Dorin
 @hide Ardan
 @back RouteToPharmacy
+
+@stopBgm PharmacyBGM fade:5
+
 The door creaks as it shuts behind them, leaving behind the family, the uncertainty, and the suffocating weight of what they’re fighting to hold onto. They step out into the night, the city’s shadows swallowing them whole.
 
 @goto PharmacyPtTwo
