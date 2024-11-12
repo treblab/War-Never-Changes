@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bcdcf24dc065a1e40af540ac3d10887a
+guid: 2016351bf917dba4b96230ff0b0c9e51
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4601179683897484209
-    second: SanctuaryRoom_0
+      213: -6506036955920984320
+    second: Church_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SanctuaryRoom_0
+      name: Church_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 5000
-        height: 2802
+        width: 1792
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4cdb81a4735520c0800000000000000
-      internalID: -4601179683897484209
+      spriteID: 00714caebd9e5b5a0800000000000000
+      internalID: -6506036955920984320
       vertices: []
       indices: 
       edges: []
@@ -143,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      SanctuaryRoom_0: -4601179683897484209
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

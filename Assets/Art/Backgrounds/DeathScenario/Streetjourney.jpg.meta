@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Streetjourney_0: -2078428246894199607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

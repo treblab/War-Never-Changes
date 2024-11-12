@@ -1,18 +1,17 @@
 ; Scene Setup
-@set scene 
-@set background 
+@set Apartment
 @print "Dorin and Arden were extremely elated with the excursion being so successful. It was a win they desperately needed in the grim, bleak environment. Back at the apartment, they organized their new supplies, feeling a rare sense of relief."
 
-@char Dorin 
+@char Dorin
 Dorin: "We should go again, get a little more. Not too much, but maybe some medical supplies, more food... I did forget a few essentials."
 
-@char Arden 
+@char Arden
 @print "Arden nods, feeling the optimism. He starts preparing for another trip with his father."
 
 ; Scene Transition to Streets at Night
-@set scene 
-@set background 
-@set music 
+@set scene
+@set background
+@set music
 
 @print "They step into the streets once more, shrouded in darkness, echoes of past dangers filling the air. As they near the exclusion zone."
 
@@ -22,7 +21,7 @@ Dorin: "We should go again, get a little more. Not too much, but maybe some medi
 
 @print "The sanctuary of the exclusion zone has been destroyed. Dorin, dazed, instinctively clutches Arden and pulls him to cover. Soldiers rush past them, engaged in a brutal firefight with a sniper taking shots from above."
 
-@char Dorin 
+@char Dorin
 Dorin: "We need to keep moving. It’s too dangerous here."
 
 @print "The buildings ahead flash with gunfire, people scream in panic. You need to find cover and make it through."
@@ -38,46 +37,46 @@ Dorin: "We need to keep moving. It’s too dangerous here."
 
 @goto .row2_choices
 
-#choice_trash_bin
+# choice_trash_bin
 @print "They crouch behind a metal trash bin, which provides limited cover but might hold up under the gunfire."
 
 @goto .row2_choices
 
-#death_crate
+# death_crate
 @print "Dorin takes cover behind an old crate, but it shatters under gunfire. A loud shot rings out, and he’s hit mid-sprint. Arden rushes to his side, but there’s no safe place to hide. Both are tragically caught in the crossfire."
 @badEnd "Bad End 1"
 
 # use_mirror_1
 @print "Using the hand mirror, Dorin checks the street for dangers before advancing. He sees a nearby sniper sightline and avoids it, saving a crucial moment."
 
-;- "hasHandMirror" by 1
+; - "hasHandMirror" by 1
 @goto: .row2_choices
 
 ; Row 2 - Moving Across an Alley
-#row2_choices
+# row2_choices
 @choice "Use hand mirror to check for sniper sightlines" goto:.use_mirror_2
 
 @choice "Sprint across the alley" goto:.death_alley
 @choice "Wait for gunfire to die down" goto:.choice_wait
 
-#use_mirror_2
+# use_mirror_2
 @print "Dorin uses the hand mirror to check for sniper sightlines before moving. He confirms the area is clear and quickly crosses the alley."
 
-;-"hasHandMirror" by 1
+; -"hasHandMirror" by 1
 @goto .row3_choices
 
-#death_alley
+# death_alley
 @print "Dorin sprints into the alley without checking for the sniper. A shot echoes, and he collapses mid-sprint, leading to a tragic end."
 @badEnd "Bad End 2"
 
-#choice_wait
+# choice_wait
 @print "They wait for a break in the gunfire before carefully moving across the alley."
 
 @goto .row3_choices
 
 ; Row 3 - Moving Between Vehicles
-#row3_choices
-@choice "Move from car to car, keeping low" goto:.choice_car_to_car 
+# row3_choices
+@choice "Move from car to car, keeping low" goto:.choice_car_to_car
 @choice "Take straight path through" goto:.death_open_road
 @choice "Crouch and crawl between parked cars" goto:.choice_crawl
 
@@ -96,12 +95,12 @@ Dorin: "We need to keep moving. It’s too dangerous here."
 @goto .row4_choices
 
 ; Row 4 - Final Dash to the Exit
-#row4_choices
-@choice "Use cover and time movements with explosions" 
+# row4_choices
+@choice "Use cover and time movements with explosions"
 @choice "Make a break for it"
 @choice "Coordinate with soliders"
 
-#choice_timed_cover
+# choice_timed_cover
 @print "They use nearby cover, timing their movements with the sounds of explosions to mask their footsteps and slip past unnoticed."
 
 @print "Dorin and Arden finally make it to safety, away from the firefight."
@@ -117,7 +116,7 @@ Dorin: "We need to keep moving. It’s too dangerous here."
 
 
 ; Scene End
-#endScene
+# endScene
 @print "They arrive back at their apartment, shaken but alive, grateful for the items they managed to bring back and the chance to survive another day."
 
 @stop

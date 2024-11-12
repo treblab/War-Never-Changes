@@ -1,24 +1,31 @@
 ; Scene Transition to Street in the Morning
-@set scene
-@set background
-@set music
-
+@bgm Journey2TheZone loop:true
+@back Journey2Church
 ; Narration
-@print "Dorin and Arden step out, gunfire and explosions fading into the background as they navigate the ruined streets of their beloved city. They move carefully, keeping low and staying close to the walls of the buildings. The journey feels almost surreal—hope mingling with the fear that lingers in the air."
+@print "Dorin and Ardan step out, gunfire and explosions fading into the background as they navigate the ruined streets of their beloved city. They move carefully, keeping low and staying close to the walls of the buildings. The journey feels almost surreal—hope mingling with the fear that lingers in the air."
+
+@back Directions
 
 @print "After a tense but smooth trek, they find a nearby zone, noticing graffiti that signals the church’s location—a good sign. After a cautious walk, they both release their tension as they finally spot the church. They see people exchanging goods and stories, the atmosphere buzzing with a sense of community amidst the chaos."
 
 ; Church Encounter - Set Image here
-@set background
+@back ChurchFound
+@char Dorin
+@char Dorin.Surprised
 @print "Dorin approaches a volunteer, who greets them with a warm smile."
+@print "Ardan lags behind"
+@char Ardan
+@char Ardan.Surprised
 
 Volunteer: "You okay? Looks like you're worse for wear. Don’t worry, we’re here to help. What can I do for you today?"
-
+@char Ardan.Default
+@char Dorin.Default
 ; Choice: What to Take Back
-@choice "Large Medkit" goto:.choice_medkit
-@choice "Swiss Army Knife" goto:.choice_medkit
-@choice "Hand Mirror" goto:.choice_mirror
 
+@choice "Large Medkit" goto:.choice_medkit
+@choice "Swiss Army Knife" goto:.choice_knife
+@choice "Hand Mirror" goto:.choice_mirror
+@stop
 # choice_medkit
 @print "Dorin chooses the large medkit, knowing it could make a huge difference in an emergency."
 
@@ -36,14 +43,14 @@ Volunteer: "An interesting choice-sometimes, the smallest items can be the most 
 
 @choice "Swiss Army Knife" goto:.choice_knife_second
 
-# choice_knife_second
+# choice_knife
 @print "Dorin adds a Swiss Army Knife, knowing its versatility might come in handy."
 
 Volunteer: "You’re packing smart. Stay safe out there."
 
 @print "They gather what they can—canned goods, new blankets, the hand mirror, and the Swiss Army Knife. Dorin feels a sense of resourcefulness, even if they couldn't take the medkit."
 
-@goto end_supplies
+@goto .end_supplies
 
 # choice_knife
 @print "Dorin picks up the Swiss Army Knife, knowing it could be a valuable tool for many situations."
@@ -53,7 +60,7 @@ Volunteer: "That's a solid choice; it's got plenty of uses."
 @choice "Hand Mirror" goto:.choice_mirror_second
 
 # choice_mirror_second
-@print "Dorin adds a hand mirror, even though it means they’ll have to pass up the medkit."
+@print "Dorin adds a hand mirror, even though it means they’ll have to pass up the medkit. Feels like I'm taking too much"
 
 Volunteer: "Interesting choices. You two take care."
 
@@ -62,17 +69,20 @@ Volunteer: "Interesting choices. You two take care."
 @goto end_supplies
 
 # end_supplies
-@print "After a short talk about what they need, Dorin and Arden gather what supplies they can. The atmosphere of kindness and community feels like a breath of fresh air to Dorin, contrasting with the chaos outside."
+@print "After a short talk about what they need, Dorin and Ardan gather what supplies they can. The atmosphere of kindness and community feels like a breath of fresh air to Dorin, contrasting with the chaos outside."
 
-@print "Dorin glances at Arden and smiles. 
+@print "\"Dorin glances at Ardan and smiles."
+@char Dorin.Happy
 Dorin: 'See?' 
 Dorin: 'We did it.' 
-Arden nods, a glimmer of hope in his eyes.
+Ardan nods, a glimmer of hope in his eyes.
+@char Ardan.Happy
 
 @print "As they leave the church with bags filled with essentials, a child outside kicks a football across the street, laughter ringing out into the morning. For a moment, it feels like life is returning to normal."
 
+@hide Dorin,Ardan
+
 @print "They retrace their steps back home, the tense air almost gone. Hours later, they finally arrive, feeling a rare sense of accomplishment and relief."
-@goto DeathScenarioPt3
+@goto DeathSceanrioPt3
 
 @stop
-; End Scene

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SanctuaryCourtyard_0: 7861643401552069537
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

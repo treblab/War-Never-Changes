@@ -1,11 +1,12 @@
 ; Scene Setup
 @back Apartment
-@bgm Journey2TheZone
+@bgm Journey2TheZone loop:true
 @sfx DistantGunfire volume:0.10 loop:true
 ; Start Narration
 @print "The sound of gunfire and distant explosions fills the air, an unending reminder of the chaos outside. Dorin stands by the window, his brow furrowed in concentration as he scans the street below, searching for any signs of life or hope. The atmosphere is thick with tension, and he knows that supplies are dwindling. He can’t let his family suffer any longer."
 
-@char Dorin.Conflicted
+@char Dorin
+@char Dorin.Exhausted
 @print "He glances over at Ardan, who is asleep on the couch, clutching a tattered blanket. Dorin’s heart aches at the sight of his son, peaceful yet vulnerable. He doesn’t dare wake him, not wanting to add to the weight of worry that has become their new normal."
 
 ; Dorin Pacing
@@ -16,30 +17,31 @@
 @print "After a moment of contemplation, Dorin decides. He walks over to Ardan and gently shakes his shoulder."
 
 ; Dialogue
-@char Dorin.Happy 
+@char Dorin.Happy
 Dorin: "Ardan, wake up, buddy."
  
 @print "Ardan stirs, blinking in a trance, barely able to open his eyes."
 
+@char Ardan
 @char Ardan.Exhausted
 Ardan: "Dad? What’s wrong?"
 
-@char Dorin.Happy 
+@char Dorin.Happy
 Dorin: "Nothing’s wrong."
  
 Dorin: "I need your help. We’re going to find some supplies. There are these exclusion zones; it's risky, but they tend to have something."
 
-@char Ardan.Surprised 
+@char Ardan.Surprised
 Ardan: "Do we have to? What if it’s dangerous?"
 
-@char Dorin
+@char Dorin.Default
 @print "Dorin kneels beside him, meeting his gaze with determination."
 
 Dorin: "I know it’s risky, but we can’t stay here with nothing to eat. We’ll stick together, and I promise I’ll keep you safe."
 
 @print "After a moment, Ardan nods, his resolve strengthening."
 
-@char Ardan.Happy 
+@char Ardan.Happy
 Ardan: "Alright. Let’s do it."
 
 @print "With the support of his son again, Dorin feels a renewed sense of purpose. This time, it has to go smoothly—not like last time."
@@ -47,6 +49,7 @@ Ardan: "Alright. Let’s do it."
 @char Dorin.Happy
 Dorin: "We leave at dawn. Better to not go through the night."
 
+@hide Dorin,Ardan
 @print "Time passes as they rest, gathering their energy for the journey. At dawn, they are ready to face whatever awaits, hoping this journey yields supplies they desperately need."
 
 @goto DeathScenarioPt2
