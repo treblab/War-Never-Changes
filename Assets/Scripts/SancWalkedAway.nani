@@ -100,6 +100,9 @@ Ardan studies him, weighing the offer, his mind racing with conflicting emotions
 
     The other father nods stiffly, understanding the warning in Ardan’s tone. The bitterness remains, though both families sense the benefit of occasional cooperation.
 
+    @hide Ardan
+    @hide Man
+
     @goto GoodEnding
 
 # Refuse
@@ -111,6 +114,9 @@ Ardan studies him, weighing the offer, his mind racing with conflicting emotions
     @char Man.Conflicted
 
     The other father shrugs, respecting Ardan’s decision but remaining wary. Ardan’s family maintains their independence, but the tension between them and the other father’s family remains.
+
+    @hide Ardan
+    @hide Man
 
     @goto GoodEnding
 

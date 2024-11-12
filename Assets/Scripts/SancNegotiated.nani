@@ -12,7 +12,6 @@ Ardan hesitates, glancing at Mira and Naya, who both look at him with quiet curi
 Ardan: Good to see a familiar face. Last time we met, it was over... tougher circumstances.
 
 @char Ardan pos:30
-
 @char Man pos:66
 @char Boy pos:80
 @char Boy.Default
@@ -45,7 +44,7 @@ An awkward silence falls between them, the weight of shared loss hanging in the 
 
 @char Ardan.PensiveA
 
-She gestures for the two men to follow her to the courtyard, where she explains that a supply run is scheduled for the following morning. Resources are running low, and able-bodied residents are required to participate to keep the sanctuary stocked.
+The sanctuary's leader explains that a supply run is scheduled for the following morning. Resources are running low, and able-bodied residents are required to participate to keep the sanctuary stocked.
 
 After the leader walks away, the other father turns to Ardan.
 
@@ -76,6 +75,9 @@ Ardan studies him, understanding the implication. The other father’s offer is 
 
     The two continue walking together, exchanging friendly conversation along the way. Ardan feels the beginnings of real trust. Though they part ways with a simple nod, he knows he’s gained a reliable ally.
 
+    @hide Ardan
+    @hide Man
+
     @goto GoodEnding
 
 ; Refuse the Offer, Preferring Independence
@@ -91,6 +93,9 @@ Ardan studies him, understanding the implication. The other father’s offer is 
     Man: I get it. Sometimes going solo is the best way to stay sharp. Just know, if you ever need an extra hand, you can count on me.
 
     Ardan sets off alone but feels a sense of goodwill from the interaction. While he may face challenges on his own, he knows he has a potential ally in the other father. The friendly parting leaves the door open for future collaboration.
+
+    @hide Ardan
+    @hide Man
 
     @goto GoodEnding
 

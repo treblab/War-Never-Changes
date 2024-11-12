@@ -1,20 +1,51 @@
-@back Sanctuary
+@back SanctuaryCourtyard
 
-As Ardan settles in with Mira and Naya, he replays the encounter with the other father, feeling the weight of his choices. Dorin’s voice echoes in his mind, reminding him of the values he was raised with—empathy, resilience, and a commitment to protect without sacrificing others. Ardan glances at his family and the other survivors, questioning the person he has become through the trials of war.
+As Ardan settles into the courtyard with Mira and Naya, he replays the encounter with the other father, feeling the weight of his choices. Dorin’s voice echoes in his mind, reminding him of the values he was raised with — empathy, resilience, and a commitment to protect without sacrificing others. Ardan glances at his family and the other survivors, questioning the person he has become through the trials of war.
+
+@char Ardan 
+@char Naya 
+@char Mira
+
+@char Ardan.DefaultA
+
+@char Naya.Default
+
+@char Mira.Depressed
 
 Mira: You did what you thought was right, Ardan. We’re here now… let’s make it count.
 
-Ardan nods, though the doubt in his chest lingers. He catches Naya watching him, her young eyes filled with both pride and fear, and he realizes that his actions shape her understanding of the world. 
+@char Naya.Conflicted
+
+Ardan nods, though the doubt in his chest lingers. He catches Naya watching him, her young eyes filled conflict, and he realizes that his actions shape her understanding of the world. 
+
+@char Ardan.ExhaustedA
 
 Looking around the sanctuary, he sees small cues that hint at deeper tensions — skeptical glances, a few murmurs, and the wary watch of a younger survivor. He knows that trust is fragile here.
 
 As he continues to look around, the other father catches his gaze. For a moment, they share a silent, tense look. Then, with a reluctant nod, the other father turns away, subtly acknowledging the shared struggle they face.
 
-Ardan looks down, his mind turning to his late father’s ideals. He realizes that to honor Dorin’s memory, he must rebuild trust from the ground up. He glances at Mira and Naya, a quiet determination filling him. Survival isn’t enough; he must find a way to earn their place here honorably.
+@char Ardan.PensiveA
+
+Ardan looks down, his mind turning to his late father’s ideals. He realizes that to honor Dorin’s memory, he must rebuild trust from the ground up. 
+
+@char Ardan.ConflictedA
+
+He glances at Mira and Naya, a quiet determination filling him. Survival isn’t enough; he must find a way to earn their place here honorably.
+
+@char Ardan.PensiveA
 
 He notices the inscription on the wall - “Trust is earned, not given” - and the words settle heavily in his mind. He reaches into his pocket, pulling out Dorin’s old compass, the one reminder he’s carried with him through every hardship. 
 
+@char Ardan.DefaultA
+
 He sets it gently beside Naya as she sleeps, a silent vow to guide them forward with the values his father taught him.
+
+@char Mira.Happy
+@char Naya.Happy
+
+@char Ardan pos:33
+@char Mira pos:66
+@char Naya pos:50
 
 As the family huddles together, a faint light from a nearby candle bathes their faces, casting shadows in the quiet. Ardan closes his eyes, resolved to face whatever lies ahead, knowing that his journey is far from over.
 

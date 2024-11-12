@@ -81,6 +81,12 @@ Ardan watches the man, a knot forming in his stomach. He thinks of his own fathe
 
     Man: I can’t forgive you for what you did. But I understand why you did it. Just... don’t expect me to forget.
 
+    @hide Ardan
+    @hide Mira
+    @hide Naya
+    @hide Man
+    @hide Boy
+
     @goto GoodEnding
 
 # Ignorance
@@ -130,8 +136,14 @@ Ardan watches the man, a knot forming in his stomach. He thinks of his own fathe
     Man: Go. Take your lies and excuses somewhere else. We don’t need people like you here.
 
     @char Ardan.Exhausted
-    
+
     Ardan: Come on, Mom. Naya. Let’s go.
+
+    @hide Ardan
+    @hide Mira
+    @hide Naya
+    @hide Man
+    @hide Boy
 
     @goto BadEnding
 
