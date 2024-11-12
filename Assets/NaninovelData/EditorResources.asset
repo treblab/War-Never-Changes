@@ -255,7 +255,7 @@ MonoBehaviour:
     Resources:
     - name: MainMenuTitle
       pathPrefix: Backgrounds/MainBackground
-      guid: 06417d2b05c750e4c96855e436d3d3ac
+      guid: 0ca8951de95b2744d954b5ad061c0523
     - name: FarWarCityShot
       pathPrefix: Backgrounds/MainBackground
       guid: 8cffc1e9fedc4374f9e210ef54365e40
@@ -298,6 +298,18 @@ MonoBehaviour:
     - name: BadEnd
       pathPrefix: Backgrounds/MainBackground
       guid: 1b9f60356cb785547acc4ac5bc6b67bd
+    - name: SanctuaryCorner
+      pathPrefix: Backgrounds/MainBackground
+      guid: 694459e6df0b87e448b7528d877d8039
+    - name: SanctuaryCourtyard
+      pathPrefix: Backgrounds/MainBackground
+      guid: d4d853b9e967c104c86f0a32d1fbea61
+    - name: SanctuaryRoom
+      pathPrefix: Backgrounds/MainBackground
+      guid: bcdcf24dc065a1e40af540ac3d10887a
+    - name: BuildingRuin
+      pathPrefix: Backgrounds/MainBackground
+      guid: 2196c9a2bd275804e97b2456dfcee336
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24

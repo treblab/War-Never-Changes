@@ -1,30 +1,58 @@
-@back Sanctuary
+@back SanctuaryCorner
 
-As they navigate the crowded room, Ardan’s eyes fall on a familiar face — the father from the pharmacy, standing nearby with his young son. Their eyes meet, and a flicker of recognition passes between them, followed by a brief, guarded silence.
+As they navigate to an empty corner, Ardan’s eyes fall on a familiar face — the father from the pharmacy, standing nearby with his young son. Their eyes meet, and a flicker of recognition passes between them, followed by a brief, guarded silence.
 
-Ardan hesitates, glancing at Mira and Naya, who both look at him with quiet curiosity. Gathering his resolve, Ardan steps forward, giving the man a tentative nod.
+Ardan hesitates, glancing at Mira and Naya, who both look at him with quiet curiosity. Gathering his resolve, Ardan steps forward, forcing a smile and giving the man a tentative nod.
 
-Ardan: Good to see a familiar face. Last time we met, it was over… tougher circumstances.
+@hide Mira
+@hide Naya
 
-The other father nods, a hint of a smile tugging at the corner of his mouth.
+@char Ardan.HappyA
 
-Man:"Yeah, I remember. We managed to work things out in the end. Surviving’s a little easier when we’ve got each other’s backs.
+Ardan: Good to see a familiar face. Last time we met, it was over... tougher circumstances.
 
-They stand in silence for a moment, the memory of their tense negotiation still hanging in the air. Ardan clears his throat, then gestures around them.
+@char Ardan pos:30
+@char Man pos:66
+@char Boy pos:80
+@char Boy.Default
+
+The other father nods, a  hint of a smile tugging at the corner of his mouth.
+
+Man: Yeah, I remember. We managed to work things out in the end. Looks like your mother is doing alright.
+
+@char Man.Conflicted
+
+They stand in silence for a moment, the memory of their tense negotiation still hanging in the air. The man clears his throat, then gestures around them.
+
+@char Man.Surprised
 
 Man: And your father? He’s not with you?
 
-Ardan: My father… he’s gone. It’s just us now.
+@char Ardan.DefaultA
+
+Ardan: My father... he’s gone. It’s just us now.
+
+@char Man.Default
 
 Man: I'm very sorry to hear that... I get it. Lost my wife early on. It’s just me and him now.
 
-An awkward silence falls between them, the weight of shared loss hanging in the air. The community leader clears her throat, breaking the moment.
+An awkward silence falls between them, the weight of shared loss hanging in the air. Breaking through the tension, an announcement echoes through the sanctuary, calling for residents to gather in the courtyard.
 
-She gestures for them to follow her to the main storage area, where she explains that a supply run is scheduled for the following morning. Resources are running low, and able-bodied residents are required to participate to keep the sanctuary stocked.
+@back SanctuaryCourtyard
+
+@hide Boy
+
+@char Ardan.PensiveA
+
+The sanctuary's leader explains that a supply run is scheduled for the following morning. Resources are running low, and able-bodied residents are required to participate to keep the sanctuary stocked.
 
 After the leader walks away, the other father turns to Ardan.
 
-Man: I’ll be out there tomorrow. They say it’s rough — enemy patrols and... worse. Can’t afford to have anyone watching their back alone. Guess we could both use a partner. 
+@char Man.Surprised
+
+Man: I’ll be out there tomorrow. They say it’s rough — enemy patrols and... worse. Can’t afford to have anyone watching their back alone. Guess we could both use a partner.
+
+@char Ardan.DefaultA
 
 Ardan studies him, understanding the implication. The other father’s offer is practical; neither fully trusts the other, but both recognize the benefit of cooperation, especially in such dangerous times.
 
@@ -33,13 +61,22 @@ Ardan studies him, understanding the implication. The other father’s offer is 
 @choice "Accept the Offer, with Mutual Caution" goto:.AcceptOffer
 @choice "Refuse the Offer, Preferring Independence" goto:.RefuseOffer
 
+@stop
+
 # AcceptOffer
+
+    @char Ardan.HappyA
 
     Ardan: Alright, I’ll watch your back if you watch mine. It’s better than facing it alone, right?
 
-    Man: Couldn’t agree more. Who knows, maybe we’ll make a decent team.
+    @char Man.Default
+
+    Man: Couldn’t agree more. Who knows, maybe we’ll make a decent team. Name's Marko, by the way.
 
     The two continue walking together, exchanging friendly conversation along the way. Ardan feels the beginnings of real trust. Though they part ways with a simple nod, he knows he’s gained a reliable ally.
+
+    @hide Ardan
+    @hide Man
 
     @goto GoodEnding
 
@@ -47,11 +84,18 @@ Ardan studies him, understanding the implication. The other father’s offer is 
 
 # RefuseOffer
 
+    @char Ardan.PensiveA
+
     Ardan: Thanks for the offer, but I’ve been on my own for so long, I’m just more used to it. Nothing personal.
+
+    @char Man.Conflicted
 
     Man: I get it. Sometimes going solo is the best way to stay sharp. Just know, if you ever need an extra hand, you can count on me.
 
     Ardan sets off alone but feels a sense of goodwill from the interaction. While he may face challenges on his own, he knows he has a potential ally in the other father. The friendly parting leaves the door open for future collaboration.
+
+    @hide Ardan
+    @hide Man
 
     @goto GoodEnding
 
