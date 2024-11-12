@@ -1,29 +1,35 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Windows.Input;
-using UnityEngine;
-using UnityEngine.UI;
 using Naninovel;
+using UnityEngine;
 
 public class TimerController : MonoBehaviour
 {
-    [SerializeField] private Image timerBar;
+    [SerializeField] private SpriteRenderer timerBar;
+    public float maxTime = 10f;
     private float timeRemaining; 
-    public float maxTime = 30f;
     private bool timerActive = true;
-    // Start is called before the first frame update
+    private Vector3 initialScale;
+
     void Start()
     {
-        timeRemaining = maxTime; 
+        timeRemaining = maxTime;
+        initialScale = timerBar.transform.localScale; // Store the initial scale of the timer bar
     }
 
-    private void Update()
+    void Update()
     {
-        if(timeRemaining > 0 && timerActive)
+        if (timerActive && timeRemaining > 0)
         {
+            // Update the remaining time
             timeRemaining -= Time.deltaTime;
-            timerBar.fillAmount = timeRemaining / maxTime;
+
+            // Calculate the new scale for the timer bar
+            float scaleRatio = timeRemaining / maxTime;
+            timerBar.transform.localScale = new Vector3(initialScale.x * scaleRatio, initialScale.y, initialScale.z);
+
+            // Check if the time has run out
             if (timeRemaining <= 0)
             {
                 timeRemaining = 0;
@@ -36,30 +42,31 @@ public class TimerController : MonoBehaviour
     public void StartTimer()
     {
         timerActive = true;
+        timeRemaining = maxTime;
+        timerBar.transform.localScale = initialScale; // Reset to initial scale
     }
-    
+
     public void StopTimer()
     {
         timerActive = false;
     }
-    
-    
+
     private void OnTimerEnd()
     {
-        // Perform actions when the timer ends, such as selecting a default choice
         Debug.Log("Timer has ended!");
     }
 
-    [CommandAlias("startTimer")]    
+    // Naninovel Commands
+    [CommandAlias("startTimer")]
     public class StartTimerCommand : Command
     {
-        public override UniTask ExecuteAsync(AsyncToken aToken = default)
+        public override UniTask ExecuteAsync(AsyncToken asyncToken = default)
         {
             GameObject.FindObjectOfType<TimerController>()?.StartTimer();
             return UniTask.CompletedTask;
         }
     }
-    
+
     [CommandAlias("stopTimer")]
     public class StopTimerCommand : Command
     {

@@ -116,6 +116,9 @@ MonoBehaviour:
     - name: CoinFlip
       pathPrefix: Spawn
       guid: 8038f29a40baa81428cd814afd4b8e43
+    - name: Timer
+      pathPrefix: Spawn
+      guid: 09bd66891e4ae434eba2c3c7ee97517c
   - Id: UI
     Resources:
     - name: ClickThroughPanel
