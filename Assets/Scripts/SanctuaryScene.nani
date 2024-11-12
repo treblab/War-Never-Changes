@@ -1,5 +1,8 @@
 ; Sanctuary Scene
 
+@bgm Hopeful loop:true
+@bgm volume:0.5
+
 ; Introduction
 
 @back CityRuins
@@ -100,6 +103,8 @@ Naya: Ardan… is this place safe?
 Ardan forces a small smile, though he can’t shake the feeling that this sanctuary might hold its own dangers.
 
 Ardan: For now, Naya. Try to rest. I’ll take care of everything.
+
+@stopBgm Hopeful fade:5
 
 ; Confrontation - choices deviate here
 

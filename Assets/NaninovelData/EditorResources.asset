@@ -266,6 +266,9 @@ MonoBehaviour:
     - name: punch3
       pathPrefix: Audio
       guid: 280761e618bcbe4429bef9a0898b6e37
+    - name: Confronted
+      pathPrefix: Audio
+      guid: 2b5c647e77758c94fb2b88d0e758949b
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab

@@ -1,5 +1,8 @@
 @back SanctuaryCourtyard
 
+@bgm Ending loop:true
+@bgm volume:0.5
+
 As Ardan settles into the courtyard with Mira and Naya, he replays the encounter with the other father, feeling the weight of his choices. Dorin’s voice echoes in his mind, reminding him of the values he was raised with — empathy, resilience, and a commitment to protect without sacrificing others. Ardan glances at his family and the other survivors, questioning the person he has become through the trials of war.
 
 @char Ardan 
