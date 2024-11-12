@@ -206,7 +206,8 @@ With the medkit in hand, they press on, their search taking on a new urgency. Th
 
 @set G_HasMedkit=choice3
 
-@goto .Confrontation if:"ScavengeChance = 0"
+@if "ScavengeChance = 0"
+@goto .Confrontation
 
 @else
 @goto .ScavengeChoices

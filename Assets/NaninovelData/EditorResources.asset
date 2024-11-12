@@ -307,6 +307,9 @@ MonoBehaviour:
     - name: SanctuaryRoom
       pathPrefix: Backgrounds/MainBackground
       guid: bcdcf24dc065a1e40af540ac3d10887a
+    - name: BuildingRuin
+      pathPrefix: Backgrounds/MainBackground
+      guid: 2196c9a2bd275804e97b2456dfcee336
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24
