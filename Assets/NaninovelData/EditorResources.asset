@@ -255,7 +255,7 @@ MonoBehaviour:
     Resources:
     - name: MainMenuTitle
       pathPrefix: Backgrounds/MainBackground
-      guid: 06417d2b05c750e4c96855e436d3d3ac
+      guid: 0ca8951de95b2744d954b5ad061c0523
     - name: FarWarCityShot
       pathPrefix: Backgrounds/MainBackground
       guid: 8cffc1e9fedc4374f9e210ef54365e40

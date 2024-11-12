@@ -3,7 +3,6 @@
 Ardan’s gaze lands on a familiar face—the father from the pharmacy, standing across the room with his young son. Recognition passes between them, and a tense silence settles as the man approaches, his expression unreadable.
 
 @char Ardan
-@char Mira
 @char Man
 @char Boy
 
@@ -65,7 +64,7 @@ Ardan studies him, weighing the offer, his mind racing with conflicting emotions
 
     Ardan: I’ll help, but don’t think I’ve forgotten what happened. My family comes first.
 
-    Outcome: The other father nods stiffly, understanding the warning in Ardan’s tone. The bitterness remains, though both families sense the benefit of occasional cooperation.
+    The other father nods stiffly, understanding the warning in Ardan’s tone. The bitterness remains, though both families sense the benefit of occasional cooperation.
 
     @goto GoodEnding
 
@@ -73,7 +72,7 @@ Ardan studies him, weighing the offer, his mind racing with conflicting emotions
 
     Ardan: I think we’ll handle things on our own. We’ve done fine so far.
 
-    Outcome: The other father shrugs, respecting Ardan’s decision but remaining wary. Ardan’s family maintains their independence, but the tension between them and the other father’s family remains.
+    The other father shrugs, respecting Ardan’s decision but remaining wary. Ardan’s family maintains their independence, but the tension between them and the other father’s family remains.
 
     @goto GoodEnding
 
