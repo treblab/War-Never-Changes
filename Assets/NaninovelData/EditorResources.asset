@@ -242,6 +242,15 @@ MonoBehaviour:
     - name: Journey2TheZone
       pathPrefix: Audio
       guid: facde5ecfa74dca458f3a74b525228c3
+    - name: Welcome to Hell
+      pathPrefix: Audio
+      guid: 0815471a345b301429e6ae5035b23b4a
+    - name: Incoming
+      pathPrefix: Audio
+      guid: b16532db6f396074e916b429681e028a
+    - name: Explosion
+      pathPrefix: Audio
+      guid: b4ae7bd6935aeb4438417a90f2cd1a6c
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab
@@ -321,7 +330,13 @@ MonoBehaviour:
       guid: af0fb37eed47bae40893868dc89a59d5
     - name: ChurchFound
       pathPrefix: Backgrounds/MainBackground
+      guid: 2016351bf917dba4b96230ff0b0c9e51
+    - name: Directions
+      pathPrefix: Backgrounds/MainBackground
       guid: 9a74b179335851240bb911b0c5868dd1
+    - name: StreetNight
+      pathPrefix: Backgrounds/MainBackground
+      guid: 6a3ecfc1fc735b04aba966e67ac2b69a
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/b4c7c218-d529-4d32-bca9-0e5270f93e24

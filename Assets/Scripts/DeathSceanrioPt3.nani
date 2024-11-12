@@ -1,73 +1,100 @@
 ; Scene Setup
-@set Apartment
-@print "Dorin and Arden were extremely elated with the excursion being so successful. It was a win they desperately needed in the grim, bleak environment. Back at the apartment, they organized their new supplies, feeling a rare sense of relief."
+@set hasMirror=2
+@back Apartment
+@print "Dorin and Ardan were extremely elated with the excursion being so successful. It was a win they desperately needed in the grim, bleak environment. Back at the apartment, they organized their new supplies, feeling a rare sense of relief."
 
 @char Dorin
+@char Dorin.Happy
 Dorin: "We should go again, get a little more. Not too much, but maybe some medical supplies, more food... I did forget a few essentials."
 
-@char Arden
-@print "Arden nods, feeling the optimism. He starts preparing for another trip with his father."
+@char Ardan
+@char Ardan.Happy
+@print "Ardan nods, feeling the optimism. He starts preparing for another trip with his father."
 
 ; Scene Transition to Streets at Night
-@set scene
-@set background
-@set music
+@back StreetNight
 
 @print "They step into the streets once more, shrouded in darkness, echoes of past dangers filling the air. As they near the exclusion zone."
 
 @print "It happens"
-
+@sfx Incoming
 @print "A loud explosion, the ground rumbles in the shockwave of it all, they fall as they lose footing"
+@sfx Explosion volume:0.25
+@stopBgm Journey2TheZone fade:2
+@bgm WelcomeToHell
+@print "The sanctuary of the exclusion zone has been destroyed. Dorin, dazed, instinctively clutches Ardan and pulls him to cover. Soldiers rush past them, engaged in a brutal firefight with a sniper taking shots from above."
 
-@print "The sanctuary of the exclusion zone has been destroyed. Dorin, dazed, instinctively clutches Arden and pulls him to cover. Soldiers rush past them, engaged in a brutal firefight with a sniper taking shots from above."
-
-@char Dorin
+@char Ardan.Surprised
+@char Dorin.Angry
 Dorin: "We need to keep moving. It’s too dangerous here."
 
 @print "The buildings ahead flash with gunfire, people scream in panic. You need to find cover and make it through."
 
 ; Choice System - Initial Cover
+# checkpoint1
+@char Ardan.Angry
+@char Dorin.Angry
 @choice "Hide Behind Brick Wall" goto:.choice_brick_wall
 @choice "Crouch behind metal bin" goto:.choice_trash_bin
 @choice "Take cover behind an old crate" goto:.death_crate
+
+@if haveMirror
 @choice "Use hand mirror to check street" goto:.use_mirror_1
+@endif
+@stop
 
 # choice_brick_wall
-@print "Dorin and Arden hide behind a sturdy brick wall, using it as solid cover from the gunfire."
+@char Ardan.Angry
+@char Dorin.Angry
+@print "Dorin and Ardan hide behind a sturdy brick wall, using it as solid cover from the gunfire."
 
 @goto .row2_choices
 
 # choice_trash_bin
+@char Ardan.Angry
+@char Dorin.Angry
 @print "They crouch behind a metal trash bin, which provides limited cover but might hold up under the gunfire."
 
 @goto .row2_choices
 
 # death_crate
-@print "Dorin takes cover behind an old crate, but it shatters under gunfire. A loud shot rings out, and he’s hit mid-sprint. Arden rushes to his side, but there’s no safe place to hide. Both are tragically caught in the crossfire."
-@badEnd "Bad End 1"
+@char Ardan.Angry
+@char Dorin.Angry
+
+@char Ardan.Surprised
+@char Dorin.Surprised
+@print "Dorin takes cover behind an old crate, but it shatters under gunfire. A loud shot rings out, and he’s hit mid-sprint. Ardan rushes to his side, but there’s no safe place to hide. Both are tragically caught in the crossfire."
+
+@choice "Try Again" goto:.checkpoint1
+@stop
 
 # use_mirror_1
 @print "Using the hand mirror, Dorin checks the street for dangers before advancing. He sees a nearby sniper sightline and avoids it, saving a crucial moment."
-
-; - "hasHandMirror" by 1
-@goto: .row2_choices
+@set hasMirror=1
+@goto .row2_choices
 
 ; Row 2 - Moving Across an Alley
 # row2_choices
+@stopBgm WelcomeToHell
+@bgm WelcomeToHellB
 @choice "Use hand mirror to check for sniper sightlines" goto:.use_mirror_2
-
 @choice "Sprint across the alley" goto:.death_alley
 @choice "Wait for gunfire to die down" goto:.choice_wait
+@stop
 
 # use_mirror_2
 @print "Dorin uses the hand mirror to check for sniper sightlines before moving. He confirms the area is clear and quickly crosses the alley."
-
-; -"hasHandMirror" by 1
+@print "Running Dorin trips and in the process breaks the mirror"
+@set hasMirror=0
 @goto .row3_choices
 
 # death_alley
-@print "Dorin sprints into the alley without checking for the sniper. A shot echoes, and he collapses mid-sprint, leading to a tragic end."
-@badEnd "Bad End 2"
+@char Ardan.Surprised
+@char Dorin.Surprised
+@print "Dorin & Ardan sprints into the alley without checking for the sniper. A shot echoes, and they both collapse mid-sprint, leading to their tragic end."
+
+@choice "Try Again" goto:.row2_choices
+@stop
 
 # choice_wait
 @print "They wait for a break in the gunfire before carefully moving across the alley."
@@ -81,13 +108,16 @@ Dorin: "We need to keep moving. It’s too dangerous here."
 @choice "Crouch and crawl between parked cars" goto:.choice_crawl
 
 # choice_car_to_car
-@print "Dorin and Arden move cautiously from car to car, staying low to avoid attracting attention."
+@print "Dorin and Ardan move cautiously from car to car, staying low to avoid attracting attention."
 
 @goto .row4_choices
 
 # death_open_road
-@print "Dorin chooses a direct route across the open road. Exposed, he and Arden are quickly caught in the crossfire, ending in tragedy."
-@badEnd "Bad End 3"
+@char Ardan.Surprised
+@char Dorin.Surprised
+@print "Dorin chooses a direct route across the open road. Exposed, both are quickly caught in the crossfire, ending in tragedy."
+@choice "Try Again" goto:.row3_choices
+@stop
 
 # choice_crawl
 @print "They decide to crawl between parked cars, minimizing their exposure as they move forward."
@@ -96,27 +126,47 @@ Dorin: "We need to keep moving. It’s too dangerous here."
 
 ; Row 4 - Final Dash to the Exit
 # row4_choices
-@choice "Use cover and time movements with explosions"
-@choice "Make a break for it"
-@choice "Coordinate with soliders"
+@choice "Use cover and time movements with explosions" goto:.choice_timed_cover
+@choice "Make a break for it" goto:.death_no_cover
+@choice "Coordinate with soliders" goto:.choice_coordinate
+@stop
 
 # choice_timed_cover
 @print "They use nearby cover, timing their movements with the sounds of explosions to mask their footsteps and slip past unnoticed."
-
-@print "Dorin and Arden finally make it to safety, away from the firefight."
+@print "After the explosion, another happens in succession which dazes the both of you, exposed Dorin pushes you away"
+@print "In that same moment a thwang and then he fell in the ground, shocked you run out of pure instinct"
+@goto .endScene
 
 # death_no_cover
 @print "Ignoring cover, Dorin makes a desperate dash across the open space. A sniper locks onto him, ending their journey in a flash of gunfire."
-@badEnd "Bad End 4"
+@choice "Try again" goto:.row4_choices
+@stop
 
 # choice_coordinate
-@print "They coordinate their movements with the soldiers’ gunfire, moving carefully and escaping as the soldiers draw enemy fire away from them."
-
-@print "Dorin and Arden finally reach safety, hearts pounding but relieved to have survived."
+@print "They coordinate their movements with the soldiers gunfire, moving carefully and escaping as the soldiers draw enemy fire away from them."
+@print "As they carefully see the soliders in their formation and moving up in enemy lines they make their grand escape nearing the end"
+@print "Silent exchange of acknowledgement of moving, then it happens..."
+@print "Your ears ring as your body realize that the shot didn't connect you, it connected to your father"
+@char Ardan.Surprised
+@hide Dorin
+@print "Your brain scrambles in shock, why him, I could've of done something"
+@print "Your body doesn't stop running... it's instincts"
+@hide Ardan
+@stopBgm WelcomeToHellB
+@goto .endScene
 
 
 ; Scene End
 # endScene
-@print "They arrive back at their apartment, shaken but alive, grateful for the items they managed to bring back and the chance to survive another day."
+@char Ardan
+@char Ardan.Depressed
+@print "You arrive home without thinking of the world around you, everything feels heavy"
+@char Mira
+@char Mira.Surprised
+@print "Your mother is asking why isn't he here"
+@print "It falls into deaf ears"
+@hide Mira
+@print "You head to bed to forget about everything"
+@hide Ardan
 
 @stop
