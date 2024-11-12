@@ -1,5 +1,6 @@
 @back PharmacyBackRoom
 @bgm ConfrontationBGM loop:True
+@bgm volume:0.5
 @char Dorin
 @char Ardan
 @char Dorin.Surprised pos:30
@@ -87,25 +88,29 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 ; ----------- CHOICE SECTION -----------
 
 
-@choice "Fight (Barehanded: 50%)" goto:.FightCheck
+@choice "Fight (Barehanded)" goto:.FightCheck
 
 @if G_HasCutters
-@choice "Fight (Box cutters: 70%)" goto:.FightCheck
+@choice "Fight (Box cutters)" goto:.FightCheck
 @endif
 
-@choice "Negotiate (Persuade: 30%)" goto:.NegotiateCheck
+@choice "Negotiate (Persuade)" goto:.NegotiateCheck
 
 @if G_HasMedkit
-@choice "Negotiate (Use medkit: 90%)" goto:.NegotiateCheck
+@choice "Negotiate (Use medkit)" goto:.NegotiateCheck
 @endif
 
-@choice "Walk Away (Leave: 100%)" goto:.WalkAwayEnd
+@choice "Walk Away (Leave)" goto:.WalkAwayEnd
 
 
 @stop
 ; ----------- CHECK CONDITIONS FOR FIGHT -----------
 
 # FightCheck
+
+@stopBgm ConfrontationBGM fade:3
+@bgm Fight! loop:True
+@bgm volume:0.25
 
 @set FoughtAtPharmacy=true
 
@@ -139,21 +144,18 @@ Your choices here will determine the outcome of the confrontation. Choose wisely
 @set negotiateCheck=3
 
 @if G_HasMedkit
-@set PlayerRoll2+=0.40
-@if PlayerRoll2>=negotiateCheck
-@goto .MedkitSuccess
-@else
-@goto .MedkitFailure
+    @set PlayerRoll2+=0.40
 @endIf
 
-@if !G_HasMedkit
-@goto .NegotiateNoMedkit
+; If successful, go to the appropriate success scene.
+@if PlayerRoll2>=negotiateCheck
+    @goto .NegotiateSuccess
+@else
+    @goto .NegotiateFailure
 @endif
 
 ; ----------- FIGHT SUCCESS -----------
 # FightSuccess
-@stopBgm ConfrontationBGM fade:3
-@bgm Fight! loop:True
 
 @char Dorin.Angry
 
@@ -178,10 +180,18 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
 
     Dorin steps forward first, striking out at the other father. 
 
+    @sfx punch1
+
     ; Shake the main Naninovel camera horizontally 5 times
     @spawn ShakeCamera params:,5,,,,,true,false
+
     The room erupts into chaos, the two families locked in a desperate struggle for survival.
+
+    @sfx punch2
+
     Ardan slashes at the other father using the box cutter, his movements fueled by fear and desperation.
+
+    @sfx punch3
 
     @char Boy.Scared
 
@@ -203,13 +213,17 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
     Dorin: I’m sorry... but we need this. My wife... she needs this.
 
     The other father’s eyes widen, his son’s grip on his arm tightening.
+
     ; Shake the main Naninovel camera horizontally 5 times
     @spawn ShakeCamera params:,5,,,,,true,false 
+
     The room erupts into chaos, the two families locked in a desperate struggle for survival.
 
     @char Dorin.Angry
 
     Dorin throws a punch, the sound of the impact echoing through the room. 
+
+    @sfx punch3
     
     @char Man.Angry
 
@@ -217,7 +231,11 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
 
     @char Man.Surprised
 
+    @sfx punch1
+
     @char Boy.Scared
+
+    @sfx punch2
 
     The other father fights back, his son trying to shield him from the blows.
 
@@ -225,7 +243,14 @@ He can’t let Mira die. He can’t let his family fall apart. He steps forward,
 
     @char Ardan.Angry
 
-    Ardan shoves the other father to the ground, his face twisted with desperation. Dorin follows up with a heavy kick to the man’s side, and begins to frantically pummel him.
+    Ardan shoves the other father to the ground, his face twisted with desperation.
+
+    @sfx punch3 
+    
+    Dorin follows up with a heavy kick to the man’s side, and begins to frantically pummel him.
+
+    @sfx punch2
+
 @endif
 
 @char Man.Angry
@@ -304,6 +329,8 @@ Dorin turns to leave, but the weight of the moment clings to him. As they walk a
 
 The fight spirals out of control. Dorin struggles to hold his ground, but the other father is stronger, more desperate than he anticipated. 
 
+@sfx punch3
+
 @spawn ShakeCamera params:,5,,,,,true,false
 
 @char Dorin.Surprised
@@ -314,11 +341,15 @@ A punch lands squarely in his ribs, sending him stumbling back.
 
 @char Boy.Scared
 
+@sfx punch2
+
 Ardan tries to intervene, but the other boy, despite his age, lunges forward to protect his father. 
 
 Boy: Stop! Please! Don't hurt him!
 
 @char Ardan.Surprised
+
+@sfx punch1
 
 @spawn ShakeCamera params:,5,,,,,true,false
 
@@ -330,12 +361,13 @@ The room is chaos — blows exchanged, pain and panic fueling the violence.
     @char BoxCutter pos:50,50, scale:0.2
     Ardan’s box cutter slashes at the other father, but the man’s reflexes are quick. 
     @char Man.Surprised
-    He dodges the blade, his own fists landing heavy blows on Ardan’s face. 
+    He dodges the blade, his own fists landing heavy blows on Ardan’s face.
+    @sfx punch3 
     @hide BoxCutter
     The room is a blur of motion, the sounds of struggle and pain echoing off the walls.
+    @sfx punch1
 @endif
 @stopBgm ConfrontationBGM fade:3
-@bgm Fight! loop:True
 
 @char Dorin.Exhausted
 
@@ -350,6 +382,8 @@ Ardan stumbles, blood dripping from a cut on his forehead. The other father stan
 The other man snarls, out of breath.
 
 @char Man.Angry
+
+@spawn ShakeCamera params:,3,,,,,true,false
 
 Man: Get out! Before I kill you both!
 
@@ -415,34 +449,102 @@ Man: You think I can just hand over what little we have left and walk out of her
 
 @goto .ChoiceTwo
 
+; ----------- NEGOTIATION -----------
+
+# NegotiateSuccess
+
+@stopBgm ConfrontationBGM fade:3
+@bgm Hopeful loop:True
+@bgm volume:0.5
+
+
+
+@if G_HasMedkit
+
+; ----------- IF MEDKIT -----------
+
+    @stopBgm ConfrontationBGM fade:3
+    @bgm Hopeful loop:True
+    @bgm volume:0.5
+
+    @char Dorin.Conflicted
+
+    Dorin: We’ll make a trade. It’s the only way this ends without blood. I’ve got a medkit. Bandages, gauze—something you can use for those wounds.
+
+    @char Medkit pos:50,50 scale:1.5
+
+    @char Man.Conflicted
+
+    @char Boy.Worried
+
+    The other father’s eyes flicker with hesitation as he considers the offer. The silence feels suffocating as he looks down at his son, whose terrified eyes are pleading with him. 
+
+    He knows they need the antibiotics, but he also knows they need to stay alive long enough to use them.
+
+    The silence is tense, both sides unwilling to break, but there’s something in the other man’s face — a flicker of understanding.
+
+    @char Man.Surprised
+
+    Man: A medkit? That’s not gonna heal this... but it’s better than nothing.
+
+    Dorin holds out the medkit, his eyes locked on the other father. 
+
+    Slowly, the man reaches out, taking the medkit from Dorin’s hands.
+
+    @hide Medkit
+
+    Man: This... this might help us. War’s already taken enough from us. No need to take more.
+
+    @char Man.Conflicted
+    He rummages through the bag, inspecting the supplies. After a long pause, he pulls out the antibiotics, handing them over. His eyes are hard, but there’s no malice in them, only exhaustion.
+
+    Man: Take it. We’ll survive without this... somehow.
+
+    @char Dorin.Happy
+    @char Ardan.Happy
+
+    Dorin takes the antibiotics, feeling an odd sense of relief wash over him. It wasn’t violence this time — it was humanity.
+
+    Dorin: Thank you... I won’t forget this.
+
+    The two fathers exchange a glance, one that speaks of shared suffering. Dorin and Ardan leave, the medicine in hand, knowing that for once, something good came from this broken world.
+
+    @hide Dorin
+    @hide Ardan
+    @hide Man
+    @hide Boy
+
+    @set G_HasAntibiotics=true
+    @goto PharmacyEnd
+
+@else
+
 ; ----------- NO MEDKIT - SUCCESS -----------
 
-# MedkitSuccess
+    @char Boy.Worried
+    The boy tugs on his Father's arm, looking up at him with wide, pleading eyes.
+    
+    Boy: Maybe... maybe we should... we should help them. They need it too.
 
-@char Boy.Worried
-The boy tugs on his Father's arm, looking up at him with wide, pleading eyes.
- 
-Boy: Maybe... maybe we should... we should help them. They need it too.
+    @char Man.Surprised
+    The man sighs heavily, the fight slowly draining from him. He knows what’s at stake, but the sight of his son weakens his resolve.
 
-@char Man.Surprised
-The man sighs heavily, the fight slowly draining from him. He knows what’s at stake, but the sight of his son weakens his resolve.
+    @char Man.Conflicted
+    Man: Take it. If we keep fighting each other, none of us will make it.
 
-@char Man.Conflicted
-Man: Take it. If we keep fighting each other, none of us will make it.
+    @char Dorin.Surprised
+    @char Ardan.Surprised
 
-@char Dorin.Surprised
-@char Ardan.Surprised
+    He hands the antibiotics over, his hand shaking slightly. Dorin takes them, his heart pounding with relief, though guilt lingers in his chest.
 
-He hands the antibiotics over, his hand shaking slightly. Dorin takes them, his heart pounding with relief, though guilt lingers in his chest.
+    @char Dorin.Happy
+    @char Ardan.Happy
 
-@char Dorin.Happy
-@char Ardan.Happy
+    Dorin: Thank you... we won’t forget this.
 
-Dorin: Thank you... we won’t forget this.
+    The two fathers exchange a weary glance, one filled with the mutual understanding of survivors on the brink. 
 
-The two fathers exchange a weary glance, one filled with the mutual understanding of survivors on the brink. 
-
-As Dorin and Ardan leave, the weight of the decision stays with them, but for now, they’ve secured what they came for without bloodshed.
+    As Dorin and Ardan leave, the weight of the decision stays with them, but for now, they’ve secured what they came for without bloodshed.
 
 @hide Dorin
 @hide Ardan
@@ -452,38 +554,72 @@ As Dorin and Ardan leave, the weight of the decision stays with them, but for no
 @set G_HasAntibiotics=true
 @goto PharmacyEnd
 
+
+# NegotiateFailure
+
+@if G_HasMedkit
+
+; ----------- IF MEDKIT - FAILURE -----------
+
+    @char Medkit pos:50,50 scale:1.5
+
+    @char Dorin.Happy
+
+    @char Man.Conflicted
+
+    Dorin pleads, holding out the medkit, but the other father isn’t moved. His face hardens, the lines of suffering etched deeply into his skin. 
+
+    He shakes his head slowly, backing away, keeping a protective arm around his son.
+
+    Man: No deal. We need it more than you do. I’m sorry, but my boy comes first.
+
+    @char Dorin.Surprised
+
+    Dorin’s heart sinks. He lowers the medkit, glancing at Ardan, whose face is pale with tension. They can see there’s no room for negotiation here.
+
+    @hide Medkit
+
+    @goto .ChoiceTwo
+
+    @stop
+
+@else
+
 ; ----------- NO MEDKIT - FAILURE -----------
 
-@char Dorin.Conflicted
+    @char Dorin.Conflicted
 
-Dorin: Please... we just need the antibiotics to save her. We won’t hurt you. We just need your help.
+    Dorin: Please... we just need the antibiotics to save her. We won’t hurt you. We just need your help.
 
-@char Man.Surprised
-The other father’s eyes harden, his grip on the bag tightening. He shakes his head, his voice firm.
+    @char Man.Surprised
+    The other father’s eyes harden, his grip on the bag tightening. He shakes his head, his voice firm.
 
-Tall and imposing despite his injuries, he shifts his stance, protective of his son and the precious supplies they’ve managed to scavenge. His face is hardened by days of suffering, and his eyes narrow at Dorin’s words.
+    Tall and imposing despite his injuries, he shifts his stance, protective of his son and the precious supplies they’ve managed to scavenge. His face is hardened by days of suffering, and his eyes narrow at Dorin’s words.
 
-@char Man.Conflicted
-Man: You think I can give you this and still walk out of here alive? My boy’s all I’ve got left. I can’t risk it. Not for you. Not for anyone.
+    @char Man.Conflicted
 
-Dorin glances at Ardan, who’s standing tense and silent behind him, then tries again, voice edged with pleading.
+    Man: You think I can give you this and still walk out of here alive? My boy’s all I’ve got left. I can’t risk it. Not for you. Not for anyone.
 
-Dorin: I’m not asking for much. Just enough to get her through. We’re all struggling here. I’m just trying to save my family.
+    Dorin glances at Ardan, who’s standing tense and silent behind him, then tries again, voice edged with pleading.
 
-The other father shakes his head slowly, his face unreadable, but the tension in his posture tells Dorin he won’t budge.
+    Dorin: I’m not asking for much. Just enough to get her through. We’re all struggling here. I’m just trying to save my family.
 
-Man: I have a family too. And if I give you this, it could be the end for us. I can’t do that.
+    The other father shakes his head slowly, his face unreadable, but the tension in his posture tells Dorin he won’t budge.
 
-Dorin feels his heart sink, the cold realization settling in. He’s not going to get the medicine. Not without taking it by force. 
+    Man: I have a family too. And if I give you this, it could be the end for us. I can’t do that.
 
-He takes a step back, fists clenched at his sides, his mind racing. Ardan shifts uncomfortably beside him, his voice barely above a whisper.
+    Dorin feels his heart sink, the cold realization settling in. He’s not going to get the medicine. Not without taking it by force. 
+
+    He takes a step back, fists clenched at his sides, his mind racing. Ardan shifts uncomfortably beside him, his voice barely above a whisper.
+
+    @goto .ChoiceTwo
 
 # ChoiceTwo
-@choice "Walk Away (100%)" goto:.WalkAwayMedkit
-@choice "Fight (Base chance: 50%)" goto:.FightCheck
+@choice "Walk Away" goto:.WalkAwayMedkit
+@choice "Fight" goto:.FightCheck
 
 @if G_HasCutters
-@choice "Fight (Use box cutter + 20% to base chance)" goto:.FightCheck
+@choice "Fight" goto:.FightCheck
 @endif
 
 @stop
@@ -499,85 +635,6 @@ He turns, shoulders heavy, the sting of failure biting deep. As they leave, Dori
 
 @goto PharmacyEnd
 
-; ----------- VARIATION 2 - IF PLAYERS DO HAVE A MEDKIT -----------
-
-; ----------- IF MEDKIT - SUCCESS -----------
-# MedkitSuccess
-
-@char Dorin.Conflicted
-
-Dorin: We’ll make a trade. It’s the only way this ends without blood. I’ve got a medkit. Bandages, gauze—something you can use for those wounds.
-
-@char Medkit pos:50,50 scale:1.5
-
-@char Man.Conflicted
-
-@char Boy.Worried
-
-The other father’s eyes flicker with hesitation as he considers the offer. The silence feels suffocating as he looks down at his son, whose terrified eyes are pleading with him. 
-
-He knows they need the antibiotics, but he also knows they need to stay alive long enough to use them.
-
-The silence is tense, both sides unwilling to break, but there’s something in the other man’s face — a flicker of understanding.
-
-@char Man.Surprised
-
-Man: A medkit? That’s not gonna heal this... but it’s better than nothing.
-
-Dorin holds out the medkit, his eyes locked on the other father. 
-
-Slowly, the man reaches out, taking the medkit from Dorin’s hands.
-
-@hide Medkit
-
-Man: This... this might help us. War’s already taken enough from us. No need to take more.
-
-@char Man.Conflicted
-He rummages through the bag, inspecting the supplies. After a long pause, he pulls out the antibiotics, handing them over. His eyes are hard, but there’s no malice in them, only exhaustion.
-
-Man: Take it. We’ll survive without this... somehow.
-
-@char Dorin.Happy
-@char Ardan.Happy
-
-Dorin takes the antibiotics, feeling an odd sense of relief wash over him. It wasn’t violence this time — it was humanity.
-
-Dorin: Thank you... I won’t forget this.
-
-The two fathers exchange a glance, one that speaks of shared suffering. Dorin and Ardan leave, the medicine in hand, knowing that for once, something good came from this broken world.
-
-@hide Dorin
-@hide Ardan
-@hide Man
-@hide Boy
-
-@set G_HasAntibiotics=true
-@goto PharmacyEnd
-
-; ----------- IF MEDKIT - FAILURE -----------
-# MedkitFailure
-
-@char Medkit pos:50,50 scale:1.5
-
-@char Dorin.Happy
-
-@char Man.Conflicted
-
-Dorin pleads, holding out the medkit, but the other father isn’t moved. His face hardens, the lines of suffering etched deeply into his skin. 
-
-He shakes his head slowly, backing away, keeping a protective arm around his son.
-
-Man: No deal. We need it more than you do. I’m sorry, but my boy comes first.
-
-@char Dorin.Surprised
-
-Dorin’s heart sinks. He lowers the medkit, glancing at Ardan, whose face is pale with tension. They can see there’s no room for negotiation here.
-
-@hide Medkit
-
-@goto .ChoiceTwo
-
-@stop
 ; ----------- CHOICE 3 - WALK AWAY -----------
 # WalkAwayEnd
 
