@@ -2,6 +2,9 @@
 @bgm PharmacyBGM loop:true
 @back RouteToPharmacy
 
+@hide Ardan
+@hide Dorin
+
 Dorin and Ardan journey back to the apartment.
 
 @char Ardan
@@ -12,11 +15,22 @@ Dorin and Ardan journey back to the apartment.
 
     @back Apartment
 
-    The weight of the stolen antibiotics hangs heavy between them, but they’ve made it back. 
-    
-    @char Mira
+    @if FoughtAtPharmacy
+        The weight of the stolen antibiotics hangs heavy between them, but they’ve made it back.
+    @endif
+
+    @if NegotiatedPharmacy
+        The two are happy to have obtained the antibiotics in a peaceful manner.
+    @endif
+
+
+    @char Ardan pos:15
+    @char Dorin pos:40
+
+    @char Mira pos:85
     @char Mira.Depressed
 
+    @char Naya pos:66
     @char Naya.Sad
 
     Mira lies on a makeshift bed, her breathing shallow, her skin pale. Naya sits beside her, her eyes red-rimmed with worry.
