@@ -23,6 +23,8 @@ Ardan watches the man, a knot forming in his stomach. He thinks of his own fathe
 @choice "Defend your decisions" goto:.Justification
 @choice "Cast doubt on his story" goto:.Ignorance
 
+@stop
+
 # Justification
 
     Mira’s face falls, her expression filled with remorse as she realizes the cost of her survival. She pushes herself to her feet, her movements slow and deliberate, and meets the other father’s gaze.
