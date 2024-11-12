@@ -24,6 +24,7 @@ MonoBehaviour:
   InitializationScript: 
   TitleScript: MainMenu
   StartGameScript: IntroScene
+  StartGameScript: DeathSceanrioPt3
   AutoAddScripts: 1
   HotReloadScripts: 1
   WatchScripts: 1

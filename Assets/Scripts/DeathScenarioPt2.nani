@@ -1,5 +1,6 @@
 ; Scene Transition to Street in the Morning
 @bgm Journey2TheZone loop:true
+@set haveMirror=false
 @back Journey2Church
 ; Narration
 @print "Dorin and Ardan step out, gunfire and explosions fading into the background as they navigate the ruined streets of their beloved city. They move carefully, keeping low and staying close to the walls of the buildings. The journey feels almost surreal—hope mingling with the fear that lingers in the air."
@@ -26,24 +27,27 @@ Volunteer: "You okay? Looks like you're worse for wear. Don’t worry, we’re h
 @choice "Swiss Army Knife" goto:.choice_knife
 @choice "Hand Mirror" goto:.choice_mirror
 @stop
+
 # choice_medkit
 @print "Dorin chooses the large medkit, knowing it could make a huge difference in an emergency."
 
 Volunteer: "That's a wise choice. Take care of yourselves out there."
 
-@print "They gather what they can—canned goods, new blankets, and a large medkit. The feeling of accomplishment washes over Dorin as he realizes they might finally be okay for a while."
+@print "They gather what they can—canned goods, new blankets, and a large medkit. The feeling of accomplishment washes over Dorin as he realizes they might finally be okay for a while." 
 
 ; End the choice sequence
 @goto .end_supplies
 
 # choice_mirror
 @print "Dorin decides on a small hand mirror, feeling it could be useful in unexpected ways, even though it means leaving the large medkit behind."
+@set haveMirror=true
 
 Volunteer: "An interesting choice-sometimes, the smallest items can be the most valuable."
 
 @choice "Swiss Army Knife" goto:.choice_knife_second
+@stop
 
-# choice_knife
+# choice_knife_second
 @print "Dorin adds a Swiss Army Knife, knowing its versatility might come in handy."
 
 Volunteer: "You’re packing smart. Stay safe out there."
@@ -58,10 +62,11 @@ Volunteer: "You’re packing smart. Stay safe out there."
 Volunteer: "That's a solid choice; it's got plenty of uses."
 
 @choice "Hand Mirror" goto:.choice_mirror_second
+@stop
 
 # choice_mirror_second
 @print "Dorin adds a hand mirror, even though it means they’ll have to pass up the medkit. Feels like I'm taking too much"
-
+@set haveMirror=true
 Volunteer: "Interesting choices. You two take care."
 
 @print "They gather what they can—canned goods, new blankets, the Swiss Army Knife, and the hand mirror. Dorin feels prepared, even if they couldn't take the medkit."
@@ -71,7 +76,7 @@ Volunteer: "Interesting choices. You two take care."
 # end_supplies
 @print "After a short talk about what they need, Dorin and Ardan gather what supplies they can. The atmosphere of kindness and community feels like a breath of fresh air to Dorin, contrasting with the chaos outside."
 
-@print "\"Dorin glances at Ardan and smiles."
+@print "Dorin glances at Ardan and smiles."
 @char Dorin.Happy
 Dorin: 'See?' 
 Dorin: 'We did it.' 
