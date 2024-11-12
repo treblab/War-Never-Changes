@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1b9f60356cb785547acc4ac5bc6b67bd
+guid: af0fb37eed47bae40893868dc89a59d5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5142857748390916790
-    second: BadEnd_0
+      213: -2078428246894199607
+    second: Streetjourney_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BadEnd_0
+      name: Streetjourney_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 6067
-        height: 3467
+        width: 1792
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4d4bc83026e0a8b0800000000000000
-      internalID: -5142857748390916790
+      spriteID: 9ccbbbc7580f723e0800000000000000
+      internalID: -2078428246894199607
       vertices: []
       indices: 
       edges: []
@@ -156,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      BadEnd_0: -5142857748390916790
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

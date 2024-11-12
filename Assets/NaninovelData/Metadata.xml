@@ -40,6 +40,7 @@
           &lt;string&gt;ExhaustedA&lt;/string&gt;
           &lt;string&gt;HappyA&lt;/string&gt;
           &lt;string&gt;PensiveA&lt;/string&gt;
+          &lt;string&gt;SurprisedA&lt;/string&gt;
         &lt;/Appearances&gt;
         &lt;Description /&gt;
       &lt;/Actor&gt;
@@ -127,6 +128,7 @@
           &lt;string&gt;SubwayEntrance&lt;/string&gt;
           &lt;string&gt;SubwayOutskirts&lt;/string&gt;
           &lt;string&gt;SubwayTunnel&lt;/string&gt;
+          &lt;string&gt;BadEnd&lt;/string&gt;
         &lt;/Appearances&gt;
       &lt;/Actor&gt;
       &lt;Actor&gt;
@@ -567,6 +569,10 @@
         &lt;Type&gt;Backgrounds/MainBackground&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
+        &lt;Path&gt;BadEnd&lt;/Path&gt;
+        &lt;Type&gt;Backgrounds/MainBackground&lt;/Type&gt;
+      &lt;/Resource&gt;
+      &lt;Resource&gt;
         &lt;Path&gt;Dorin-Placeholder&lt;/Path&gt;
         &lt;Type&gt;Characters/Dorin&lt;/Type&gt;
       &lt;/Resource&gt;
@@ -624,6 +630,10 @@
       &lt;/Resource&gt;
       &lt;Resource&gt;
         &lt;Path&gt;PensiveA&lt;/Path&gt;
+        &lt;Type&gt;Characters/Ardan&lt;/Type&gt;
+      &lt;/Resource&gt;
+      &lt;Resource&gt;
+        &lt;Path&gt;SurprisedA&lt;/Path&gt;
         &lt;Type&gt;Characters/Ardan&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
@@ -768,6 +778,9 @@
       &lt;string&gt;G_HasCutters&lt;/string&gt;
       &lt;string&gt;G_HasMedkit&lt;/string&gt;
       &lt;string&gt;G_HasAntibiotics&lt;/string&gt;
+      &lt;string&gt;WalkAwayPharmacy&lt;/string&gt;
+      &lt;string&gt;FoughtAtPharmacy&lt;/string&gt;
+      &lt;string&gt;NegotiatedPharmacy&lt;/string&gt;
     &lt;/Variables&gt;
     &lt;Functions /&gt;
   &lt;/Metadata&gt;
