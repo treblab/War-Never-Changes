@@ -1,20 +1,36 @@
-@back Sanctuary
+@back SanctuaryCorner
 
-As he finishes speaking, a familiar voice rings out from across the room, sharp and bitter.
+@hide Mira
+@hide Naya
 
-Man: Wait… I know you.
+As Ardan guides his mother and sister to an empty corner, a familiar voice rings out from across the room, sharp and bitter.
 
-Man: You stole the last of those antibiotics from us! My boy… he got worse after that. We nearly lost him!
+@char Man
+
+Man: Wait! You! I know you...
+
+@char Man.Angry
+@char Ardan.SurprisedA
+
+Man: You stole the last of those antibiotics from us! My boy... he got worse after that. We nearly lost him!
 
 Ardan’s heart sinks. Standing across the room is the other father from the pharmacy, his young son at his side. The man’s face is etched with lines of exhaustion, his eyes filled with a mix of resentment and pain.
 
+@char Mira
+@char Mira.Surprised
+
 Mira: Ardan… is this…?
 
-Ardan’s mind races with memories of the pharmacy—the desperation, the choice he made to take the antibiotics. Before he can respond, the other father steps forward, his voice tight with bitterness.
+Ardan’s mind races with memories of the pharmacy — the desperation, the choice he made to take the antibiotics. Before he can respond, the other father steps forward, his voice tight with bitterness.
+
+@char Man.Surprised
 
 Man: You and your father beat me badly, took what was ours. You think you can just walk in here and expect forgiveness?
 
 His accusations hang heavy in the air, and soon all eyes in the sanctuary are on Ardan and his family. Mira’s face pales, her eyes wide with fear and guilt. Naya clutches her mother’s hand, her gaze darting around the room.
+
+@char Ardan.ConflictedA
+@char Mira.Default
 
 Ardan watches the man, a knot forming in his stomach. He thinks of his own father, Dorin, and wonders if he’s truly honoring his memory with the choices he’s made. The weight of Dorin’s expectations and his own guilt press down on him, and for a moment, he’s unsure if he deserves to be here.
 
@@ -27,43 +43,71 @@ Ardan watches the man, a knot forming in his stomach. He thinks of his own fathe
 
 # Justification
 
+    @char Mira.Depressed
+
     Mira’s face falls, her expression filled with remorse as she realizes the cost of her survival. She pushes herself to her feet, her movements slow and deliberate, and meets the other father’s gaze.
+
+    @char Mira.Angry
 
     Mira: Wait! They were only trying to save me! We didn’t know… we didn’t mean to hurt anyone.
 
+    @char Man.Angry
+
     Man: Save you? At what cost? My son’s life? Your boy here beat me to the ground, in front of my son, and took what he wanted. You think that’s right?
+
+    @char Ardan.SurprisedA    
 
     Ardan: No… no, it’s not right. But we had no choice. We had to try… to save her. What would you have done if that was your wife!? Your mother!?
 
+    @char Ardan.ConflictedA
+
     Ardan: We did what we had to do to survive. If you were in my place, you’d do the same. You can’t blame me for wanting to protect my family.
+
+    @char Man.Conflicted
 
     The other father’s expression falters for a moment, his bitterness wavering as he tightens his grip on his son’s shoulder. He looks down at the boy, his face etched with the burden of responsibility.
 
     Man: I lost my wife early in this war. It’s just been me and him ever since. Every time he gets sick, I… I don’t know if he’ll make it. And then you took what he needed most.
 
+    @char Mira.Default
+
+    @char Ardan.Default
+
     A flash of guilt crosses his face, and he hesitates before continuing, his voice softer.
 
-    Man: I know what it’s like to make hard choices. I’ve done things I regret too… things I wish I could undo. But for him, I’d do it all over again.
+    @char Man.Default
 
-    Man: I can’t forgive you for what you did. But I understand why you did it. Just… don’t expect me to forget.
+    Man: I know what it’s like to make hard choices. I’ve done things I regret too... things I wish I could undo. But for him, I’d do it all over again.
+
+    Man: I can’t forgive you for what you did. But I understand why you did it. Just... don’t expect me to forget.
 
     @goto GoodEnding
 
 # Ignorance
 
+    @char Ardan.ExhaustedA
+
     Ardan looks away, his gaze fixed on the ground as he tries to distance himself from the accusations.
 
     Ardan: I... I don’t know. A lot of those days blur together now. So much time has passed since the war started... So many faces, so much desperation... I can’t remember everyone I ran into back then.
+
+    @char Man.Surprised
 
     Man: Don’t play games with me, Ardan. There were only four of us there — you, your father, me, and my son. You looked me in the eye as you took what we needed. Don’t pretend you’ve forgotten.
 
     Ardan can barely look the man in the eye, the weight of his guilt pressing down on him. He knows he can’t deny what happened, but he can’t bring himself to admit it either.
 
+    @char Ardan.DefaultA
+
     Ardan: I’m sorry you went through that… those days were so dark for all of us. I honestly don’t remember it happening that way, but maybe I missed something in the chaos. I wish things had been different.
 
     Mira looks dissappointed. She knows Ardan is lying, and she can see the pain in the other father’s eyes.
 
+    @char Mira.Exhausted
+
     Mira: Ardan, this isn’t going to work. You know exactly what he’s talking about.
+
+    @char Ardan.ConflictedA
 
     Ardan: Fine, you want me to admit I was desperate? That I made choices to keep my family alive? Maybe it wasn’t fair, but nothing about any of this is fair. If he can’t understand that, then maybe he doesn’t know what it’s like to make those choices.
 
@@ -73,12 +117,20 @@ Ardan watches the man, a knot forming in his stomach. He thinks of his own fathe
 
     Crowd: Desperation or not… he doesn’t even seem sorry. How can we trust someone who denies his own actions?
 
-    Man: Too much of a coward to admit what you did, Ardan? You don’t belong here with people who look out for each other — people willing to face their mistakes.
+    @char Man.Angry
+
+    Man: Too much of a coward to admit what you did, Ardan!? You don’t belong here with people who look out for each other — people willing to face their mistakes.
+
+    @char Man.Conflicted
 
     Ardan: Fine. If that’s what you all think of me, maybe I was wrong to hope for understanding. But don’t act like any of you wouldn’t have done the same in my position.
 
+    @char Man.Angry
+
     Man: Go. Take your lies and excuses somewhere else. We don’t need people like you here.
 
+    @char Ardan.Exhausted
+    
     Ardan: Come on, Mom. Naya. Let’s go.
 
     @goto BadEnding
