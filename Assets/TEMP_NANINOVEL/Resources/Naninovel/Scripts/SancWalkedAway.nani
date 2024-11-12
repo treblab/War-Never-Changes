@@ -1,0 +1,123 @@
+@back SanctuaryCorner
+
+As they move to an empty spot, Ardan’s gaze lands on a familiar face—the father from the pharmacy, standing across the room with his young son. Recognition passes between them, and a tense silence settles as the man approaches, his expression unreadable.
+
+@hide Mira
+@hide Naya
+
+@char Ardan pos:30
+@char Man pos:66
+@char Boy pos:80
+@char Boy.Default
+
+The man pauses, then gives Ardan a nod, his voice carrying a hint of forced politeness.
+
+Man: You’re the ones from the pharmacy... tried to bargain with me for the antibiotics.
+
+@char Ardan.ConflictedA
+
+Ardan tenses, as memories of that day surface — the plea he and Dorin had made, hoping for a compromise. But the man had refused, holding onto the medicine despite Ardan’s family’s need. A flicker of bitterness appears in Ardan’s eyes, though he keeps his tone steady.
+
+If they had gotten the antibiotics, maybe Mira’s illness wouldn’t have worsened. Maybe they wouldn’t have had to make the choices they did. Maybe they would have never had to make that supply run that killed Dorin.
+
+Ardan: Yes. We offered what we had, but you turned us down. So we walked away.
+
+@char Man.Surprised
+
+The man shifts uncomfortably, glancing at his son, who watches Ardan with wary curiosity. Clearing his throat, he softens his tone.
+
+Man: I did what I had to for my family. Just like you would.
+
+@char Ardan.AngryA
+
+Ardan’s jaw tightens, a trace of bitterness slipping into his voice despite his efforts to remain composed.
+
+Ardan: I did what I had to, too. I walked away. Not everyone would have.
+
+@char Ardan.ConflictedA
+
+@char Man.Conflicted
+
+A silence stretches between them, charged with unspoken frustration. The man’s expression hardens briefly before he masks it, as if reluctant to admit he might have misjudged Ardan’s family.
+
+@char Man.Surprised
+
+Man: Your dad… he’s not with you?
+
+@char Ardan.PensiveA
+
+Ardan pauses, choosing his words carefully.
+
+Ardan: My father’s dead. After what happened at the pharmacy, we got desperate and made a supply run at the wrong time. He didn’t make it.
+
+The man flinches slightly at the edge in Ardan’s tone, but he doesn’t press the matter. He shifts, wrestling with his own thoughts before speaking again, his tone more measured.
+
+@char Man.Default
+
+Man: Look... I know you’re bitter about what happened. But we’re all just trying to get by. Maybe it’s time we put that day behind us. That medicine saved my boy later on. I owe you that much.
+
+@char Ardan.ConflictedA
+
+Ardan meets his gaze, the bitterness simmering beneath the surface. He knows he needs to stay composed for Mira and Naya’s sake, but the frustration lingers, a reminder of how rare kindness has become.
+
+@char Ardan.PensiveA
+
+Ardan: We’re all trying to survive. Doesn’t mean we forget.
+
+@char Man.Conflicted
+
+An awkward silence falls between them, the weight of shared loss hanging in the air. Breaking through the tension, an announcement echoes through the sanctuary, calling for residents to gather in the courtyard.
+
+@back SanctuaryCourtyard
+
+@hide Boy
+
+The sanctuary's leader explains that a supply run is scheduled for the following morning. Resources are running low, and able-bodied residents are required to participate to keep the sanctuary stocked.
+
+After the leader walks away, the other father turns to Ardan.
+
+@char Man.Default
+
+Man: If we’re both here, maybe we can help each other this time. I’ll be out on the next supply run. We could cover more ground... work together.
+
+Ardan studies him, weighing the offer, his mind racing with conflicting emotions. The bitterness remains, but he knows he and his family can’t afford recklessness. The sanctuary is fragile, and pragmatism must outweigh resentment.
+
+; Choices here
+
+@choice "Agree to Work Together" goto:.AgreeToWorkTogether
+
+@choice "Refuse the Offer" goto:.Refuse
+
+@stop
+
+# AgreeToWorkTogether
+
+    @char Ardan.ConflictedA
+
+    Ardan: I’ll help, but don’t think I’ve forgotten what happened. My family comes first.
+
+    @char Man.Conflicted
+
+    The other father nods stiffly, understanding the warning in Ardan’s tone. The bitterness remains, though both families sense the benefit of occasional cooperation.
+
+    @hide Ardan
+    @hide Man
+
+    @goto GoodEnding
+
+# Refuse
+
+    @char Ardan.DefaultA
+
+    Ardan: I think we’ll handle things on our own. We’ve done fine so far.
+
+    @char Man.Conflicted
+
+    The other father shrugs, respecting Ardan’s decision but remaining wary. Ardan’s family maintains their independence, but the tension between them and the other father’s family remains.
+
+    @hide Ardan
+    @hide Man
+
+    @goto GoodEnding
+
+@stop

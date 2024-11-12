@@ -1,0 +1,236 @@
+@back Pharmacy
+@bgm Scavenging loop:True 
+
+@bgm volume:0.5
+
+The pharmacy is deathly quiet, with only the sound of broken glass crunching underfoot. Long shadows stretch across the room from the pale moonlight streaming in through a broken window. Dorin and Ardan move cautiously, their footsteps deliberate as they scan the rows of empty shelves.
+
+@char Dorin pos:33
+@char Ardan pos:66
+
+Dorin picks up an empty pill bottle and turns it over in his hands, the weight of desperation sinking deeper into his chest. Ardan pushes aside discarded packaging and debris as they search for any remaining medical supplies.
+
+Anything here is empty, broken, or long past its expiration date. The pharmacy is a graveyard of hope, a stark reminder of the world they now inhabit.
+
+@char Ardan.Angry
+
+Ardan is frustrated, kicking a box aside.
+
+Ardan: There's nothing we can use here. Someone must’ve cleared this place out weeks ago.
+
+@char Dorin.Sad
+
+Dorin checks the label on a half-crushed box of bandages, his brow furrowed in disappointment. He lets it fall to the floor.
+
+@char Dorin.Conflicted
+
+Dorin: We should’ve expected this. Anything useful in a place like this was picked clean in the first days.
+
+@char Dorin.Sad
+
+@char Ardan.Sad
+
+Ardan shakes his head.
+
+@char Dorin.Default
+@char Ardan.Default
+
+Ardan: Not even scraps. What now?
+
+; ----------- SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
+
+@showUI ScavUI
+@set scavCount=2
+
+# ScavengeChoices
+
+@char Dorin.Default
+@char Ardan.Default
+
+The amount of rooms you are able to search is shown in the top right corner.
+
+Choose wisely, as useful items may be found in each location.
+
+@choice "Search the Front Aisle" if:!choice1 set:choice1=true goto:.FrontAisle
+@choice "Search the Storage Room" if:!choice2 set:choice2=true goto:.StorageRoom
+@choice "Search the Back Aisle" if:!choice3 set:choice3=true goto:.BackAisle
+
+@stop
+
+; ---Option 1: Search Front Aisle ---
+# FrontAisle
+
+@set ScavengeChance--
+@set scavCount--
+
+The two decide to check the Front Aisles.
+
+@char Dorin.Conflicted
+
+Dorin: We'll check the front aisles some more. Maybe there's something we missed.
+
+They move through the front aisles, the shelves barren except for broken packaging and the remnants of what once filled the store.
+
+Ardan kneels to sift through a pile of debris, picking up an empty box of antiseptic wipes.
+
+@char Dorin.Sad
+
+@char Ardan.Sad
+
+Ardan: *He sighs, frustration evident in his voice.*
+
+@char Dorin.Conflicted
+
+Dorin: "We’re running out of time. We need to find something soon."
+
+@if "ScavengeChance = 0"
+@goto .Confrontation
+@else
+@goto .ScavengeChoices
+
+; -- Option 2: Check Back Storage Room --
+# StorageRoom
+
+@set ScavengeChance--
+@set scavCount--
+
+The two decide to check Back Storage Room.
+
+Dorin: "We move to the back. Someone might have overlooked the storage rooms over there."
+
+They push further into the pharmacy, stepping over more shattered glass and broken containers. 
+
+@char Dorin.Conflicted
+
+@char Ardan.Conflicted
+
+As they reach the employee storage room, Dorin cautiously pushes open the door. 
+
+The space is dim, cluttered with empty boxes and broken shelves. 
+
+Ardan spots something beneath the rubble.
+
+@char Ardan.Surprised
+
+Ardan: Dad, over here!
+
+@char Ardan.Default
+
+Dorin crouches beside his son, helping to brush away fragments of glass and debris. 
+
+Among the mess, a small object gleams faintly in the moonlight — a box cutter, its blade dull but intact. 
+
+@char Dorin.Surprised
+@char Ardan.Surprised
+
+Ardan picks it up and inspects it, testing the retractable blade.
+
+@char BoxCutter pos:50,50 scale:0.2
+
+Dorin: It’s not what we need, but it might be useful.
+
+Dorin watches as Ardan pockets the tool, knowing what it means. 
+
+This isn’t just a tool for cutting — it could be a weapon if it came down to it. The weight of that realization hangs between them.
+
+@hide BoxCutter
+
+Ardan wearily looks to his father, his voice low.
+
+@char Ardan.Conflicted
+
+Ardan: Do you think we’ll need to use it?
+
+@char Dorin.Conflicted
+
+Dorin meets his son’s gaze, his expression hardening as he considers the question.
+
+@set G_HasCutters=choice2
+
+Dorin: If we have to. Let’s hope it doesn’t come to that.
+
+@if "ScavengeChance = 0"
+@goto .Confrontation
+@else
+@goto .ScavengeChoices
+
+
+; --Option 3: Check Back Aisles ---
+# BackAisle
+@set ScavengeChance--
+@set scavCount--
+
+The two decide to check Back Aisles of the Pharmacy.
+
+@char Dorin.Conflicted
+
+Dorin: We’ll try the back aisles. Maybe there’s something left behind.
+
+They continue through the pharmacy, moving to the back aisles where a collapsed shelving unit blocks their path. 
+
+@char Dorin.Default
+
+Dorin pauses, noticing a glimpse of red beneath a pile of broken packaging.
+
+@char Dorin.Conflicted
+
+Dorin: Give me a hand.
+
+@char Dorin.Angry
+@char Ardan.Angry
+
+Together, they lift a fallen beam, clearing away the wreckage to reveal a dusty medkit, half-buried under the mess. 
+
+@char Medkit scale:1.5 pos:50,50
+
+@char Dorin.Surprised
+@char Ardan.Surprised
+
+Dorin opens it, revealing gauze, bandages, and a few basic medical tools.
+
+A mix of frustration and relief brims in Dorin's voice as he inspects the contents.
+
+@char Dorin.Sad
+
+Dorin: It’s not what we came for, but we can use this.
+
+@char Ardan.Exhausted
+
+Ardan leans in to look at the contents of the medkit, his expression thoughtful.
+
+Ardan: Maybe we can trade it. Someone else might need it as badly as we need antibiotics.
+
+@char Dorin.Default
+
+Dorin nods, weighing the possibility. It’s not much, but in a world this broken, even bandages could be worth something.
+
+Dorin: Yeah. It could be a bargaining chip.
+
+@hide Medkit
+
+With the medkit in hand, they press on, their search taking on a new urgency. The faint hope of finding something worthwhile pushes them deeper into the pharmacy, but the weight of desperation hangs over every step.
+
+@set G_HasMedkit=choice3
+
+@if "ScavengeChance = 0"
+@goto .Confrontation
+
+@else
+@goto .ScavengeChoices
+@endIf
+; ----------- END SCAVENGING OPPORTUNITIES - PLAYER CHOICES HERE -----------
+
+; ----------- SCAVENGING RESULTS - PLAYER CHOICES FOR CONFRONTATION HERE -----------
+
+# Confrontation
+Suddenly, a loud crash echoes through the pharmacy, shattering the silence. Dorin and Ardan freeze, their eyes meeting in shared alarm.
+Dorin and Ardan move cautiously toward the noise they just heard.
+
+@hide Dorin
+@hide Ardan
+
+@stopBgm Scavenging fade:3
+
+@goto PharmacyPtThree
+
+@stop

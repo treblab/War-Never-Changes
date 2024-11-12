@@ -238,16 +238,19 @@ MonoBehaviour:
       guid: b0ff7bd98f20f034ebed224612fc82dc
     - name: Fight!
       pathPrefix: Audio
-      guid: f680de131827b144489ca9188f2570fd
+      guid: 120aa791e03e79f4cb038929419a88a9
     - name: DistantGunfire
       pathPrefix: Audio
       guid: 3ac3e0fd7c5197246b26a8e5e2bff12f
     - name: Journey2TheZone
       pathPrefix: Audio
       guid: facde5ecfa74dca458f3a74b525228c3
-    - name: Welcome to Hell
+    - name: WelcomeToHell
       pathPrefix: Audio
       guid: 0815471a345b301429e6ae5035b23b4a
+    - name: WelcomeToHellB
+      pathPrefix: Audio
+      guid: a7e47ca8b486dd84798db9aa960eb896
     - name: Incoming
       pathPrefix: Audio
       guid: b16532db6f396074e916b429681e028a
@@ -275,6 +278,9 @@ MonoBehaviour:
     - name: SniperShot
       pathPrefix: Audio
       guid: bd878e123f3a27147bf8415e2b066144
+    - name: Ending
+      pathPrefix: Audio
+      guid: 03c2a6f70fec8b4478c41adc0c948eea
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab

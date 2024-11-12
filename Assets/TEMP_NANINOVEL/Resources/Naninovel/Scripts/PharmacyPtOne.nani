@@ -1,0 +1,141 @@
+# Introduction - At Apartment
+
+@back Apartment
+
+The room is dim, lit only by the faint glow of a cracked window. Mira lies on a makeshift bed, her skin pale and covered in a sheen of sweat. 
+
+Ardan paces near the doorway, glancing between his mother and father. Dorin stands still, his fists clenched, watching Mira's labored breathing. 
+
+The silence is thick, broken only by the distant sounds of war outside.
+
+@char Naya
+@char Naya.Sad
+
+@char Mira
+@char Mira.Exhausted
+
+Naya is whimpering, stroking her mother’s hand.
+
+Naya: Is Mama going to be okay, Dad?
+
+@hide Mira
+
+@char Dorin
+@char Dorin.Sad
+
+Dorin crouches beside Naya, brushing her hair behind her ear gently.
+
+Dorin: We're going to do everything we can, Naya. We just need to find some antibiotics to help her fight off the infection.
+
+Naya’s eyes are wide, searching for reassurance, but Dorin quickly stands before his resolve falters. 
+
+He nods at Ardan, and the two step away from Mira’s bedside to speak in hushed tones.
+
+@hide Naya
+
+@char Dorin.Default
+
+@char Ardan
+@char Ardan.Conflicted
+
+Ardan: She's getting worse, Dad. We need to find those antibiotics fast. 
+
+Dorin: I know. We'll head to the pharmacy tonight. It's risky, but we don't have a choice.
+
+@char Ardan.Angry
+
+Ardan meets his father’s gaze, anger and anxiousness flaring for a moment before he nods. 
+
+@char Ardan.Conflicted
+
+He exhales slowly, trying to calm himself.
+
+Ardan: Yeah. I’m ready.
+
+@hide Ardan
+
+@char Mira
+
+Dorin walks back to Mira, kneeling beside her. Her eyes flutter open, hazy with fever. She struggles to focus on his face.
+
+Mira: Dorin... Ardan... don’t... don’t go...
+
+Dorin takes her hand, squeezing gently.
+
+@char Dorin.Conflicted
+
+Dorin: We have to, Mira. We don’t have a choice.
+
+@char Mira.Depressed
+
+Mira shakes her head weakly.
+
+Mira: It’s too dangerous... I don’t want... to lose you too.
+
+Dorin leans in closer.
+
+@char Dorin.Happy
+
+Dorin: You won’t lose us. I’ll bring back what you need. I swear.
+
+@char Mira.Exhausted
+
+Mira closes her eyes, too weak to argue anymore. Dorin stands, turning to Ardan.
+
+@hide Mira
+
+@char Dorin.Default
+
+@char Ardan
+
+Dorin: Get ready. We leave tonight.
+
+As Ardan heads to gather supplies, Naya steps forward, her voice trembling.
+
+@hide Ardan
+
+@char Naya
+@char Naya.Angry
+
+Naya: Dad, I want to come with you. Please... I can help.
+
+Dorin kneels again, placing a hand on her shoulder.
+
+@char Dorin.Happy
+
+Dorin: Naya, I need you here. Your mother needs you. Stay with her. Keep her strong for us, okay?
+
+@char Naya.Sad
+Naya’s eyes well up, but she nods, swallowing back her fear. She hugs him tightly, and Dorin holds her for a moment longer than usual.
+
+Naya: Come back... Please come back.
+
+@char Dorin.Default
+
+Dorin: I will.
+
+@hide Naya
+
+@char Ardan.Default
+
+He pulls away and glances one last time at Mira. He exchanges a look with Ardan as they both grab their bags. 
+
+The apartment feels colder as they step toward the door.
+
+Ardan: We’ll find it, Dad. We have to.
+
+Dorin grimly nods.
+
+Dorin: We will.
+
+@hide Dorin
+@hide Ardan
+@back RouteToPharmacy
+
+@stopBgm PharmacyBGM fade:5
+
+The door creaks as it shuts behind them, leaving behind the family, the uncertainty, and the suffocating weight of what they’re fighting to hold onto. They step out into the night, the city’s shadows swallowing them whole.
+
+@goto PharmacyPtTwo
+
+@stop

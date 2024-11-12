@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd7a378-9373-40fa-83fa-53b743b40620" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Saves/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Saves/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/EditorResources.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/EditorResources.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Saves/GameQuickSave001.nson" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Saves/GameQuickSave001.nson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Saves/GlobalSave.nson" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Saves/GlobalSave.nson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BadEnding.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BadEnding.nani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DeathSceanrioPt3.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DeathSceanrioPt3.nani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DeathScenarioPt2.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DeathScenarioPt2.nani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PharmacyEnd.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PharmacyEnd.nani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PharmacyPtThree.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PharmacyPtThree.nani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SanctuaryScene.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SanctuaryScene.nani" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +99,7 @@
       <workItem from="1727937941995" duration="15000" />
       <workItem from="1728133874373" duration="1228000" />
       <workItem from="1731126254007" duration="3502000" />
-      <workItem from="1731407298107" duration="1869000" />
+      <workItem from="1731407298107" duration="579000" />
     </task>
     <servers />
   </component>
