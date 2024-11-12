@@ -173,6 +173,7 @@ Dorin: "We need to keep moving. It’s too dangerous here."
 
 ; Scene End
 # endScene
+@back Apartment
 @char Ardan
 @char Ardan.Depressed
 @print "You arrive home without thinking of the world around you, everything feels heavy"

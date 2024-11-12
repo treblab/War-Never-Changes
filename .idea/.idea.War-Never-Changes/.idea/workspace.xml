@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd7a378-9373-40fa-83fa-53b743b40620" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.War-Never-Changes/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.War-Never-Changes/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.War-Never-Changes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.War-Never-Changes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Backgrounds/Pharmacy/Pharmacy.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Backgrounds/Pharmacy/Pharmacy.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Resources/Naninovel/Configuration/ScriptsConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Resources/Naninovel/Configuration/ScriptsConfiguration.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BG.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BG.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DeathSceanrioPt3.nani" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DeathSceanrioPt3.nani" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NaninovelData/Saves/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NaninovelData/Saves/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +90,7 @@
       <workItem from="1727937941995" duration="15000" />
       <workItem from="1728133874373" duration="1228000" />
       <workItem from="1731126254007" duration="3502000" />
-      <workItem from="1731407298107" duration="983000" />
+      <workItem from="1731407298107" duration="1869000" />
     </task>
     <servers />
   </component>
