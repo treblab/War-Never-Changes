@@ -260,6 +260,15 @@ MonoBehaviour:
     - name: Hopeful
       pathPrefix: Audio
       guid: 209605c2a5c0c4b4bb75f1d334509b2c
+    - name: punch1
+      pathPrefix: Audio
+      guid: c923c8a421492f9498ef6c986d5be82c
+    - name: punch2
+      pathPrefix: Audio
+      guid: b88ac7ceeb8a4fe4c84658a260440286
+    - name: punch3
+      pathPrefix: Audio
+      guid: 280761e618bcbe4429bef9a0898b6e37
   - Id: Characters/69177698-cfe4-4ca3-900d-fe4de44b2c3c
     Resources:
     - name: Assets/DenysAlmaral/CityPeopleLite/Prefabs/casual_Male_G.prefab
@@ -300,10 +309,10 @@ MonoBehaviour:
       guid: bdc51fca75240e94ead777bf17a0dbfb
     - name: Pharmacy
       pathPrefix: Backgrounds/MainBackground
-      guid: e0b93c5a2b889dd429e65b8e9dab3965
+      guid: 9cd1ad972ec84544ba8581f99a7fa487
     - name: PharmacyBackRoom
       pathPrefix: Backgrounds/MainBackground
-      guid: c3921d1db27cbaf46b1cc0337a59927c
+      guid: e0b93c5a2b889dd429e65b8e9dab3965
     - name: CityRuins
       pathPrefix: Backgrounds/MainBackground
       guid: 4bc1b0320f03c70499e0b4898ccf887c
